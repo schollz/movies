@@ -1,37 +1,35 @@
-# Jekyll-Bootstrap-3
+# IMDB/RT Scraper
 
-Easily publish Bootstrap 3 powered Jekyll sites.  
-Fork of the well known jekyll-bootstrap (v0.3.0). Original project is [here](https://github.com/plusjade/jekyll-bootstrap).  
-The quickest way to start and publish your Jekyll powered blog. 100% compatible with GitHub pages.  
+The purpose of this program is to download the most recent data from IMDB (which is freely available) and RottenTomatoes.com (which needs to be scraped).
 
-## Usage
+These scripts are simple to use.
 
-### 1. Create a Repo
-- Go to <https://github.com> and create a new repository named *USERNAME.github.io*  
+First make sure you have no ```movies.db``` file, to begin with.
 
-### 2. Install Jekyll-Bootstrap-3  
-<pre>
-  <code>
-    $ git clone https://github.com/dbtek/jekyll-bootstrap-3 USERNAME.github.io
-    $ cd USERNAME.github.com
-    $ git remote set-url origin git@github.com:USERNAME/USERNAME.github.io.git
-    $ git push origin master  
-  </code>
-</pre>  
-### 3. Enjoy !
-- After giving 10 mins to GitHub of course.  
+Then run:
 
-For original project's usage and documentation please see: <http://jekyllbootstrap.com>  
+```python dumpIMDB.py```
 
+This script will download the latest ratings archive via FTP, unzip them, process them (to remove TV shows and non-English titles) and then add the relevant information into the database under the ```imdb``` table. This script also generates a list of all the movies it found ```imdb_movies.list``` which is now going to be used to seed the search for movies on the RT website.
 
-### Themes
+Then configure ```rt_server.py``` to use the computers you need, and then run.
 
-Quickly install and use lovely themes with Jekyll Bootstrap 3. Visit [theme gallery](http://jekyllbootstrap3.tk/preview/).
+## Depreciated
 
-## License
+Once the IMDB dump is complete, you can start the RT scrape. The basic command is:
 
-[MIT](http://opensource.org/licenses/MIT)
+```python dumpRT.py START_INDEX NUM_THREADS THREAD_NUM```
 
+where ```START_INDEX``` is what line in the ```imdb_movies.list``` file you want to start from, ```NUM_THREADS``` defines the number that you want to skip, and ```THREAD_NUM``` is the modulus (should be between 0 and ```NUM_THREADS-1```). The most useful way to run this program is to run several processes at once, such as:
 
-[![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/dbtek/jekyll-bootstrap-3/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
+```(nohup python dumpRT.py 0 8 0 &) && (nohup python dumpRT.py 0 8 1 &) && (nohup python dumpRT.py 0 8 2 &) && (nohup python dumpRT.py 0 8 3 &) && (nohup python dumpRT.py 0 8 4 &) && (nohup python dumpRT.py 0 8 5 &) && (nohup python dumpRT.py 0 8 6 &) && (nohup python dumpRT.py 0 8 7 &)```
 
+Any errors will be written to the log files generated. Check those errors - if they are very frequent then it is possible that RT changed its HTML layout and you may have to go into the code to fix those things.
+
+Once that script is done, then you can open Matlab to generate the relevant information and plots by running ```matlab_analysis.m```.
+
+That's it!
+
+## NOTE
+
+The IMDB and RT is **not** free to use. IMDB specifies that their data may be used as long as it is not posted on a forum and only used for academic purposes. Likely RT has similar stipulations.
