@@ -97,7 +97,7 @@ JB :
   analytics :
     provider : google
     google :
-        tracking_id : 'UA-***'
+        tracking_id : 'UA-2345677-6'
     googleUA :
         tracking_id : 'UA-***'
         property_name : 'PROPERTY NAME'
