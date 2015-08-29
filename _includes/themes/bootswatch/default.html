@@ -46,6 +46,7 @@
             <li><a href="critics_overrate.html">Critically overrated</a></li>
             <li><a href="critics_underrate.html">Critically underrated</a></li>
             <li><a href="imdb_hates_rt_loves.html">RT overrated</a></li>
+            <li><a href="analysis.html">Analysis</a></li>
             <!--{% assign pages_list = site.pages %}
             {% assign group = 'navigation' %}
             {% include JB/pages_list %}-->
@@ -70,7 +71,8 @@
 
     {% include JB/analytics %}
     <script src="https://code.jquery.com/jquery-2.1.4.min.js"></script>
-    <script src="assets/jquery.peity.js"> </script>
+    <script src="assets/js/jquery.peity.js"> </script>
+    <script src="assets/js/jquery.lazyload.js"> </script>
 
     <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/js/bootstrap.min.js"></script>
     <script>
@@ -79,6 +81,9 @@ $(".bar").peity("bar", {
   height: 50,
   width: 30
 })
+$(function() {
+    $("img.lazy").lazyload();
+});
 </script>
   </body>
 </html>
