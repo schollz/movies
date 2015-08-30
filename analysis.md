@@ -5,19 +5,19 @@ title: Analysis
 {% include JB/setup %}
 
 
-<style>
-.someclass{
-    display: none;
-}
-
-@media (max-width: 992px) {
-   .someclass{
-      display: normal!important;
-   }
-}
-</style>
-<div class="someclass">
+<div class="row">
+<div class="hidden-md-12">
 xs
+</div>
+<div class="hidden-lg-12">
+xs
+</div>
+<div class="hidden-sm-12">
+xs
+</div>
+<div class="hidden-xs-12">
+xs
+</div>
 </div>
 
 <div class="row">
