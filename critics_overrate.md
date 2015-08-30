@@ -271,13 +271,6 @@ title: Critically overrated
 <div class="col-xs-3"><br><br><img width=100% class="lazy" data-original="http://resizing.flixster.com/r5XCD_DBT9J4Eeyp1g-EDL2UH44=/800x1200/dkpu1ddg7pbsk.cloudfront.net/movie/11/17/04/11170473_ori.jpg"></div></div></div>
 </div><div class="row">
 <div class="col-xs-12 col-md-6"><div class="row"><div class="col-xs-9">
-<h3><a href='http://www.rottentomatoes.com/m/the_intouchables/'>The Intouchables (2012)</a>&nbsp;<span class="bar">100,98,61,100</span></h3><p><code>IMDB: 8.6, RT Aud: 93&#37;, RT Critics: 74&#37;</code></p><p class="lead">It handles its potentially prickly subject matter with kid gloves, but Intouchables gets by thanks to its strong cast and some remarkably sensitive direction.</p></div>
-<div class="col-xs-3"><br><br><img width=100% class="lazy" data-original="http://resizing.flixster.com/2s0LRaxBPmGiCU3u0vbnRHu72Bk=/800x1200/dkpu1ddg7pbsk.cloudfront.net/movie/11/16/91/11169183_ori.jpg"></div></div></div>
-<div class="col-xs-12 col-md-6"><div class="row"><div class="col-xs-9">
-<h3><a href='http://www.rottentomatoes.com/m/hello_i_must_be_going_2012/'>Hello I Must Be Going (2012)</a>&nbsp;<span class="bar">38,37,61,100</span></h3><p><code>IMDB: 6.2, RT Aud: 54&#37;, RT Critics: 74&#37;</code></p><p class="lead">No consensus yet.</p></div>
-<div class="col-xs-3"><br><br><img width=100% class="lazy" data-original="http://resizing.flixster.com/cJas2IsxgOGX9xaCas4PDhXWy04=/800x1165/dkpu1ddg7pbsk.cloudfront.net/movie/11/16/58/11165808_ori.jpg"></div></div></div>
-</div><div class="row">
-<div class="col-xs-12 col-md-6"><div class="row"><div class="col-xs-9">
 <h3><a href='http://www.rottentomatoes.com/m/greenberg/'>Greenberg (2010)</a>&nbsp;<span class="bar">35,21,61,100</span></h3><p><code>IMDB: 6.1, RT Aud: 42&#37;, RT Critics: 74&#37;</code></p><p class="lead">Greenberg's title character is harder to like than most, but Ben Stiller's nuanced performance and a darkly funny script help take the misanthropic edge off.</p></div>
 <div class="col-xs-3"><br><br><img width=100% class="lazy" data-original="http://resizing.flixster.com/5otYXr0s2Yxanzx_Gc8G6UKbEx8=/446x660/dkpu1ddg7pbsk.cloudfront.net/movie/10/92/74/10927490_ori.jpg"></div></div></div>
 <div class="col-xs-12 col-md-6"><div class="row"><div class="col-xs-9">
