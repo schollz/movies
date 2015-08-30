@@ -2,7 +2,9 @@
 layout: page
 title: Great, but mostly unknown, movies
 ---
-<p class="lead">These are movies that have fewer than 5,000 votes by audience members, but at least 25 votes from critics. These movies are then filtered so that only the ones that have at least 85 percent of critics enjoying the movie are shown.<div class="row">
+<p class="lead">These are movies that have fewer than 5,000 votes by audience members, but at least 25 votes from critics. These movies are then filtered so that only the ones that have at least 85 percent of critics enjoying the movie are shown.</p>
+<h3>As you'll notice a lot of the following recommendations are documentaries and art house films. If you'd like to read a list that excludes these genres, check out the <a href="unknown_documentaryfiltered.html">filtered great unknown list.</a></h3>
+<div class="row">
 <div class="col-xs-12 col-md-6"><div class="row"><div class="col-xs-9">
 <h3><a href='http://www.rottentomatoes.com/m/wake_in_fright/'>Wake in Fright (2012)</a></h3><p><code>100&#37; of critics love it, but only 2,913 people have rated it.</code></p><p class="lead">A disquieting classic of Australian cinema, Wake in Fright surveys a landscape both sun-drenched and ruthlessly dark.</p></div>
 <div class="col-xs-3"><br><br><img width=100% class="lazy" data-original="http://resizing.flixster.com/u0nKb6tDamBpJFidRsKE-b9i1U4=/800x1158/dkpu1ddg7pbsk.cloudfront.net/movie/11/16/67/11166708_ori.jpg"></div></div></div>
