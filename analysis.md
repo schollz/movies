@@ -4,18 +4,7 @@ title: Analysis
 ---
 {% include JB/setup %}
 
-1
-<div class="row">
-<div class="col-lg-12 visible-lg">
-lg
-</div>
-<div class="col-md-12 visible-md">
-md
-</div>
-<div class="col-xs-12 visible-xs">
-xs
-</div>
-</div>
+
 
 <div class="row">
 <div class="col-md-4">
