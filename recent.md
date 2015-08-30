@@ -5,13 +5,6 @@ title: Great recent movies
 <p class="lead">Not all films are movies and not all movies are films. This list is a list of the best movies in the last three years. They are sorted from best to worst, though all of them share extraordinary qualities in film making.</p>
 <div class="row">
 <div class="col-xs-12 col-md-6"><div class="row"><div class="col-xs-9">
-<h3><a href='http://www.rottentomatoes.com/m/stop_making_sense/'>Stop Making Sense (2014)</a>&nbsp;<span class="bar">99,100,92,100</span></h3><p><code>IMDB: 8.4, RT Aud: 98&#37;, RT Critics: 96&#37;</code></p><p class="lead">No consensus yet.</p></div>
-<div class="col-xs-3"><br><br><img width=100% class="lazy" data-original="http://resizing.flixster.com/-4oFRPHGanV6bstI8UMCNUKDq6I=/110x150/dkpu1ddg7pbsk.cloudfront.net/movie/10/91/02/10910247_ori.jpg"></div></div></div>
-<div class="col-xs-12 col-md-6"><div class="row"><div class="col-xs-9">
-<h3><a href='http://www.rottentomatoes.com/m/virunga/'>Virunga (2014)</a>&nbsp;<span class="bar">99,98,100,100</span></h3><p><code>IMDB: 8.3, RT Aud: 93&#37;, RT Critics: 100&#37;</code></p><p class="lead">No consensus yet.</p></div>
-<div class="col-xs-3"><br><br><img width=100% class="lazy" data-original="http://resizing.flixster.com/n4KjFsNyI5psuyiba6xhfH39zU0=/284x405/dkpu1ddg7pbsk.cloudfront.net/movie/11/18/12/11181273_ori.jpg"></div></div></div>
-</div><div class="row">
-<div class="col-xs-12 col-md-6"><div class="row"><div class="col-xs-9">
 <h3><a href='http://www.rottentomatoes.com/m/whiplash_2014/'>Whiplash (2014)</a>&nbsp;<span class="bar">100,99,90,100</span></h3><p><code>IMDB: 8.6, RT Aud: 95&#37;, RT Critics: 94&#37;</code></p><p class="lead">Intense, inspiring, and well-acted, Whiplash is a brilliant sophomore effort from director Damien Chazelle and a riveting vehicle for stars J.K. Simmons and Miles Teller.</p></div>
 <div class="col-xs-3"><br><br><img width=100% class="lazy" data-original="http://resizing.flixster.com/WWh3EuN9tSc9AxetxFbvDtfb0QA=/800x1185/dkpu1ddg7pbsk.cloudfront.net/movie/11/18/01/11180104_ori.jpg"></div></div></div>
 <div class="col-xs-12 col-md-6"><div class="row"><div class="col-xs-9">
