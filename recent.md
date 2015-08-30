@@ -402,7 +402,49 @@ title: Great recent movies
 <div class="col-xs-12 col-md-6"><div class="row"><div class="col-xs-9">
 <h3><a href='http://www.rottentomatoes.com/m/blancanieves/'>Blancanieves (2013)</a>&nbsp;<span class="bar">87,85,90,100</span></h3><p><code>IMDB: 7.5, RT Aud: 83&#37;, RT Critics: 94&#37;</code></p><p class="lead">Smartly written and beautiful to behold, Blancanieves uses its classic source material to offer a dark tale, delightfully told.</p></div>
 <div class="col-xs-3"><br><br><img width=100% class="lazy" data-original="http://resizing.flixster.com/ZEQt3BdeAX3fWz_2pbuEI_K4I7A=/529x755/dkpu1ddg7pbsk.cloudfront.net/movie/11/16/76/11167606_ori.jpg"></div></div></div>
-</div><div class="row">
+</div>
+
+
+
+
+<center>
+<div class="row">
+<div class="col-lg-12 visible-lg visible-md">
+<script type="text/javascript" language="javascript">
+  amzn_assoc_ad_type = "contextual";
+  amzn_assoc_tracking_id = "techblogandli-20";
+  amzn_assoc_marketplace = "amazon";
+  amzn_assoc_region = "US";
+  amzn_assoc_placement = "GWFNSKU4CUZ5MEF5";
+  amzn_assoc_linkid = "GWFNSKU4CUZ5MEF5";
+  amzn_assoc_emphasize_categories = "130";
+  amzn_assoc_fallback_products = "";
+  amzn_assoc_width = "728";
+  amzn_assoc_height = "90";
+</script>
+<script type="text/javascript" language="javascript" src="//z-na.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&Operation=GetScript&ID=OneJS&WS=1&MarketPlace=US&source=ac"></script>
+
+</div>
+<div class="col-sm-12 visible-sm  visible-xs">
+<script type="text/javascript" language="javascript">
+  amzn_assoc_ad_type = "contextual";
+  amzn_assoc_tracking_id = "techblogandli-20";
+  amzn_assoc_marketplace = "amazon";
+  amzn_assoc_region = "US";
+  amzn_assoc_placement = "GWFNSKU4CUZ5MEF5";
+  amzn_assoc_linkid = "GWFNSKU4CUZ5MEF5";
+  amzn_assoc_emphasize_categories = "130";
+  amzn_assoc_fallback_products = "";
+  amzn_assoc_width = "300";
+  amzn_assoc_height = "250";
+</script>
+<script type="text/javascript" language="javascript" src="//z-na.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&Operation=GetScript&ID=OneJS&WS=1&MarketPlace=US&source=ac"></script>
+
+</div>
+</div>
+</center>
+
+<div class="row">
 <div class="col-xs-12 col-md-6"><div class="row"><div class="col-xs-9">
 <h3><a href='http://www.rottentomatoes.com/m/elaine_stritch_shoot_me_2013/'>Elaine Stritch: Shoot Me (2014)</a>&nbsp;<span class="bar">87,81,93,100</span></h3><p><code>IMDB: 7.5, RT Aud: 81&#37;, RT Critics: 98&#37;</code></p><p class="lead">Brutally honest and utterly compelling, Elaine Stritch: Shoot Me offers a riveting, vanity-free portrait of its legendary subject while offering a few essential truths about the human condition.</p></div>
 <div class="col-xs-3"><br><br><img width=100% class="lazy" data-original="http://resizing.flixster.com/X8LIziPDama8WCCdgBqRS5ZwUC4=/800x1185/dkpu1ddg7pbsk.cloudfront.net/movie/11/17/44/11174402_ori.jpg"></div></div></div>
@@ -738,7 +780,29 @@ title: Great recent movies
 <div class="col-xs-12 col-md-6"><div class="row"><div class="col-xs-9">
 <h3><a href='http://www.rottentomatoes.com/m/a_most_violent_year/'>A Most Violent Year (2015)</a>&nbsp;<span class="bar">73,59,85,100</span></h3><p><code>IMDB: 7.1, RT Aud: 69&#37;, RT Critics: 90&#37;</code></p><p class="lead">Gritty, gripping, and weighted with thought-provoking heft, A Most Violent Year represents another strong entry in writer-director J.C. Chandor's impressive filmography.</p></div>
 <div class="col-xs-3"><br><br><img width=100% class="lazy" data-original="http://resizing.flixster.com/Smu2hNrBE1Op5Ctm_AIzD5Xwau8=/800x1185/dkpu1ddg7pbsk.cloudfront.net/movie/11/18/90/11189069_ori.jpg"></div></div></div>
-</div><div class="row">
+</div>
+
+
+
+<center>
+<div class="row">
+<div class="col-lg-12 visible-lg visible-md">
+<iframe src="http://rcm-na.amazon-adsystem.com/e/cm?t=techblogandli-20&o=1&p=48&l=ur1&category=dvd&banner=1FPD5WCC2MS0HE348382&f=ifr&linkID=V73BN5UOCWADNOL3" width="728" height="90" scrolling="no" border="0" marginwidth="0" style="border:none;" frameborder="0"></iframe>
+
+<script type="text/javascript" language="javascript" src="//z-na.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&Operation=GetScript&ID=OneJS&WS=1&MarketPlace=US&source=ac"></script>
+
+</div>
+<div class="col-sm-12 visible-sm visible-xs">
+<iframe src="http://rcm-na.amazon-adsystem.com/e/cm?t=techblogandli-20&o=1&p=12&l=ur1&category=dvd&banner=14P4X3647W5MZMZWK582&f=ifr&linkID=GUAOONZI4TUKQY2F" width="300" height="250" scrolling="no" border="0" marginwidth="0" style="border:none;" frameborder="0"></iframe>
+
+<script type="text/javascript" language="javascript" src="//z-na.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&Operation=GetScript&ID=OneJS&WS=1&MarketPlace=US&source=ac"></script>
+
+</div>
+</div>
+</center>
+
+
+<div class="row">
 <div class="col-xs-12 col-md-6"><div class="row"><div class="col-xs-9">
 <h3><a href='http://www.rottentomatoes.com/m/black_souls_2015/'>Black Souls (2015)</a>&nbsp;<span class="bar">73,65,93,100</span></h3><p><code>IMDB: 7.1, RT Aud: 72&#37;, RT Critics: 97&#37;</code></p><p class="lead">No consensus yet.</p></div>
 <div class="col-xs-3"><br><br><img width=100% class="lazy" data-original="http://resizing.flixster.com/3bgBy7WOaAXSVbzHMlUvgWisx1Q=/600x889/dkpu1ddg7pbsk.cloudfront.net/movie/11/19/07/11190734_ori.jpg"></div></div></div>
