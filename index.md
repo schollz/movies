@@ -57,6 +57,20 @@ title: Movie lists
 </div>
 
 <div class="col-md-4 portfolio-item">
+<a href="worst.html">
+<img class="img-responsive" src="http://joelcomm.com/wp-content/uploads/2015/05/dislike.jpg" height=200px>
+</a>
+<h3>
+<a href="worst.html">The worst</a>
+</h3>
+<p>This is a list of movies that a lot of people have seen, but almost all critics and audiences agree that these movies are awful.</p>
+</div>
+
+</div>
+
+<!-- Projects Row -->
+<div class="row">
+<div class="col-md-4 portfolio-item">
 <a href="analysis.html">
 <img class="img-responsive" src="http://www.dgould.ca/wp-content/uploads/2013/05/Analysis.jpg" height=200px>
 </a>
@@ -65,5 +79,8 @@ title: Movie lists
 </h3>
 <p>Very basic analysis and plots generated from the comparisons.</p>
 </div>
+
+
+
 
 </div>
