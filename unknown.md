@@ -80,7 +80,26 @@ title: Great, but mostly unknown, movies
 <div class="col-xs-12 col-md-6"><div class="row"><div class="col-xs-9">
 <h3><a href='http://www.rottentomatoes.com/m/phil_ochs_there_but_for_fortune/'>Phil Ochs: There But For Fortune (2011)</a></h3><p><code>97&#37; of critics love it, but only 1,813 people have rated it.</code></p><p class="lead">No consensus yet.</p></div>
 <div class="col-xs-3"><br><br><img width=100% class="lazy" data-original="http://d3biamo577v4eu.cloudfront.net/static/images/redesign/poster_default_large.jpg"></div></div></div>
-</div><div class="row">
+</div>
+
+<center>
+<div class="row">
+<div class="col-lg-12 visible-lg visible-md">
+<iframe src="http://rcm-na.amazon-adsystem.com/e/cm?t=techblogandli-20&o=1&p=48&l=ur1&category=musicandentertainmentrot&f=ifr&linkID=Q2UKCBH2NQB7PJWJ" width="728" height="90" scrolling="no" border="0" marginwidth="0" style="border:none;" frameborder="0"></iframe>
+
+
+
+</div>
+<div class="col-sm-12 visible-sm visible-xs">
+<iframe src="http://rcm-na.amazon-adsystem.com/e/cm?t=techblogandli-20&o=1&p=12&l=ur1&category=musicandentertainmentrot&f=ifr&linkID=32GFT4RW5USFC6L4" width="300" height="250" scrolling="no" border="0" marginwidth="0" style="border:none;" frameborder="0"></iframe>
+
+
+
+</div>
+</div>
+</center>
+
+<div class="row">
 <div class="col-xs-12 col-md-6"><div class="row"><div class="col-xs-9">
 <h3><a href='http://www.rottentomatoes.com/m/mugabe-and-the-white-african/'>Mugabe and the White African (2010)</a></h3><p><code>97&#37; of critics love it, but only 963 people have rated it.</code></p><p class="lead">As much legal thriller as objective documentary, this account of a farmer's battle with Zimbabwe's regime serves as a powerful and emotional attack upon President Mugabe.</p></div>
 <div class="col-xs-3"><br><br><img width=100% class="lazy" data-original="http://resizing.flixster.com/wS94Qs4BsxO7qjD5iyTutGai8RM=/110x150/dkpu1ddg7pbsk.cloudfront.net/movie/10/92/77/10927758_ori.jpg"></div></div></div>
@@ -220,7 +239,27 @@ title: Great, but mostly unknown, movies
 <div class="col-xs-12 col-md-6"><div class="row"><div class="col-xs-9">
 <h3><a href='http://www.rottentomatoes.com/m/electric_boogaloo_the_wild_untold_story_of_cannon_films/'>Electric Boogaloo: The Wild, Untold Story of Cannon Films (2012)</a></h3><p><code>94&#37; of critics love it, but only 259 people have rated it.</code></p><p class="lead">Electric Boogaloo: The Wild, Untold Story of Cannon Films pays tribute to the titular studio with an affectionate look back that's arguably more entertaining than much of Cannon's own B-movie product.</p></div>
 <div class="col-xs-3"><br><br><img width=100% class="lazy" data-original="http://resizing.flixster.com/soNVj5aRVtPvgctb181sFL2cUQM=/284x405/dkpu1ddg7pbsk.cloudfront.net/movie/11/18/87/11188739_ori.jpg"></div></div></div>
-</div><div class="row">
+</div>
+
+
+<center>
+<div class="row">
+<div class="col-lg-12 visible-lg visible-md">
+<iframe src="http://rcm-na.amazon-adsystem.com/e/cm?t=techblogandli-20&o=1&p=48&l=ur1&category=musicandentertainmentrot&f=ifr&linkID=Q2UKCBH2NQB7PJWJ" width="728" height="90" scrolling="no" border="0" marginwidth="0" style="border:none;" frameborder="0"></iframe>
+
+
+
+</div>
+<div class="col-sm-12 visible-sm visible-xs">
+<iframe src="http://rcm-na.amazon-adsystem.com/e/cm?t=techblogandli-20&o=1&p=12&l=ur1&category=musicandentertainmentrot&f=ifr&linkID=32GFT4RW5USFC6L4" width="300" height="250" scrolling="no" border="0" marginwidth="0" style="border:none;" frameborder="0"></iframe>
+
+
+
+</div>
+</div>
+</center>
+
+<div class="row">
 <div class="col-xs-12 col-md-6"><div class="row"><div class="col-xs-9">
 <h3><a href='http://www.rottentomatoes.com/m/after_tiller_2013/'>After Tiller (2013)</a></h3><p><code>94&#37; of critics love it, but only 838 people have rated it.</code></p><p class="lead">After Tiller applies empathy, honesty, and graceful understatement to a discussion that all too often lacks them all.</p></div>
 <div class="col-xs-3"><br><br><img width=100% class="lazy" data-original="http://resizing.flixster.com/7SECPj7ajQUccNbdQeFoQQ1hayU=/640x931/dkpu1ddg7pbsk.cloudfront.net/movie/11/17/30/11173091_ori.jpg"></div></div></div>
@@ -332,7 +371,29 @@ title: Great, but mostly unknown, movies
 <div class="col-xs-12 col-md-6"><div class="row"><div class="col-xs-9">
 <h3><a href='http://www.rottentomatoes.com/m/10009419-mommas_man/'>Momma's Man (2008)</a></h3><p><code>91&#37; of critics love it, but only 1,937 people have rated it.</code></p><p class="lead">Moody yet touching, Momma's Man successfully illustrates with elegant simplicity the struggles of a man consumed with his adolescence.</p></div>
 <div class="col-xs-3"><br><br><img width=100% class="lazy" data-original="http://resizing.flixster.com/I7pEUc6Lw0osSUAB8bC1wWWxSw0=/510x755/dkpu1ddg7pbsk.cloudfront.net/movie/11/16/93/11169398_ori.jpg"></div></div></div>
-</div><div class="row">
+</div>
+
+
+<center>
+<div class="row">
+<div class="col-lg-12 visible-lg visible-md">
+<iframe src="http://rcm-na.amazon-adsystem.com/e/cm?t=techblogandli-20&o=1&p=48&l=ur1&category=musicandentertainmentrot&f=ifr&linkID=Q2UKCBH2NQB7PJWJ" width="728" height="90" scrolling="no" border="0" marginwidth="0" style="border:none;" frameborder="0"></iframe>
+
+
+
+</div>
+<div class="col-sm-12 visible-sm visible-xs">
+<iframe src="http://rcm-na.amazon-adsystem.com/e/cm?t=techblogandli-20&o=1&p=12&l=ur1&category=musicandentertainmentrot&f=ifr&linkID=32GFT4RW5USFC6L4" width="300" height="250" scrolling="no" border="0" marginwidth="0" style="border:none;" frameborder="0"></iframe>
+
+
+
+</div>
+</div>
+</center>
+
+
+
+<div class="row">
 <div class="col-xs-12 col-md-6"><div class="row"><div class="col-xs-9">
 <h3><a href='http://www.rottentomatoes.com/m/mistaken_for_strangers/'>Mistaken for Strangers (2014)</a></h3><p><code>91&#37; of critics love it, but only 2,688 people have rated it.</code></p><p class="lead">A suitably complicated look at fraternal bonds, Mistaken for Strangers offers more depth and insight than the usual tour documentary.</p></div>
 <div class="col-xs-3"><br><br><img width=100% class="lazy" data-original="http://resizing.flixster.com/7buUugYbjaNy6Rob0Ug0VNzC4b8=/800x1200/dkpu1ddg7pbsk.cloudfront.net/movie/11/17/61/11176131_ori.png"></div></div></div>
@@ -500,7 +561,28 @@ title: Great, but mostly unknown, movies
 <div class="col-xs-12 col-md-6"><div class="row"><div class="col-xs-9">
 <h3><a href='http://www.rottentomatoes.com/m/the_real_dirt_on_farmer_john_2007/'>The Real Dirt on Farmer John (2007)</a></h3><p><code>87&#37; of critics love it, but only 1,487 people have rated it.</code></p><p class="lead">Ostensibly a bio about an eccentric farmer, The Real Dirt on Farmer John also doubles as a stirring exploration of man's common struggle with loss and prejudice.</p></div>
 <div class="col-xs-3"><br><br><img width=100% class="lazy" data-original="http://resizing.flixster.com/-EjJr50-F1Eb4G9s8hpmRy1f9hM=/110x150/dkpu1ddg7pbsk.cloudfront.net/movie/10/89/77/10897764_ori.jpg"></div></div></div>
-</div><div class="row">
+</div>
+
+
+<center>
+<div class="row">
+<div class="col-lg-12 visible-lg visible-md">
+<iframe src="http://rcm-na.amazon-adsystem.com/e/cm?t=techblogandli-20&o=1&p=48&l=ur1&category=musicandentertainmentrot&f=ifr&linkID=Q2UKCBH2NQB7PJWJ" width="728" height="90" scrolling="no" border="0" marginwidth="0" style="border:none;" frameborder="0"></iframe>
+
+
+
+</div>
+<div class="col-sm-12 visible-sm visible-xs">
+<iframe src="http://rcm-na.amazon-adsystem.com/e/cm?t=techblogandli-20&o=1&p=12&l=ur1&category=musicandentertainmentrot&f=ifr&linkID=32GFT4RW5USFC6L4" width="300" height="250" scrolling="no" border="0" marginwidth="0" style="border:none;" frameborder="0"></iframe>
+
+
+
+</div>
+</div>
+</center>
+
+
+<div class="row">
 <div class="col-xs-12 col-md-6"><div class="row"><div class="col-xs-9">
 <h3><a href='http://www.rottentomatoes.com/m/the_other_dream_team_2012/'>The Other Dream Team (2012)</a></h3><p><code>87&#37; of critics love it, but only 1,790 people have rated it.</code></p><p class="lead">No consensus yet.</p></div>
 <div class="col-xs-3"><br><br><img width=100% class="lazy" data-original="http://resizing.flixster.com/DguAr1SXbqhHSHxhRPFeJBqEs2s=/375x500/dkpu1ddg7pbsk.cloudfront.net/movie/11/16/86/11168631_ori.jpg"></div></div></div>
