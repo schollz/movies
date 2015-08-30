@@ -267,7 +267,29 @@ title: Great recent movies
 <div class="col-xs-12 col-md-6"><div class="row"><div class="col-xs-9">
 <h3><a href='http://www.rottentomatoes.com/m/dawn_of_the_planet_of_the_apes/'>Dawn Of The Planet Of The Apes (2014)</a>&nbsp;<span class="bar">92,93,83,100</span></h3><p><code>IMDB: 7.7, RT Aud: 88&#37;, RT Critics: 89&#37;</code></p><p class="lead">With intelligence and emotional resonance to match its stunning special effects, Dawn of the Planet of the Apes expands on its predecessor with an exciting and ambitious burst of sci-fi achievement.</p></div>
 <div class="col-xs-3"><br><br><img width=100% class="lazy" data-original="http://resizing.flixster.com/hsT-WUPp88MK7fHiX9JUcLbQ6wo=/800x1200/dkpu1ddg7pbsk.cloudfront.net/movie/11/18/91/11189194_ori.jpg"></div></div></div>
-</div><div class="row">
+</div>
+
+
+<center>
+<div class="row">
+<div class="col-lg-12 visible-lg visible-md">
+<iframe src="http://rcm-na.amazon-adsystem.com/e/cm?t=techblogandli-20&o=1&p=48&l=ur1&category=musicandentertainmentrot&f=ifr&linkID=Q2UKCBH2NQB7PJWJ" width="728" height="90" scrolling="no" border="0" marginwidth="0" style="border:none;" frameborder="0"></iframe>
+
+
+
+</div>
+<div class="col-sm-12 visible-sm visible-xs">
+<iframe src="http://rcm-na.amazon-adsystem.com/e/cm?t=techblogandli-20&o=1&p=12&l=ur1&category=musicandentertainmentrot&f=ifr&linkID=32GFT4RW5USFC6L4" width="300" height="250" scrolling="no" border="0" marginwidth="0" style="border:none;" frameborder="0"></iframe>
+
+
+
+</div>
+</div>
+</center>
+
+
+
+<div class="row">
 <div class="col-xs-12 col-md-6"><div class="row"><div class="col-xs-9">
 <h3><a href='http://www.rottentomatoes.com/m/mccullin/'>McCullin (2013)</a>&nbsp;<span class="bar">98,97,100,100</span></h3><p><code>IMDB: 8.1, RT Aud: 91&#37;, RT Critics: 100&#37;</code></p><p class="lead">No consensus yet.</p></div>
 <div class="col-xs-3"><br><br><img width=100% class="lazy" data-original="http://d3biamo577v4eu.cloudfront.net/static/images/redesign/poster_default_large.jpg"></div></div></div>
