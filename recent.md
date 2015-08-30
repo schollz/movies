@@ -24,7 +24,27 @@ title: Great recent movies
 <div class="col-xs-12 col-md-6"><div class="row"><div class="col-xs-9">
 <h3><a href='http://www.rottentomatoes.com/m/inside_out_2015/'>Inside Out (2015)</a>&nbsp;<span class="bar">97,96,93,100</span></h3><p><code>IMDB: 8.0, RT Aud: 90&#37;, RT Critics: 98&#37;</code></p><p class="lead">Inventive, gorgeously animated, and powerfully moving, Inside Out is another outstanding addition to the Pixar library of modern animated classics.</p></div>
 <div class="col-xs-3"><br><br><img width=100% class="lazy" data-original="http://resizing.flixster.com/GbNy8uPgzyO5YaUJ1rpWdSbiQhs=/585x864/dkpu1ddg7pbsk.cloudfront.net/movie/11/19/05/11190503_ori.jpg"></div></div></div>
-</div><div class="row">
+</div>
+
+
+
+<center>
+<div class="row">
+<div class="col-lg-12 visible-lg visible-md">
+<iframe src="http://rcm-na.amazon-adsystem.com/e/cm?t=techblogandli-20&o=1&p=48&l=ur1&category=musicandentertainmentrot&f=ifr&linkID=Q2UKCBH2NQB7PJWJ" width="728" height="90" scrolling="no" border="0" marginwidth="0" style="border:none;" frameborder="0"></iframe>
+
+</div>
+<div class="col-sm-12 visible-sm visible-xs">
+<iframe src="http://rcm-na.amazon-adsystem.com/e/cm?t=techblogandli-20&o=1&p=12&l=ur1&category=musicandentertainmentrot&f=ifr&linkID=32GFT4RW5USFC6L4" width="300" height="250" scrolling="no" border="0" marginwidth="0" style="border:none;" frameborder="0"></iframe>
+
+</div>
+</div>
+</center>
+
+
+
+
+<div class="row">
 <div class="col-xs-12 col-md-6"><div class="row"><div class="col-xs-9">
 <h3><a href='http://www.rottentomatoes.com/m/gangs_of_wasseypur/'>Gangs of Wasseypur (2015)</a>&nbsp;<span class="bar">99,97,90,100</span></h3><p><code>IMDB: 8.4, RT Aud: 91&#37;, RT Critics: 94&#37;</code></p><p class="lead">No consensus yet.</p></div>
 <div class="col-xs-3"><br><br><img width=100% class="lazy" data-original="http://resizing.flixster.com/pOsS2W2vzlCj5TkmEL0AzHdYv6Q=/450x600/dkpu1ddg7pbsk.cloudfront.net/movie/11/16/55/11165531_ori.jpg"></div></div></div>
