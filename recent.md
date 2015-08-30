@@ -122,7 +122,27 @@ title: Great recent movies
 <div class="col-xs-12 col-md-6"><div class="row"><div class="col-xs-9">
 <h3><a href='http://www.rottentomatoes.com/m/guardians_of_the_galaxy/'>Guardians of the Galaxy (2014)</a>&nbsp;<span class="bar">98,98,86,100</span></h3><p><code>IMDB: 8.1, RT Aud: 92&#37;, RT Critics: 91&#37;</code></p><p class="lead">Guardians of the Galaxy is just as irreverent as fans of the frequently zany Marvel comic would expect -- as well as funny, thrilling, full of heart, and packed with visual splendor.</p></div>
 <div class="col-xs-3"><br><br><img width=100% class="lazy" data-original="http://resizing.flixster.com/CDXyLVAsxwqFHSMGzCeTnb2KSCQ=/800x1185/dkpu1ddg7pbsk.cloudfront.net/movie/11/17/80/11178082_ori.jpg"></div></div></div>
-</div><div class="row">
+</div>
+
+
+<center>
+<div class="row">
+<div class="col-lg-12 visible-lg visible-md">
+<iframe src="http://rcm-na.amazon-adsystem.com/e/cm?t=techblogandli-20&o=1&p=48&l=ur1&category=dvd&banner=1ZWRHXKYV5KJE1AK3J02&f=ifr&linkID=LZMCTT2FC2HE2N4B" width="728" height="90" scrolling="no" border="0" marginwidth="0" style="border:none;" frameborder="0"></iframe>
+
+
+</div>
+<div class="col-sm-12 visible-sm visible-xs">
+<iframe src="http://rcm-na.amazon-adsystem.com/e/cm?t=techblogandli-20&o=1&p=12&l=ur1&category=dvd&banner=0GPYG7RE5B833WVRM7G2&f=ifr&linkID=C6RLFB7WROTX7ALW" width="300" height="250" scrolling="no" border="0" marginwidth="0" style="border:none;" frameborder="0"></iframe>
+
+
+</div>
+</div>
+</center>
+
+
+
+<div class="row">
 <div class="col-xs-12 col-md-6"><div class="row"><div class="col-xs-9">
 <h3><a href='http://www.rottentomatoes.com/m/jodorowskys_dune/'>Jodorowsky's Dune (2014)</a>&nbsp;<span class="bar">98,94,93,100</span></h3><p><code>IMDB: 8.1, RT Aud: 89&#37;, RT Critics: 98&#37;</code></p><p class="lead">Part thoughtful tribute, part bittersweet reminder of a missed opportunity, Jodorowsky's Dune offers a fascinating look at a lost sci-fi legend.</p></div>
 <div class="col-xs-3"><br><br><img width=100% class="lazy" data-original="http://resizing.flixster.com/ajqiLTym5lee0a11Yq2fnj71Wfw=/800x1185/dkpu1ddg7pbsk.cloudfront.net/movie/11/17/69/11176901_ori.jpg"></div></div></div>
