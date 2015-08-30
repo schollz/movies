@@ -11,6 +11,15 @@ title: Critically overrated
 <h3><a href='http://www.rottentomatoes.com/m/the_hunting_ground_2015/'>The Hunting Ground (2015)</a>&nbsp;<span class="bar">46,57,91,100</span></h3><p><code>IMDB: 6.4, RT Aud: 69&#37;, RT Critics: 92&#37;</code></p><p class="lead">The Hunting Ground isn't director Kirby Dick's strongest work as a filmmaker, but the movie's powerful message more than trumps any technical weaknesses.</p></div>
 <div class="col-xs-3"><br><br><img width=100% class="lazy" data-original="http://resizing.flixster.com/GN4febv04Y4v7VaMDSfy--3wV00=/800x1147/dkpu1ddg7pbsk.cloudfront.net/movie/11/19/03/11190370_ori.jpg"></div></div></div>
 </div><div class="row">
+
+<div class="col-xs-12 col-md-6"><div class="row"><div class="col-xs-9">
+<h3><a href='http://www.rottentomatoes.com/m/1065598-babe/'>Babe (1995)</a>&nbsp;<span class="bar">65,55,93,100</span></h3><p><code>IMDB: 6.9, RT Aud: 66&#37;, RT Critics: 97&#37;</code></p><p class="lead">The rare family-friendly feature with a heart as big as its special effects budget, Babe offers timeless entertainment for viewers of all ages.</p></div>
+<div class="col-xs-3"><br><br><img width=100% class="lazy" data-original="http://resizing.flixster.com/_8GzfwqAeDoHONsgAUpv8fDuJn8=/640x960/dkpu1ddg7pbsk.cloudfront.net/movie/11/16/36/11163644_ori.jpg"></div></div></div>
+<div class="col-xs-12 col-md-6"><div class="row"><div class="col-xs-9">
+<h3><a href='http://www.rottentomatoes.com/m/manakamana/'>Manakamana (2014)</a>&nbsp;<span class="bar">58,48,91,100</span></h3><p><code>IMDB: 6.7, RT Aud: 62&#37;, RT Critics: 95&#37;</code></p><p class="lead">Its tranquil pace will prove jarring for the blockbuster-inclined, but Manakamana rewards patient viewers with a singularly haunting experience.</p></div>
+<div class="col-xs-3"><br><br><img width=100% class="lazy" data-original="http://resizing.flixster.com/OGYelJdbem4oOVKgpo5aC113OGQ=/800x1185/dkpu1ddg7pbsk.cloudfront.net/movie/11/17/70/11177015_ori.jpg"></div></div></div>
+</div><div class="row">
+
 <div class="col-xs-12 col-md-6"><div class="row"><div class="col-xs-9">
 <h3><a href='http://www.rottentomatoes.com/m/spy_kids/'>Spy Kids (2001)</a>&nbsp;<span class="bar">17,7,80,100</span></h3><p><code>IMDB: 5.4, RT Aud: 45&#37;, RT Critics: 92&#37;</code></p><p class="lead">A kinetic and fun movie that's sure to thrill children of all ages.</p></div>
 <div class="col-xs-3"><br><br><img width=100% class="lazy" data-original="http://resizing.flixster.com/gFeUI1mI53WilWI0a250IZL889A=/336x475/dkpu1ddg7pbsk.cloudfront.net/movie/25/52/255297_ori.jpg"></div></div></div>
