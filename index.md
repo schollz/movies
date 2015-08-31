@@ -1,6 +1,8 @@
 ---
 layout: page
 title: Movie lists
+description: Here are curated lists of recent great movies, great unknown movies, critically overrated movies, critically underrated movies, and the worst movies of all time.
+keywords: [movies, reddit, unknown, recent, overrated, underrated]
 ---
 {% include JB/setup %}
 
