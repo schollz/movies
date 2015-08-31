@@ -1,6 +1,8 @@
 ---
 layout: page
 title: Critically overrated
+description: This a list of movies where the critics overestimated the quality of the film. Audiences never were able to agree on the significance.
+keywords: "movies, reddit, overrated, rotten tomatoes, imdb, metacritic, best, films, overestimated, pretentious"
 ---
 <p class="lead">This a list of movies where the critics ratings were much higher than both the RT audience ratings and the IMDB audience ratings.</p>
 <div class="row">
