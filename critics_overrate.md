@@ -5,6 +5,9 @@ description: This a list of movies where the critics overestimated the quality o
 keywords: "movies, reddit, overrated, rotten tomatoes, imdb, metacritic, best, films, overestimated, pretentious"
 ---
 <p class="lead">This a list of movies where the critics ratings were much higher than both the RT audience ratings and the IMDB audience ratings.</p>
+
+[Text version](http://rpiai.com/movies/text/critics_overrate.txt)
+
 <div class="row">
 <div class="col-xs-12 col-md-6"><div class="row"><div class="col-xs-9">
 <h3><a href='http://www.rottentomatoes.com/m/room_237_2012/'>Room 237 (2013)</a>&nbsp;<span class="bar">42,49,88,100</span></h3><p><code>IMDB: 6.3, RT Aud: 55&#37;, RT Critics: 93&#37;</code></p><p class="lead">Mysterious and provocative, Room 237 is a fascinating journey into the world of obsessive cinephilles.</p></div>
