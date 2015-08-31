@@ -15,7 +15,54 @@ keywords: "movies, reddit, unknown, rotten tomatoes, imdb, metacritic, best, fil
 <div class="col-xs-12 col-md-6"><div class="row"><div class="col-xs-9">
 <h3><a href='http://www.rottentomatoes.com/m/grandmas_boy/'>Grandma's Boy (2006)</a>&nbsp;<span class="bar">73,80,9,100</span></h3><p><code>IMDB: 7.1, RT Aud: 85&#37;, RT Critics: 15&#37;</code></p><p class="lead">A gross-out comedy that's more gross than comedic, Grandma's Boy is lazy and unrewarding.</p></div>
 <div class="col-xs-3"><br><br><img width=100% class="lazy" data-original="http://resizing.flixster.com/MI7fAtuX8q58yr3_uOUE0qAGS0o=/101x150/dkpu1ddg7pbsk.cloudfront.net/movie/31/21/312192_ori.jpg"></div></div></div>
-</div><div class="row">
+</div>
+
+
+
+
+
+
+
+<center>
+<div class="row">
+<div class="col-lg-12 visible-lg visible-md">
+
+
+<!-- Google leaderboard -->
+<ins class="adsbygoogle"
+     style="display:inline-block;width:728px;height:90px"
+     data-ad-client="ca-pub-4947875154879707"
+     data-ad-slot="7446374452"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
+
+</div>
+<div class="col-sm-12 visible-sm visible-xs">
+
+
+<!-- Mobile banner -->
+<ins class="adsbygoogle"
+     style="display:inline-block;width:320px;height:100px"
+     data-ad-client="ca-pub-4947875154879707"
+     data-ad-slot="8923107653"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
+</div>
+</div>
+</center>
+
+
+
+
+
+
+
+
+<div class="row">
 <div class="col-xs-12 col-md-6"><div class="row"><div class="col-xs-9">
 <h3><a href='http://www.rottentomatoes.com/m/underworld_evolution/'>Underworld: Evolution (2006)</a>&nbsp;<span class="bar">62,73,11,100</span></h3><p><code>IMDB: 6.8, RT Aud: 72&#37;, RT Critics: 15&#37;</code></p><p class="lead">A visual and aural assault on the senses, this vampire-werewolf sequel makes a lot of noise and features a heavy-handed, overly convoluted story.</p></div>
 <div class="col-xs-3"><br><br><img width=100% class="lazy" data-original="http://resizing.flixster.com/t-NyyZ1cpAcEiAHuUu8PlXD98gA=/640x960/dkpu1ddg7pbsk.cloudfront.net/movie/11/16/36/11163659_ori.jpg"></div></div></div>
@@ -101,7 +148,50 @@ keywords: "movies, reddit, unknown, rotten tomatoes, imdb, metacritic, best, fil
 <div class="col-xs-12 col-md-6"><div class="row"><div class="col-xs-9">
 <h3><a href='http://www.rottentomatoes.com/m/chasing_mavericks/'>Chasing Mavericks (2012)</a>&nbsp;<span class="bar">73,86,27,100</span></h3><p><code>IMDB: 7.1, RT Aud: 71&#37;, RT Critics: 31&#37;</code></p><p class="lead">It's sweet, gentle, and affably modest, but Chasing Mavericks is ultimately pulled under by an unconvincing script and a puzzling lack of energy.</p></div>
 <div class="col-xs-3"><br><br><img width=100% class="lazy" data-original="http://resizing.flixster.com/vbkUX4pM658v5eHOrkSmR-28mkU=/800x1200/dkpu1ddg7pbsk.cloudfront.net/movie/11/16/82/11168294_ori.jpg"></div></div></div>
-</div><div class="row">
+</div>
+
+
+
+
+
+
+
+<center>
+<div class="row">
+<div class="col-lg-12 visible-lg visible-md">
+
+
+<!-- Google leaderboard -->
+<ins class="adsbygoogle"
+     style="display:inline-block;width:728px;height:90px"
+     data-ad-client="ca-pub-4947875154879707"
+     data-ad-slot="7446374452"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
+
+</div>
+<div class="col-sm-12 visible-sm visible-xs">
+
+
+<!-- Mobile banner -->
+<ins class="adsbygoogle"
+     style="display:inline-block;width:320px;height:100px"
+     data-ad-client="ca-pub-4947875154879707"
+     data-ad-slot="8923107653"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
+</div>
+</div>
+</center>
+
+
+
+
+<div class="row">
 <div class="col-xs-12 col-md-6"><div class="row"><div class="col-xs-9">
 <h3><a href='http://www.rottentomatoes.com/m/gangster_squad_2012/'>Gangster Squad (2013)</a>&nbsp;<span class="bar">62,65,29,100</span></h3><p><code>IMDB: 6.8, RT Aud: 57&#37;, RT Critics: 31&#37;</code></p><p class="lead">Though it's stylish and features a talented cast, Gangster Squad suffers from lackluster writing, underdeveloped characters, and an excessive amount of violence.</p></div>
 <div class="col-xs-3"><br><br><img width=100% class="lazy" data-original="http://resizing.flixster.com/o2DS1GOIwz0pYsGYmSTn1e6myZ0=/800x1200/dkpu1ddg7pbsk.cloudfront.net/movie/11/17/03/11170394_ori.jpg"></div></div></div>
@@ -153,7 +243,48 @@ keywords: "movies, reddit, unknown, rotten tomatoes, imdb, metacritic, best, fil
 <h3><a href='http://www.rottentomatoes.com/m/i_am_sam/'>I Am Sam (2001)</a>&nbsp;<span class="bar">89,80,22,100</span></h3><p><code>IMDB: 7.6, RT Aud: 87&#37;, RT Critics: 34&#37;</code></p><p class="lead">Not only does the manipulative I Am Sam oversimplify a complex issue, it drowns it in treacle.</p></div>
 <div class="col-xs-3"><br><br><img width=100% class="lazy" data-original="http://resizing.flixster.com/FdqWt3rZ4I-FsIs6MZxJKXZf41U=/300x429/dkpu1ddg7pbsk.cloudfront.net/movie/10/09/07/10090791_ori.jpg"></div></div></div>
 </div>
-<center><div class="row"><div class="col-lg-12 visible-lg visible-md"><iframe src="http://rcm-na.amazon-adsystem.com/e/cm?t=techblogandli-20&o=1&p=48&l=ur1&category=musicandentertainmentrot&f=ifr&linkID=Q2UKCBH2NQB7PJWJ" width="728" height="90" scrolling="no" border="0" marginwidth="0" style="border:none;" frameborder="0"></iframe></div><div class="col-sm-12 visible-sm visible-xs"><iframe src="http://rcm-na.amazon-adsystem.com/e/cm?t=techblogandli-20&o=1&p=12&l=ur1&category=musicandentertainmentrot&f=ifr&linkID=32GFT4RW5USFC6L4" width="300" height="250" scrolling="no" border="0" marginwidth="0" style="border:none;" frameborder="0"></iframe></div></div></center>
+
+
+
+
+
+
+<center>
+<div class="row">
+<div class="col-lg-12 visible-lg visible-md">
+
+
+<!-- Google leaderboard -->
+<ins class="adsbygoogle"
+     style="display:inline-block;width:728px;height:90px"
+     data-ad-client="ca-pub-4947875154879707"
+     data-ad-slot="7446374452"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
+
+</div>
+<div class="col-sm-12 visible-sm visible-xs">
+
+
+<!-- Mobile banner -->
+<ins class="adsbygoogle"
+     style="display:inline-block;width:320px;height:100px"
+     data-ad-client="ca-pub-4947875154879707"
+     data-ad-slot="8923107653"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
+</div>
+</div>
+</center>
+
+
+
+
+
 <div class="row">
 <div class="col-xs-12 col-md-6"><div class="row"><div class="col-xs-9">
 <h3><a href='http://www.rottentomatoes.com/m/united_states_of_leland/'>The United States of Leland (2004)</a>&nbsp;<span class="bar">77,80,27,100</span></h3><p><code>IMDB: 7.2, RT Aud: 82&#37;, RT Critics: 34&#37;</code></p><p class="lead">The United States of Leland has its moments, but they're undermined by a muddled plot, unsympathetic characters, and frustratingly uneven performances.</p></div>
@@ -263,7 +394,48 @@ keywords: "movies, reddit, unknown, rotten tomatoes, imdb, metacritic, best, fil
 <h3><a href='http://www.rottentomatoes.com/m/bucket_list/'>The Bucket List (2007)</a>&nbsp;<span class="bar">84,86,31,100</span></h3><p><code>IMDB: 7.4, RT Aud: 77&#37;, RT Critics: 40&#37;</code></p><p class="lead">Not even the earnest performances of the two leads can rescue The Bucket List from its schmaltzy script.</p></div>
 <div class="col-xs-3"><br><br><img width=100% class="lazy" data-original="http://resizing.flixster.com/7-bFeUL7p20L7CVSovYzMgPPBgM=/800x1200/dkpu1ddg7pbsk.cloudfront.net/movie/11/16/97/11169717_ori.jpg"></div></div></div>
 </div>
-<center><div class="row"><div class="col-lg-12 visible-lg visible-md"><iframe src="http://rcm-na.amazon-adsystem.com/e/cm?t=techblogandli-20&o=1&p=48&l=ur1&category=musicandentertainmentrot&f=ifr&linkID=Q2UKCBH2NQB7PJWJ" width="728" height="90" scrolling="no" border="0" marginwidth="0" style="border:none;" frameborder="0"></iframe></div><div class="col-sm-12 visible-sm visible-xs"><iframe src="http://rcm-na.amazon-adsystem.com/e/cm?t=techblogandli-20&o=1&p=12&l=ur1&category=musicandentertainmentrot&f=ifr&linkID=32GFT4RW5USFC6L4" width="300" height="250" scrolling="no" border="0" marginwidth="0" style="border:none;" frameborder="0"></iframe></div></div></center>
+
+
+
+
+
+
+<center>
+<div class="row">
+<div class="col-lg-12 visible-lg visible-md">
+
+
+<!-- Google leaderboard -->
+<ins class="adsbygoogle"
+     style="display:inline-block;width:728px;height:90px"
+     data-ad-client="ca-pub-4947875154879707"
+     data-ad-slot="7446374452"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
+
+</div>
+<div class="col-sm-12 visible-sm visible-xs">
+
+
+<!-- Mobile banner -->
+<ins class="adsbygoogle"
+     style="display:inline-block;width:320px;height:100px"
+     data-ad-client="ca-pub-4947875154879707"
+     data-ad-slot="8923107653"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
+</div>
+</div>
+</center>
+
+
+
+
+
 <div class="row">
 <div class="col-xs-12 col-md-6"><div class="row"><div class="col-xs-9">
 <h3><a href='http://www.rottentomatoes.com/m/men_of_honor/'>Men of Honor (2000)</a>&nbsp;<span class="bar">73,73,35,100</span></h3><p><code>IMDB: 7.1, RT Aud: 82&#37;, RT Critics: 41&#37;</code></p><p class="lead">De Niro and Goodings Jr. manage to turn in performances that make this by-the-numbers inspirational movie watchable.</p></div>
@@ -335,7 +507,48 @@ keywords: "movies, reddit, unknown, rotten tomatoes, imdb, metacritic, best, fil
 <h3><a href='http://www.rottentomatoes.com/m/boychoir/'>Boychoir (2015)</a>&nbsp;<span class="bar">73,73,35,100</span></h3><p><code>IMDB: 7.1, RT Aud: 63&#37;, RT Critics: 51&#37;</code></p><p class="lead">Boychoir rests heavily -- and not always comfortably -- on the shoulders of Dustin Hoffman, whose typically excellent work isn't always quite enough to compensate for an overly predictable drama.</p></div>
 <div class="col-xs-3"><br><br><img width=100% class="lazy" data-original="http://resizing.flixster.com/onVtsNobzbVY-bYljNywSf-8I54=/284x405/dkpu1ddg7pbsk.cloudfront.net/movie/11/18/99/11189908_ori.jpg"></div></div></div>
 </div>
-<center><div class="row"><div class="col-lg-12 visible-lg visible-md"><iframe src="http://rcm-na.amazon-adsystem.com/e/cm?t=techblogandli-20&o=1&p=48&l=ur1&category=musicandentertainmentrot&f=ifr&linkID=Q2UKCBH2NQB7PJWJ" width="728" height="90" scrolling="no" border="0" marginwidth="0" style="border:none;" frameborder="0"></iframe></div><div class="col-sm-12 visible-sm visible-xs"><iframe src="http://rcm-na.amazon-adsystem.com/e/cm?t=techblogandli-20&o=1&p=12&l=ur1&category=musicandentertainmentrot&f=ifr&linkID=32GFT4RW5USFC6L4" width="300" height="250" scrolling="no" border="0" marginwidth="0" style="border:none;" frameborder="0"></iframe></div></div></center>
+
+
+
+
+
+
+<center>
+<div class="row">
+<div class="col-lg-12 visible-lg visible-md">
+
+
+<!-- Google leaderboard -->
+<ins class="adsbygoogle"
+     style="display:inline-block;width:728px;height:90px"
+     data-ad-client="ca-pub-4947875154879707"
+     data-ad-slot="7446374452"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
+
+</div>
+<div class="col-sm-12 visible-sm visible-xs">
+
+
+<!-- Mobile banner -->
+<ins class="adsbygoogle"
+     style="display:inline-block;width:320px;height:100px"
+     data-ad-client="ca-pub-4947875154879707"
+     data-ad-slot="8923107653"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
+</div>
+</div>
+</center>
+
+
+
+
+
 <div class="row">
 <div class="col-xs-12 col-md-6"><div class="row"><div class="col-xs-9">
 <h3><a href='http://www.rottentomatoes.com/m/the_age_of_adaline/'>The Age of Adaline (2015)</a>&nbsp;<span class="bar">97,80,40,100</span></h3><p><code>IMDB: 8.0, RT Aud: 68&#37;, RT Critics: 54&#37;</code></p><p class="lead">The Age of Adaline ruminates on mortality less compellingly than similarly themed films, but is set apart by memorable performances from Blake Lively and Harrison Ford.</p></div>
