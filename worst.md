@@ -1,7 +1,8 @@
 ---
 layout: page
 title: The worst
-This list is a list of the worst movies. They are sorted from worst to best, though all of them share terrible qualities in film making.
+description: This list is a list of the worst movies. They are sorted from worst to best, though all of them share terrible qualities in film making.
+keywords: "movies, reddit, unknown, recent, overrated, underrated, rotten tomatoes, imdb, metacritic, worst, films, bad"
 ---
 <p class="lead">This is a list of movies that a <i>lot</i> of people have seen, but almost all critics and audiences agree that these movies are awful.</p>
 <div class="row">
