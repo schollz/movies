@@ -1,6 +1,8 @@
 ---
 layout: page
 title: Great, but mostly unknown, movies
+description: These are films that are not well known but have garnered a lot of positive attention from critics around the world.
+keywords: "movies, reddit, unknown, recent, perfect, amazing, extraordinary, rotten tomatoes, imdb, metacritic, best, films"
 ---
 <p class="lead">These are movies that have fewer than 5,000 votes by audience members, but at least 25 votes from critics. These movies are then filtered so that only the ones that have at least 85 percent of critics enjoying the movie are shown.</p>
 <h3>As you'll notice a lot of the following recommendations are documentaries and art house films. If you'd like to read a list that excludes these genres, check out the <a href="unknown_documentaryfiltered.html">filtered great unknown list.</a></h3>
