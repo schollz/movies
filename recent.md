@@ -1,6 +1,8 @@
 ---
 layout: page
 title: Great recent movies
+description: This list is a list of the best movies in the last three years. They are sorted from best to worst, though all of them share extraordinary qualities in film making.
+keywords: "movies, reddit, unknown, recent, overrated, underrated, rotten tomatoes, imdb, metacritic, best, films"
 ---
 <p class="lead">Not all films are movies and not all movies are films. This list is a list of the best movies in the last three years. They are sorted from best to worst, though all of them share extraordinary qualities in film making.</p>
 <div class="row">
