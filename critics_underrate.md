@@ -5,6 +5,9 @@ description: This a list of movies where the critic's ratings are lower than bot
 keywords: "movies, reddit, unknown, rotten tomatoes, imdb, metacritic, best, films, underrated, underestimated, looked down"
 ---
 <p class="lead">This a list of movies where the critic's ratings are lower than both the RT audience ratings and the IMDB audience ratings. Sorted from worst critic rating to best.</p>
+
+[Text version](http://rpiai.com/movies/text/critics_underrate.txt)
+
 <div class="row">
 <div class="col-xs-12 col-md-6"><div class="row"><div class="col-xs-9">
 <h3><a href='http://www.rottentomatoes.com/m/house_of_d/'>House of D (2004)</a>&nbsp;<span class="bar">69,73,11,100</span></h3><p><code>IMDB: 7.0, RT Aud: 73&#37;, RT Critics: 9&#37;</code></p><p class="lead">A sincere but inept coming of age story.</p></div>
