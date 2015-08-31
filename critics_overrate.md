@@ -44,7 +44,7 @@ keywords: "movies, reddit, overrated, rotten tomatoes, imdb, metacritic, best, f
 </div>
 <div class="col-sm-12 visible-sm visible-xs">
 
-<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+
 <!-- Mobile banner -->
 <ins class="adsbygoogle"
      style="display:inline-block;width:320px;height:100px"
@@ -95,7 +95,7 @@ keywords: "movies, reddit, overrated, rotten tomatoes, imdb, metacritic, best, f
 <div class="row">
 <div class="col-lg-12 visible-lg visible-md">
 
-<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+
 <!-- Google leaderboard -->
 <ins class="adsbygoogle"
      style="display:inline-block;width:728px;height:90px"
@@ -109,7 +109,7 @@ keywords: "movies, reddit, overrated, rotten tomatoes, imdb, metacritic, best, f
 </div>
 <div class="col-sm-12 visible-sm visible-xs">
 
-<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+
 <!-- Mobile banner -->
 <ins class="adsbygoogle"
      style="display:inline-block;width:320px;height:100px"
@@ -154,7 +154,7 @@ keywords: "movies, reddit, overrated, rotten tomatoes, imdb, metacritic, best, f
 <div class="row">
 <div class="col-lg-12 visible-lg visible-md">
 
-<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+
 <!-- Google leaderboard -->
 <ins class="adsbygoogle"
      style="display:inline-block;width:728px;height:90px"
@@ -168,7 +168,7 @@ keywords: "movies, reddit, overrated, rotten tomatoes, imdb, metacritic, best, f
 </div>
 <div class="col-sm-12 visible-sm visible-xs">
 
-<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+
 <!-- Mobile banner -->
 <ins class="adsbygoogle"
      style="display:inline-block;width:320px;height:100px"
@@ -213,7 +213,7 @@ keywords: "movies, reddit, overrated, rotten tomatoes, imdb, metacritic, best, f
 <div class="row">
 <div class="col-lg-12 visible-lg visible-md">
 
-<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+
 <!-- Google leaderboard -->
 <ins class="adsbygoogle"
      style="display:inline-block;width:728px;height:90px"
@@ -227,7 +227,6 @@ keywords: "movies, reddit, overrated, rotten tomatoes, imdb, metacritic, best, f
 </div>
 <div class="col-sm-12 visible-sm visible-xs">
 
-<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
 <!-- Mobile banner -->
 <ins class="adsbygoogle"
      style="display:inline-block;width:320px;height:100px"
@@ -278,7 +277,7 @@ keywords: "movies, reddit, overrated, rotten tomatoes, imdb, metacritic, best, f
 <div class="row">
 <div class="col-lg-12 visible-lg visible-md">
 
-<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+
 <!-- Google leaderboard -->
 <ins class="adsbygoogle"
      style="display:inline-block;width:728px;height:90px"
@@ -292,7 +291,7 @@ keywords: "movies, reddit, overrated, rotten tomatoes, imdb, metacritic, best, f
 </div>
 <div class="col-sm-12 visible-sm visible-xs">
 
-<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+
 <!-- Mobile banner -->
 <ins class="adsbygoogle"
      style="display:inline-block;width:320px;height:100px"
