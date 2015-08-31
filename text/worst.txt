@@ -1,0 +1,185 @@
+Title	Year	IMDB	RT Aud	RT Critics	Description
+10,000 B.C.	2008	5.0	37	8	With attention strictly paid to style instead of substance, or historical accuracy, 10,000 B.C. is a visually impressive but narratively flimsy epic.
+101 Dalmatians	1996	5.6	40	38	No consensus yet.
+2 Fast 2 Furious	2003	5.8	50	35	Beautiful people and beautiful cars in a movie that won't tax the brain cells.
+40 Days and 40 Nights	2002	5.6	43	37	As romantic comedies go, 40 Days and 40 Nights is smutty, sexist, and puerile.
+Fantastic Four: Rise of the Silver Surfer	2007	5.6	51	37	While an improvement on its predecessor, Fantastic Four: Rise of the Silver Surfer is nevertheless a juvenile, simplistic picture that has little benefit beyond its special effects.
+A Cinderella Story	2004	5.8	53	10	An uninspired, generic updating of the classic fairy tale.
+A Good Day To Die Hard	2013	5.3	41	14	A Good Day to Die Hard is the weakest entry in a storied franchise, and not even Bruce Willis' smirking demeanor can enliven a cliched, uninspired script.
+A Nightmare on Elm Street	2010	5.2	44	14	Visually faithful but lacking the depth and subversive twists that made the original so memorable, the Nightmare on Elm Street remake lives up to its title in the worst possible way.
+AVP - Alien Vs. Predator	2004	5.6	39	20	Gore without scares and cardboard cut-out characters make this clash of the monsters a dull sit.
+Abduction	2011	5.0	43	3	A soulless and incompetent action/thriller not even a veteran lead actor could save, let alone Taylor Lautner.
+After Earth	2013	5.0	37	11	After Earth is a dull, ploddingly paced exercise in sentimental sci-fi -- and the latest setback for director M. Night Shyamalan's once-promising career.
+Alexander	2004	5.5	35	16	Even at nearly three hours long, this ponderous, talky, and emotionally distant biopic fails to illuminate Alexander's life.
+Along Came Polly	2004	5.9	47	25	Though the supporting actors are funny, Stiller and Aniston don't make a believable couple, and the gross-out humor is gratuitous.
+Anaconda	1997	4.6	24	37	No consensus yet.
+Analyze That	2002	5.9	39	27	The one joke premise is stretched a bit thin in this messy sequel, but a few laughs can be had here and there.
+Annabelle	2014	5.5	37	29	Annabelle borrows unabashedly from better horror films, content to leave viewers with a string of cheap jolts that fail to build on the far more effective The Conjuring.
+Around the World in 80 Days	2004	5.8	34	31	Hit-and-miss family fare that bares only the slightest resemblance to Verne's novel.
+Babylon A.D.	2008	5.6	26	6	A poorly constructed, derivative sci-fi stinker with a weak script and poor action sequences.
+Bad Teacher	2011	5.7	36	44	In spite of a promising concept and a charmingly brazen performance from Cameron Diaz, Bad Teacher is never as funny as it should be.
+Batman & Robin	1997	3.6	16	10	Joel Schumacher's tongue-in-cheek attitude hits an unbearable limit in Batman & Robin resulting in a frantic and mindless movie that's too jokey to care much for.
+Batman Forever	1995	5.4	33	41	Loud, excessively busy, and often boring, Batman Forever nonetheless has the charisma of Jim Carrey and Tommy Lee Jones to offer mild relief.
+Battle: Los Angeles	2011	5.8	48	34	Overlong and overly burdened with war movie clich s, Battle: Los Angeles will entertain only the most ardent action junkies.
+Battlefield Earth	2000	2.4	11	2	Ugly, campy, and poorly acted, Battlefield Earth is a stunningly misguided, aggressively bad sci-fi folly.
+Be Cool	2005	5.6	42	29	Be Cool is tepid, square, and lukewarm; as a parody of the music business, it has two left feet.
+Bedazzled	2000	5.9	43	48	Though it has its funny moments, this remake is essentially a one-joke movie with too many flat spots.
+Beverly Hills Cop III	1994	5.5	36	10	No consensus yet.
+Bewitched	2005	4.8	28	24	Bewitched is haunted by scattered laughs and a lack of direction.
+Bridget Jones - The Edge of Reason	2004	5.9	61	27	Edge of Reason is a predictable continuation to the Bridget Jones story, with too much slapstick and silliness.
+Catwoman	2004	3.3	18	8	Halle Berry is the lone bright spot, but even she can't save this laughable action thriller.
+Charlie's Angels - Full Throttle	2003	4.8	40	43	Eye candy for those who don't require a movie to have a plot or for it to make sense.
+Cheaper by the Dozen	2003	5.8	56	23	In this family of twelve children, much chaos ensues, but little hilarity.
+Clash of the Titans	2010	5.8	39	28	An obviously affectionate remake of the 1981 original, Louis Leterrier's Clash of the Titans doesn't offer enough visual thrills to offset the deficiencies of its script.
+Cocktail	1988	5.8	58	5	There are no surprises in Cocktail, a shallow, dramatically inert romance that squanders Tom Cruise's talents in what amounts to a naive barkeep's banal fantasy.
+Collateral Damage	2002	5.4	27	19	Despite its timely subject matter, Collateral Damage is an unexceptional and formulaic action thriller.
+Conan the Barbarian	2011	5.2	30	24	While its relentless, gory violence is more faithful to the Robert E. Howard books, Conan the Barbarian forsakes three-dimensional characters, dialogue, and acting in favor of unnecessary 3D effects.
+Conan the Destroyer	1984	5.8	39	26	No consensus yet.
+Cop Out	2010	5.7	39	19	Cop Out is a cliched buddy action/comedy that suffers from stale gags and slack pacing.
+Couples Retreat	2009	5.5	39	10	Despite a talented cast and some reliably pleasant interplay between Jon Favreau and Vince Vaughn, Couples Retreat leaves viewers stranded in an arid, mirthless comedy.
+Dante's Peak	1997	5.8	37	26	No consensus yet.
+Daredevil	2003	5.3	35	44	While Ben Affleck fits the role and the story is sporadically interesting, Daredevil is ultimately a dull, brooding origin story that fails to bring anything new to the genre.
+Days of Thunder	1990	5.8	61	37	Days of Thunder has Tom Cruise and plenty of flash going for it, but they aren't enough to compensate for the stock plot, two-dimensional characters, and poorly written dialogue.
+Deuce Bigalow: Male Gigolo	1999	5.7	42	22	According to critics, Deuce Bigalow is just too dumb and filled with old, tired gags.
+Dinner for Schmucks	2010	5.9	43	42	It doesn't honor its source material -- or its immensely likable leads -- as well as it should, but Dinner for Schmucks offers fitfully nourishing comedy.
+Disaster Movie	2008	1.9	19	1	Returning to their seemingly bottomless well of flatulence humor, racial stereotypes, and stale pop culture gags, Jason Friedberg and Aaron Seltzer have produced what is arguably their worst Movie yet.
+Doom	2005	5.2	34	19	Sure to please fans of the video game, but lacking in plot and originality to please other moviegoers.
+Dreamcatcher	2003	5.5	36	29	An incoherent and overly long creature feature.
+Drive Angry	2011	5.5	37	45	It may deliver the over-the-top action pieces, but Drive Angry prefers to work safely within grindhouse formula than do something truly unique.
+Dude, Where's My Car?	2000	5.5	47	18	The movie isn't funny, the plot is too thin, and the production values feel more like a TV sitcom than a movie.
+Dumb and Dumber To	2014	5.9	37	29	Dumb and Dumber To does have its moments, but not enough of them -- and the Farrelly brothers' brand of humor is nowhere near as refreshingly transgressive as it once seemed.
+Eat Pray Love	2010	5.6	42	35	The scenery is nice to look at, and Julia Roberts is as luminous as ever, but without the spiritual and emotional weight of the book that inspired it, Eat Pray Love is too shallow to resonate.
+Elektra	2005	4.8	30	9	Jennifer Garner inhabits her role with earnest gusto, but Elektra's tone deaf script is too self-serious and bereft of intelligent dialogue to provide engaging thrills.
+End of Days	1999	5.7	33	11	An overblown thriller with formulaic action scenes and poor acting.
+Epic Movie	2007	2.3	29	1	A crude comedy with nothing new or insightful to say about the subjects it satirizes.
+Eragon	2006	5.1	47	16	Written by a teenager (and it shows), Eragon presents nothing new to the "hero's journey" story archetype. In movie terms, this movie looks and sounds like Lord of the Rings and plays out like a bad Star Wars rip-off. The movie spins the tale of a peasant boy who is suddenly entrusted with a dragon and must, with the help of a mentor, train, grow strong, and defeat an evil emperor. The way the critics picture it, the makers of Eragon should soon be expecting an annoyed phone call from George Lucas.
+Failure to Launch	2006	5.6	52	24	The few comic gags sprinkled throughout the movie fail to spice up this formulaic rom-com.
+Fantastic Four	2005	5.7	46	26	Marred by goofy attempts at wit, subpar acting, and bland storytelling, Fantastic Four is a mediocre attempt to bring Marvel's oldest hero team to the big screen.
+Fifty Shades of Grey	2015	4.2	42	24	While creatively better endowed than its print counterpart, Fifty Shades of Grey is a less than satisfying experience on the screen.
+First Knight	1995	5.9	55	46	No consensus yet.
+Flubber	1997	5.1	33	22	No consensus yet.
+Fool's Gold	2008	5.6	48	11	With little chemistry among the performers, humorless gags, and a predictable storyline, Fool's Gold fails on every level.
+Freddy vs. Jason	2003	5.8	50	40	Fans of the two horror franchises will enjoy this showdown. But for everyone else, it's the same old slice and dice.
+Gamer	2009	5.8	39	28	With all of the hyperkinetic action and none of the flair of Mark Neveldine and Brian Taylor's earlier work, Gamer has little replay value.
+Garfield - The Movie	2004	4.9	38	14	When the novelty of the CGI Garfield wears off, what's left is a simplistic kiddie movie.
+George of the Jungle	1997	5.4	41	55	George of the Jungle is faithful to its source material -- which, unfortunately, makes it a less-than-compelling feature film.
+Ghost Rider	2007	5.2	48	25	Ghost Rider is a sour mix of morose, glum histrionics amidst jokey puns and hammy dialogue.
+Ghost Rider: Spirit of Vengeance	2012	4.3	32	17	With a weak script, uneven CG work, and a Nic Cage performance so predictably loony it's no longer amusing, Ghost Rider: Spirit of Vengeance aims to be trashy fun but ends up as plain trash.
+Ghost Ship	2002	5.4	38	13	With a plot as creaky as the boat, Ghost Ship fails to deliver the scares.
+The Ghosts of Girlfriends Past	2009	5.7	40	26	A retread of A Christmas Carol, featuring Matthew McConaughey in a retread of his Dazed and Confused role, Ghosts of Girlfriends Past lacks originality, humor, and any semblance of charm.
+Gothika	2003	5.8	45	14	Berry's acting talents can't save Gothika from its preposterous plot and bad dialogue.
+Hall Pass	2011	5.9	41	33	Some filmgoers may be surprised by the Farrellys' defense of traditional domestic values in Hall Pass -- unfortunately, they'll probably also be dismayed by the absence of laughs.
+Hide and Seek	2005	5.9	50	12	Robert De Niro and especially Dakota Fanning have earned some praise for their work in Hide and Seek, but critics have called the rest of the film derivative, illogical and somewhat silly.
+Hollow Man	2000	5.7	27	27	Despite awesome special effects, Hollow Man falls short of other films directed by Paul Verhoeven. This flick over time degenerates into a typical horror film.
+Home Alone 3	1997	4.2	27	27	No consensus yet.
+Hostel Part II	2007	5.4	39	43	Offering up more of the familiar sadism and gore, Hostel: Part II will surely thrill horror fans.
+House at the End of the Street	2012	5.6	41	10	Poorly conceived, clumsily executed, and almost completely bereft of scares, House at the End of the Street strands its talented star in a film as bland as its title.
+House of Wax	2005	5.3	42	25	Bearing little resemblance to the 1953 original, House of Wax is a formulaic but better-than-average teen slasher flick.
+I Know What You Did Last Summer	1997	5.6	41	35	No consensus yet.
+I Still Know What You Did Last Summer	1998	4.5	29	7	Boring, predictable, and bereft of thrills or chills, I Still Know What You Did Last Summer is exactly the kind of rehash that gives horror sequels a bad name.
+I, Frankenstein	2014	5.2	38	3	Loud, incoherent, and dramatically listless, I, Frankenstein is a remarkably dull fantasy adventure that fails to generate much excitement or interest in its characters.
+Into the Blue	2005	5.8	57	20	Even the endless shots of bronzed beach babes and buffed dudes can't keep this soggy scuba flick's plot from drowning.
+Jack and Jill	2011	3.4	37	2	Although it features an inexplicably committed performance from Al Pacino, Jack and Jill is impossible to recommend on any level whatsoever.
+Jennifer's Body	2009	5.1	34	42	Jennifer's Body features occasionally clever dialogue but the horror/comic premise fails to be either funny or scary enough to satisfy.
+Johnny Mnemonic	1995	5.5	31	13	No consensus yet.
+Judge Dredd	1995	5.4	30	17	Judge Dredd wants to be both a legitimate violent action flick and a parody of one, but director Danny Cannon fails to find the necessary balance to make it work.
+Jurassic Park III	2001	5.9	36	50	Jurassic Park III is darker and faster than its predecessors, but that doesn't quite compensate for the franchise's continuing creative decline.
+Just Married	2003	5.4	48	19	Just Married's plot is predictable, and the overdone pratfalls get tiresome.
+Killers	2010	5.4	41	10	Dull, formulaic, and chemistry-free, Killers is an action/comedy that's largely bereft of thrills or laughs.
+Lady in the Water	2006	5.7	49	24	A far-fetched story with little suspense and unconvincing scenarios, Lady In The Water feels contrived, pretentious, and rather silly.
+Lara Croft - Tomb Raider	2001	5.7	48	18	Angelina Jolie is perfect for the role of Lara Croft, but even she can't save the movie from a senseless plot and action sequences with no emotional impact.
+Lara Croft Tomb Raider - The Cradle of Life	2003	5.5	45	24	Though the sequel is an improvement over the first movie, it's still lacking in thrills.
+Legion	2010	5.1	31	18	Despite a solid cast and intermittent thrills, Legion suffers from a curiously languid pace, confused plot, and an excess of dialogue.
+Little Fockers	2010	5.4	35	9	As star-studded as it is heartbreakingly lazy, Little Fockers takes the top-grossing trilogy to embarrassing new lows.
+Little Nicky	2000	5.3	56	21	Despite the presence of a large, talented cast, the jokes in Little Nicky are dumb, tasteless, and not that funny, and Adam Sandler's character is grating to watch.
+Look Who's Talking	1989	5.8	47	57	No consensus yet.
+Lost in Space	1998	5.0	24	27	Clumsily directed and missing most of the TV series' campy charm, Lost in Space sadly lives down to its title.
+Maid in Manhattan	2002	5.0	43	39	Too blandly generic, Maid in Manhattan also suffers from a lack of chemistry between Lopez and Fiennes.
+Meet the Spartans	2008	2.7	25	2	A tired, unfunny, offensive waste of time, Meet the Spartans scrapes the bottom of the cinematic barrel.
+Mission to Mars	2000	5.5	30	24	Beauty only goes skin deep in this shallow but visually stunning film.
+Mortal Kombat	1995	5.8	58	33	Despite an effective otherwordly atmosphere and appropriately cheesy visuals, Mortal Kombat suffers from its poorly constructed plot, laughable dialogue, and subpar acting.
+Movie 43	2013	4.4	24	3	A star-studded turkey, Movie 43 is loaded with gleefully offensive and often scatological gags, but it's largely bereft of laughs.
+My Super Ex-Girlfriend	2006	5.1	31	39	My Super Ex=Girlfriend is an only sporadically amusing spoof on the superhero genre that misses the mark with a nerd-turned-superwoman who embodies sexist clich s.
+Nacho Libre	2006	5.7	54	40	At times hilarious, but other times offensive, Director Jared Hess is unable to recapture the collective charisma of his Napoleon characters, instead relying on a one-joke concept that runs out of steam. Sure to entertain the adolescents, however.
+New Year's Eve	2011	5.6	45	6	Shallow, sappy, and dull, New Year's Eve assembles a star-studded cast for no discernible purpose.
+Not Another Teen Movie	2001	5.7	56	28	NATM has some funny moments, but the movie requires the audience to have familiarity with the movies being spoofed and a tolerance for toilet and sexual humor to be truly effective.
+Only God Forgives	2013	5.7	37	40	Director Refn remains as visually stylish as ever, but Only God Forgives fails to add enough narrative smarts or relatable characters to ground its beautifully filmed depravity.
+Paul Blart: Mall Cop	2009	5.2	43	32	Paul Blart: Mall Cop has some laughs, but its plot is flimsy and lacking in any sustained comic momentum.
+Planet of the Apes	2001	5.7	27	44	This remake of Planet of the Apes can't compare to the original in some critics' mind, but the striking visuals and B-movie charms may win you over.
+Pompeii	2014	5.6	34	28	This big-budget sword-and-sandal adventure lacks the energy and storytelling heft to amount to more than a guilty pleasure.
+Poseidon	2006	5.6	44	32	This remake of The Poseidon Adventure delivers dazzling special effects. Unfortunately, it doesn't seem that any of the budget was left over to devote to the script.
+Premonition	2007	5.9	50	8	Overdosing on flashbacks, and more portentous than profound, the overly obtuse Premonition weakly echoes such twisty classics as Memento, The Sixth Sense, and Groundhog Day.
+Priest	2011	5.7	46	14	Sleek and stylish, but those qualities are wasted on a dull, derivative blend of sci-fi, action, and horror.
+R.I.P.D.	2013	5.6	39	13	It has its moments -- most of them courtesy of Jeff Bridges' rootin' tootin' performance as an undead Wild West sheriff -- but R.I.P.D. is ultimately too dim-witted and formulaic to satisfy.
+Rambo III	1988	5.7	45	35	No consensus yet.
+Red Riding Hood	2011	5.4	39	10	Amanda Seyfried is magnetic in Red Riding Hood's starring role, but she's let down by her uninspired leading men and a painfully cliched script.
+Robocop 2	1990	5.7	35	32	No consensus yet.
+Rocky V	1990	5.0	32	25	No consensus yet.
+Runaway Bride	1999	5.4	53	46	Cliche story with lack of chemistry between Richard Gere and Julia Roberts.
+Saw 3D	2010	5.6	42	9	Sloppily filmed, poorly acted, and illogically plotted, Saw 3D leaves viewers trapped in the most lackluster installment of the series.
+Scary Movie 3	2003	5.4	54	35	Though an improvement over the second Scary Movie, the laughs are still inconsistent.
+Scary Movie 2	2001	5.2	53	14	Instead of being funny, this gross-out sequel plays like a sloppy, rushed-out product.
+Scary Movie 4	2006	5.1	51	36	Sure to inspire a few chuckles, but not enough to compensate for the recycled material from its predecessors.
+Scooby-Doo	2002	4.9	37	30	Though Lillard is uncannily spot-on as Shaggy, Scooby Doo is a tired live-action update, filled with lame jokes.
+Scream 3	2000	5.5	38	36	According to critics, Scream 3 has become what it originally spoofed. Despite some surprising twists, the movie seems to have lost its freshness and originality by falling back on the old horror formulas and cliches.
+Season of the Witch	2011	5.4	31	9	Slow, cheap-looking, and dull, Season of the Witch fails even as unintentional comedy.
+Semi-Pro	2008	5.8	38	21	Semi-Pro is an intermittently funny, half-hearted attempt at sports satire, and one of Will Ferrell's weaker cinematic efforts.
+Sex and the City 2	2010	4.2	43	15	Straining under a thin plot stretched to its limit by a bloated running time, Sex and the City 2 adds an unfortunate coda to the long-running HBO series.
+Sex Tape	2014	5.1	33	17	With neither the conviction to embrace its smutty premise nor enough laughs to function as a worthwhile rom-com, the flaccid Sex Tape suffers from cinematic impotence.
+Shallow Hal	2001	5.9	45	50	While surprisingly sweeter and warm-hearted than previous Farrelly outings, Shallow Hal is also less funny and more bland.
+She's All That	1999	5.8	55	37	Despite its charming young leads, She's All That can't overcome its predictable, inconsistently funny script.
+Six Days, Seven Nights	1998	5.7	36	35	A generally enjoyable, if completely forgettable piece of Hollywood fluff.
+Skyline	2010	4.4	18	15	A middling sci-fi entry, Skyline offers proof that solid special effects alone cannot overcome a flat storyline filled with uninspired dialogue.
+Species	1995	5.8	31	35	No consensus yet.
+Speed 2 - Cruise Control	1997	3.7	16	2	Speed 2 falls far short of its predecessor, thanks to laughable dialogue, thin characterization, unsurprisingly familiar plot devices, and action sequences that fail to generate any excitement.
+The 6th Day	2000	5.9	32	40	This offering from Arnold Schwarzenegger contains an intriguing, disturbing premise, but the film's execution is too routine and formulaic to make good use of it.
+The Black Dahlia	2006	5.6	27	32	Though this ambitious noir crime-drama captures the atmosphere of its era, it suffers from subpar performances, a convoluted story, and the inevitable comparisons to other, more successful films of its genre.
+The Box	2009	5.6	23	44	Imaginative but often preposterous, The Box features some thrills but largely feels too piecemeal.
+The Break-Up	2006	5.8	46	33	This anti-romantic comedy lacks both laughs and insight, resulting in an odd and unsatisfying experience.
+The Brothers Grimm	2005	5.9	39	38	The Brothers Grimm is full of beautiful imagery, but the story is labored and less than enchanting.
+The Core	2003	5.4	34	40	A B-movie with its tongue planted firmly in cheek, The Core is so unintentionally (intentionally?) bad that it's a hoot.
+The Counselor	2013	5.4	23	34	The Counselor raises expectations with its talented cast and creative crew -- then subverts them with a wordy and clumsy suspense thriller that's mercilessly short on suspense or thrills.
+The Day the Earth Stood Still	2008	5.5	27	20	Heavy on special effects, but without a coherent story at its base, The Day the Earth Stood Still is subpar re-imagining of the 1951 science-fiction classic.
+The Dukes of Hazzard	2005	5.0	47	13	A dumb, goofy, and vacuous adaptation of a TV show where plot is simply an excuse to string together the car chases.
+The Final Destination	2009	5.1	36	28	With little of the ingenuity of previous installments, The Final Destination is predictable, disposable horror fare.
+The Flintstones	1994	4.8	24	21	No consensus yet.
+The Forgotten	2004	5.8	36	31	The premise grows too ridiculous to take seriously.
+The Fourth Kind	2009	5.9	41	18	While it boasts a handful of shocks, The Fourth Kind is hokey and clumsy and makes its close encounters seem eerily mundane.
+The Green Hornet	2011	5.9	43	43	It's sporadically entertaining, but The Green Hornet never approaches the surreal heights suggested by a Michel Gondry/Seth Rogen collaboration.
+The Grudge	2004	5.9	46	38	There's some creepy imagery to be found, but not much in the way of logic or truly jarring scares.
+The Happening	2008	5.1	24	17	The Happening begins with promise, but unfortunately descends into an incoherent and unconvincing trifle.
+The Hangover Part III	2013	5.9	45	19	Less a comedy than an angrily dark action thriller, The Hangover Part III diverges from the series' rote formula but offers nothing compelling in its place.
+The Haunting	1999	4.8	28	16	Sophisticated visual effects fail to offset awkward performances and an uneven script.
+The Heartbreak Kid	2007	5.8	37	28	Despite some amiable performances, The Heartbreak Kid is neither as daring nor as funny as the Farrelly Brothers' earlier films.
+The Hot Chick	2002	5.5	59	20	The Hot Chick's one-note concept gets stretched thin, and a lot of the jokes fall flat.
+The Incredible Burt Wonderstone	2013	5.9	33	35	The Incredible Burt Wonderstone serves up some goofy laughs, but given its outrageous conceit, it's surprisingly safe and predictable.
+The Invasion	2007	5.9	40	19	The Invasion is slickly made, but it lacks psychological insight and thrills.
+The Mummy: Tomb of the Dragon Emperor	2008	5.2	30	12	With middling CG effects and a distinct lack of fun, The Mummy: Tomb of the Dragon Emperor finds the series past its prime.
+The One	2001	5.9	52	14	The One plays out more like a video game than a movie and borrows freely from other, better sci-fi actioners like the The Matrix. Also, Jet Li's martial arts abilities are buried under the editing and special effects.
+The Pink Panther	2006	5.6	51	22	Though Steve Martin is game, the particulars of the Inspector Clouseau character elude him in this middling update.
+The Postman	1997	5.9	49	9	No consensus yet.
+The Purge	2013	5.6	36	38	Half social allegory, half home-invasion thriller, The Purge attempts to make an intelligent point, but ultimately devolves into numbing violence and tired clich s.
+The Ring Two	2005	5.4	33	19	Ring Two serves up horror cliches, and not even Hideo Nakata, the director of the movies from which this one is based, can save the movie from a dull screenplay full of absurdities.
+The Ruins	2008	5.9	30	47	Despite a solid cast and truly frightening source material, The Ruins founders, thanks to a weak script and an excess of gore.
+The Scorpion King	2002	5.5	38	40	Action adventure doesn't get much cheesier than The Scorpion King.
+The Sitter	2011	5.7	40	21	With its recycled plot, misguided gags, and formula performance from Jonah Hill, The Sitter adds up to another disappointing entry from director David Gordon Green.
+The Smurfs	2011	5.5	44	22	The Smurfs assembles an undeniably talented cast of voice actors and live-action stars -- then crushes them beneath a blue mound of lowest-common-denominator kiddie fare.
+The Spirit	2008	4.8	25	14	Though its visuals are unique, The Spirit's plot is almost incomprehensible, the dialogue is ludicrously mannered, and the characters are unmemorable.
+The Texas Chainsaw Massacre: The Beginning	2006	5.9	54	12	The Texas Chainsaw Massacre: The Beginning is full of blood and gore, but not enough scares or a coherent story to make for a successful horror film.
+The Three Musketeers	2011	5.8	39	24	It plays admirably fast and loose with Alexandre Dumas' classic tale, but in every other respect, The Three Musketeers offers nothing to recommend -- or to set it apart from the many other film adaptations.
+The Time Machine	2002	5.9	37	28	This Machine has all the razzle-dazzles of modern special effects, but the movie takes a turn for the worst when it switches from a story about lost love to a confusing action-thriller.
+The Tuxedo	2002	5.2	30	21	Chan is as charming as ever, but his talents are squandered by special effects and bad writing.
+The Watch	2012	5.7	39	16	The Watch uneasily mixes sci-fi elements with gross-out gags and strands its talented cast with a script that favors vulgarity over wit at nearly every turn.
+The Wedding Planner	2001	5.2	59	16	Instead of being light and charming, this romantic comedy is heavy-handed and contrived in its execution. Also, it's too unoriginal.
+The Wolfman	2010	5.8	33	34	Suitably grand and special effects-laden, The Wolfman suffers from a suspense-deficient script and a surprising lack of genuine chills.
+Twins	1988	5.9	38	34	No consensus yet.
+Ultraviolet	2006	4.4	30	9	An incomprehensible and forgettable sci-fi thriller, Ultraviolet is inept in every regard.
+Universal Soldier	1992	5.9	47	19	No consensus yet.
+Volcano	1997	5.4	32	43	No consensus yet.
+White Chicks	2004	5.4	55	14	Scattershot comedy that's silly and obvious.
+Wild Wild West	1999	4.8	28	16	Bombastic, manic, and largely laugh-free, Wild Wild West is a bizarre misfire in which greater care was lavished upon the special effects than on the script.
+Year One	2009	4.9	23	15	Year One is a poorly executed, slapdash comedy in which the talent both in front of and behind the camera never seem to be on the same page.
+You Don't Mess With the Zohan	2008	5.5	45	37	You Don't Mess With the Zohan features intermittent laughs, and will please Sandler diehards, but after awhile the leaky premise wears thin.
+You, Me and Dupree	2006	5.6	50	20	A rather generic entry into the arrested development subgenre, with themes borrowed from other more successful and funnier films. Dupree wears out its welcome.
+Your Highness	2011	5.6	34	27	Big budgets and costumes in service of scatalogical jokes may seem funny on paper, but in execution this is a highly monotonous romp that registers only occasional laughs.
+Jobs	2013	5.9	40	27	An ambitious but skin-deep portrait of an influential, complex figure, Jobs often has the feel of an over-sentimentalized made-for-TV biopic.
