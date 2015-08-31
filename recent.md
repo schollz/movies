@@ -5,6 +5,9 @@ description: This list is a list of the best movies in the last three years. The
 keywords: "movies, reddit, unknown, recent, overrated, underrated, rotten tomatoes, imdb, metacritic, best, films"
 ---
 <p class="lead">Not all films are movies and not all movies are films. This list is a list of the best movies in the last three years. They are sorted from best to worst, though all of them share extraordinary qualities in film making.</p>
+
+[Text version](http://rpiai.com/movies/text/recent.txt)
+
 <div class="row">
 <div class="col-xs-12 col-md-6"><div class="row"><div class="col-xs-9">
 <h3><a href='http://www.rottentomatoes.com/m/whiplash_2014/'>Whiplash (2014)</a>&nbsp;<span class="bar">100,99,90,100</span></h3><p><code>IMDB: 8.6, RT Aud: 95&#37;, RT Critics: 94&#37;</code></p><p class="lead">Intense, inspiring, and well-acted, Whiplash is a brilliant sophomore effort from director Damien Chazelle and a riveting vehicle for stars J.K. Simmons and Miles Teller.</p></div>
