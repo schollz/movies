@@ -36,15 +36,36 @@ keywords: "movies, reddit, unknown, recent, overrated, underrated, rotten tomato
 <center>
 <div class="row">
 <div class="col-lg-12 visible-lg visible-md">
-<iframe src="http://rcm-na.amazon-adsystem.com/e/cm?t=techblogandli-20&o=1&p=48&l=ur1&category=musicandentertainmentrot&f=ifr&linkID=Q2UKCBH2NQB7PJWJ" width="728" height="90" scrolling="no" border="0" marginwidth="0" style="border:none;" frameborder="0"></iframe>
+
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- Google leaderboard -->
+<ins class="adsbygoogle"
+     style="display:inline-block;width:728px;height:90px"
+     data-ad-client="ca-pub-4947875154879707"
+     data-ad-slot="7446374452"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 
 </div>
 <div class="col-sm-12 visible-sm visible-xs">
-<iframe src="http://rcm-na.amazon-adsystem.com/e/cm?t=techblogandli-20&o=1&p=12&l=ur1&category=musicandentertainmentrot&f=ifr&linkID=32GFT4RW5USFC6L4" width="300" height="250" scrolling="no" border="0" marginwidth="0" style="border:none;" frameborder="0"></iframe>
+
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- Mobile banner -->
+<ins class="adsbygoogle"
+     style="display:inline-block;width:320px;height:100px"
+     data-ad-client="ca-pub-4947875154879707"
+     data-ad-slot="8923107653"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script>
 
 </div>
 </div>
 </center>
+
+
 
 
 
@@ -91,7 +112,45 @@ keywords: "movies, reddit, unknown, recent, overrated, underrated, rotten tomato
 <div class="col-xs-12 col-md-6"><div class="row"><div class="col-xs-9">
 <h3><a href='http://www.rottentomatoes.com/m/citizenfour/'>Citizenfour (2014)</a>&nbsp;<span class="bar">99,93,93,100</span></h3><p><code>IMDB: 8.2, RT Aud: 88&#37;, RT Critics: 97&#37;</code></p><p class="lead">Part real-life thriller, part sobering examination of 21st century civil liberties, Citizenfour transcends ideology to offer riveting, must-see cinema.</p></div>
 <div class="col-xs-3"><br><br><img width=100% class="lazy" data-original="http://resizing.flixster.com/9kOIeftR2d1dq7D9I8s-RrQ1p9Y=/800x1174/dkpu1ddg7pbsk.cloudfront.net/movie/11/18/10/11181051_ori.jpg"></div></div></div>
-</div><div class="row">
+</div>
+
+
+<center>
+<div class="row">
+<div class="col-lg-12 visible-lg visible-md">
+
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- Google leaderboard -->
+<ins class="adsbygoogle"
+     style="display:inline-block;width:728px;height:90px"
+     data-ad-client="ca-pub-4947875154879707"
+     data-ad-slot="7446374452"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
+
+</div>
+<div class="col-sm-12 visible-sm visible-xs">
+
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- Mobile banner -->
+<ins class="adsbygoogle"
+     style="display:inline-block;width:320px;height:100px"
+     data-ad-client="ca-pub-4947875154879707"
+     data-ad-slot="8923107653"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
+</div>
+</div>
+</center>
+
+
+
+
+<div class="row">
 <div class="col-xs-12 col-md-6"><div class="row"><div class="col-xs-9">
 <h3><a href='http://www.rottentomatoes.com/m/taxi_2015/'>Taxi (2015)</a>&nbsp;<span class="bar">99,100,100,100</span></h3><p><code>IMDB: 8.2, RT Aud: 100&#37;, RT Critics: 100&#37;</code></p><p class="lead">No consensus yet.</p></div>
 <div class="col-xs-3"><br><br><img width=100% class="lazy" data-original="http://resizing.flixster.com/HU-N8KrjnoJMOL4pg_8EfLagx4o=/284x405/dkpu1ddg7pbsk.cloudfront.net/movie/11/19/06/11190688_ori.jpg"></div></div></div>
@@ -202,7 +261,46 @@ keywords: "movies, reddit, unknown, recent, overrated, underrated, rotten tomato
 <div class="col-xs-12 col-md-6"><div class="row"><div class="col-xs-9">
 <h3><a href='http://www.rottentomatoes.com/m/filmage_the_story_of_descendentsall_2013/'>Filmage: The Story of Descendents/All (2013)</a>&nbsp;<span class="bar">100,98,100,100</span></h3><p><code>IMDB: 8.6, RT Aud: 93&#37;, RT Critics: 100&#37;</code></p><p class="lead">No consensus yet.</p></div>
 <div class="col-xs-3"><br><br><img width=100% class="lazy" data-original="http://resizing.flixster.com/AIDv6YK8fjlKlyP1YzDpGDBcwqg=/640x948/dkpu1ddg7pbsk.cloudfront.net/movie/11/17/45/11174510_ori.jpg"></div></div></div>
-</div><div class="row">
+</div>
+
+<center>
+<div class="row">
+<div class="col-lg-12 visible-lg visible-md">
+
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- Google leaderboard -->
+<ins class="adsbygoogle"
+     style="display:inline-block;width:728px;height:90px"
+     data-ad-client="ca-pub-4947875154879707"
+     data-ad-slot="7446374452"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
+
+</div>
+<div class="col-sm-12 visible-sm visible-xs">
+
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- Mobile banner -->
+<ins class="adsbygoogle"
+     style="display:inline-block;width:320px;height:100px"
+     data-ad-client="ca-pub-4947875154879707"
+     data-ad-slot="8923107653"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
+</div>
+</div>
+</center>
+
+
+
+
+
+
+<div class="row">
 <div class="col-xs-12 col-md-6"><div class="row"><div class="col-xs-9">
 <h3><a href='http://www.rottentomatoes.com/m/hard_to_be_a_god_2015/'>Hard to be a God (2015)</a>&nbsp;<span class="bar">73,76,92,100</span></h3><p><code>IMDB: 7.1, RT Aud: 78&#37;, RT Critics: 96&#37;</code></p><p class="lead">No consensus yet.</p></div>
 <div class="col-xs-3"><br><br><img width=100% class="lazy" data-original="http://resizing.flixster.com/q3aFKWIiV1HeJM6fJlcUPM_IOX4=/800x1141/dkpu1ddg7pbsk.cloudfront.net/movie/11/18/95/11189513_ori.jpg"></div></div></div>
@@ -392,7 +490,47 @@ keywords: "movies, reddit, unknown, recent, overrated, underrated, rotten tomato
 <div class="col-xs-12 col-md-6"><div class="row"><div class="col-xs-9">
 <h3><a href='http://www.rottentomatoes.com/m/the_way_he_looks/'>The Way He Looks (2014)</a>&nbsp;<span class="bar">98,94,86,100</span></h3><p><code>IMDB: 8.1, RT Aud: 89&#37;, RT Critics: 91&#37;</code></p><p class="lead">Compassionate, emotionally detailed, and populated with resonant characters, The Way He Looks leaves a warmth that lingers.</p></div>
 <div class="col-xs-3"><br><br><img width=100% class="lazy" data-original="http://resizing.flixster.com/R4Oa150LHzL4Qee9tHqH1ax3qlc=/800x1178/dkpu1ddg7pbsk.cloudfront.net/movie/11/18/08/11180846_ori.jpg"></div></div></div>
-</div><div class="row">
+</div>
+
+
+<center>
+<div class="row">
+<div class="col-lg-12 visible-lg visible-md">
+
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- Google leaderboard -->
+<ins class="adsbygoogle"
+     style="display:inline-block;width:728px;height:90px"
+     data-ad-client="ca-pub-4947875154879707"
+     data-ad-slot="7446374452"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
+
+</div>
+<div class="col-sm-12 visible-sm visible-xs">
+
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- Mobile banner -->
+<ins class="adsbygoogle"
+     style="display:inline-block;width:320px;height:100px"
+     data-ad-client="ca-pub-4947875154879707"
+     data-ad-slot="8923107653"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
+</div>
+</div>
+</center>
+
+
+
+
+
+
+<div class="row">
 <div class="col-xs-12 col-md-6"><div class="row"><div class="col-xs-9">
 <h3><a href='http://www.rottentomatoes.com/m/inequality_for_all_2013/'>Inequality For All (2013)</a>&nbsp;<span class="bar">97,93,85,100</span></h3><p><code>IMDB: 8.0, RT Aud: 88&#37;, RT Critics: 90&#37;</code></p><p class="lead">While it arrives in a glut of similarly themed documentaries, Inequality for All distinguishes itself with a compelling presentation of an important message, as well as much-needed splashes of wit.</p></div>
 <div class="col-xs-3"><br><br><img width=100% class="lazy" data-original="http://resizing.flixster.com/hI0vp6nrun_1MpL4-y3blJhoikc=/648x960/dkpu1ddg7pbsk.cloudfront.net/movie/11/17/28/11172807_ori.jpg"></div></div></div>
@@ -749,7 +887,46 @@ keywords: "movies, reddit, unknown, recent, overrated, underrated, rotten tomato
 <div class="col-xs-12 col-md-6"><div class="row"><div class="col-xs-9">
 <h3><a href='http://www.rottentomatoes.com/m/the_spectacular_now/'>The Spectacular Now (2013)</a>&nbsp;<span class="bar">77,72,87,100</span></h3><p><code>IMDB: 7.2, RT Aud: 76&#37;, RT Critics: 92&#37;</code></p><p class="lead">The Spectacular Now is an adroit, sensitive film that avoids typical coming-of-age story trappings.</p></div>
 <div class="col-xs-3"><br><br><img width=100% class="lazy" data-original="http://resizing.flixster.com/VU0DrscvAFNf1Om3w4dvGy4gwEQ=/800x1182/dkpu1ddg7pbsk.cloudfront.net/movie/11/17/20/11172008_ori.jpg"></div></div></div>
-</div><div class="row">
+</div>
+
+<center>
+<div class="row">
+<div class="col-lg-12 visible-lg visible-md">
+
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- Google leaderboard -->
+<ins class="adsbygoogle"
+     style="display:inline-block;width:728px;height:90px"
+     data-ad-client="ca-pub-4947875154879707"
+     data-ad-slot="7446374452"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
+
+</div>
+<div class="col-sm-12 visible-sm visible-xs">
+
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- Mobile banner -->
+<ins class="adsbygoogle"
+     style="display:inline-block;width:320px;height:100px"
+     data-ad-client="ca-pub-4947875154879707"
+     data-ad-slot="8923107653"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
+</div>
+</div>
+</center>
+
+
+
+
+
+
+<div class="row">
 <div class="col-xs-12 col-md-6"><div class="row"><div class="col-xs-9">
 <h3><a href='http://www.rottentomatoes.com/m/aint_in_it_for_my_health_a_film_about_levon_helm/'>Ain't In It For My Health: A Film About Levon Helm (2013)</a>&nbsp;<span class="bar">77,72,87,100</span></h3><p><code>IMDB: 7.2, RT Aud: 76&#37;, RT Critics: 92&#37;</code></p><p class="lead">No consensus yet.</p></div>
 <div class="col-xs-3"><br><br><img width=100% class="lazy" data-original="http://resizing.flixster.com/RNXITGueojKQgW589sQIa39Tzso=/800x1182/dkpu1ddg7pbsk.cloudfront.net/movie/11/17/09/11170904_ori.jpg"></div></div></div>
@@ -981,7 +1158,46 @@ keywords: "movies, reddit, unknown, recent, overrated, underrated, rotten tomato
 <div class="col-xs-12 col-md-6"><div class="row"><div class="col-xs-9">
 <h3><a href='http://www.rottentomatoes.com/m/stolen_seas_2013/'>Stolen Seas (2013)</a>&nbsp;<span class="bar">73,85,100,100</span></h3><p><code>IMDB: 7.1, RT Aud: 83&#37;, RT Critics: 100&#37;</code></p><p class="lead">No consensus yet.</p></div>
 <div class="col-xs-3"><br><br><img width=100% class="lazy" data-original="http://resizing.flixster.com/p7f38UX3Uot4BbEUY-gA-bUHhFw=/800x1200/dkpu1ddg7pbsk.cloudfront.net/movie/11/16/86/11168642_ori.jpg"></div></div></div>
-</div><div class="row">
+</div>
+
+<center>
+<div class="row">
+<div class="col-lg-12 visible-lg visible-md">
+
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- Google leaderboard -->
+<ins class="adsbygoogle"
+     style="display:inline-block;width:728px;height:90px"
+     data-ad-client="ca-pub-4947875154879707"
+     data-ad-slot="7446374452"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
+
+</div>
+<div class="col-sm-12 visible-sm visible-xs">
+
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- Mobile banner -->
+<ins class="adsbygoogle"
+     style="display:inline-block;width:320px;height:100px"
+     data-ad-client="ca-pub-4947875154879707"
+     data-ad-slot="8923107653"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
+</div>
+</div>
+</center>
+
+
+
+
+
+
+<div class="row">
 <div class="col-xs-12 col-md-6"><div class="row"><div class="col-xs-9">
 <h3><a href='http://www.rottentomatoes.com/m/despicable_me_2/'>Despicable Me 2 (2013)</a>&nbsp;<span class="bar">87,88,61,100</span></h3><p><code>IMDB: 7.5, RT Aud: 85&#37;, RT Critics: 73&#37;</code></p><p class="lead">Despicable Me 2 offers plenty of eye-popping visual inventiveness and a number of big laughs.</p></div>
 <div class="col-xs-3"><br><br><img width=100% class="lazy" data-original="http://d3biamo577v4eu.cloudfront.net/static/images/redesign/poster_default_large.jpg"></div></div></div>
