@@ -36,7 +36,44 @@ keywords: "movies, reddit, unknown, rotten tomatoes, imdb, metacritic, best, fil
 <div class="col-xs-12 col-md-6"><div class="row"><div class="col-xs-9">
 <h3><a href='http://www.rottentomatoes.com/m/love_rosie/'>Love, Rosie (2015)</a>&nbsp;<span class="bar">77,73,22,100</span></h3><p><code>IMDB: 7.2, RT Aud: 62&#37;, RT Critics: 26&#37;</code></p><p class="lead">Lilly Collins and Sam Claflin are appealing, and they give it their all, but they're undone by Love, Rosie's silly, clich d storyline.</p></div>
 <div class="col-xs-3"><br><br><img width=100% class="lazy" data-original="http://resizing.flixster.com/Gu9rnp_IW8ii-LgWe2l9yXhCJpo=/800x1200/dkpu1ddg7pbsk.cloudfront.net/movie/11/19/06/11190608_ori.jpg"></div></div></div>
-</div><div class="row">
+</div>
+
+
+<center>
+<div class="row">
+<div class="col-lg-12 visible-lg visible-md">
+
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- Google leaderboard -->
+<ins class="adsbygoogle"
+     style="display:inline-block;width:728px;height:90px"
+     data-ad-client="ca-pub-4947875154879707"
+     data-ad-slot="7446374452"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
+
+</div>
+<div class="col-sm-12 visible-sm visible-xs">
+
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- Mobile banner -->
+<ins class="adsbygoogle"
+     style="display:inline-block;width:320px;height:100px"
+     data-ad-client="ca-pub-4947875154879707"
+     data-ad-slot="8923107653"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
+</div>
+</div>
+</center>
+
+
+
+<div class="row">
 <div class="col-xs-12 col-md-6"><div class="row"><div class="col-xs-9">
 <h3><a href='http://www.rottentomatoes.com/m/machine_gun_preacher/'>Machine Gun Preacher (2011)</a>&nbsp;<span class="bar">62,65,27,100</span></h3><p><code>IMDB: 6.8, RT Aud: 62&#37;, RT Critics: 28&#37;</code></p><p class="lead">There's a complex man at the center of Machine Gun Preacher but the movie is too shapeless and emotionally vacant to bring his story to life.</p></div>
 <div class="col-xs-3"><br><br><img width=100% class="lazy" data-original="http://resizing.flixster.com/LprCq_gqRBbLS5LzVsg26Su8FjY=/640x948/dkpu1ddg7pbsk.cloudfront.net/movie/11/15/93/11159360_ori.jpg"></div></div></div>
@@ -71,7 +108,44 @@ keywords: "movies, reddit, unknown, rotten tomatoes, imdb, metacritic, best, fil
 <div class="col-xs-12 col-md-6"><div class="row"><div class="col-xs-9">
 <h3><a href='http://www.rottentomatoes.com/m/ultimate_gift/'>The Ultimate Gift (2006)</a>&nbsp;<span class="bar">84,95,31,100</span></h3><p><code>IMDB: 7.4, RT Aud: 85&#37;, RT Critics: 32&#37;</code></p><p class="lead">Though The Ultimate Gift avoids religious speechifying like other Fox Faith films, it's dramatically inert with flat direction.</p></div>
 <div class="col-xs-3"><br><br><img width=100% class="lazy" data-original="http://resizing.flixster.com/70e9iQihyMqAnBk3ayIhTRz9G94=/224x320/dkpu1ddg7pbsk.cloudfront.net/movie/11/16/49/11164959_ori.jpg"></div></div></div>
-</div><div class="row">
+</div>
+
+<center>
+<div class="row">
+<div class="col-lg-12 visible-lg visible-md">
+
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- Google leaderboard -->
+<ins class="adsbygoogle"
+     style="display:inline-block;width:728px;height:90px"
+     data-ad-client="ca-pub-4947875154879707"
+     data-ad-slot="7446374452"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
+
+</div>
+<div class="col-sm-12 visible-sm visible-xs">
+
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- Mobile banner -->
+<ins class="adsbygoogle"
+     style="display:inline-block;width:320px;height:100px"
+     data-ad-client="ca-pub-4947875154879707"
+     data-ad-slot="8923107653"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
+</div>
+</div>
+</center>
+
+
+
+
+<div class="row">
 <div class="col-xs-12 col-md-6"><div class="row"><div class="col-xs-9">
 <h3><a href='http://www.rottentomatoes.com/m/music_within/'>Music Within (2007)</a>&nbsp;<span class="bar">84,86,33,100</span></h3><p><code>IMDB: 7.4, RT Aud: 78&#37;, RT Critics: 33&#37;</code></p><p class="lead">Music Within is a well-intentioned but pedestrian production of a story that deserves better treatment.</p></div>
 <div class="col-xs-3"><br><br><img width=100% class="lazy" data-original="http://resizing.flixster.com/-4J9j_rQx0I1Nn5o4iKvxZN8sRQ=/300x443/dkpu1ddg7pbsk.cloudfront.net/movie/10/37/25/10372529_ori.jpg"></div></div></div>
@@ -115,7 +189,45 @@ keywords: "movies, reddit, unknown, rotten tomatoes, imdb, metacritic, best, fil
 <div class="col-xs-12 col-md-6"><div class="row"><div class="col-xs-9">
 <h3><a href='http://www.rottentomatoes.com/m/1096832-where_the_heart_is/'>Where the Heart Is (2000)</a>&nbsp;<span class="bar">62,65,22,100</span></h3><p><code>IMDB: 6.8, RT Aud: 77&#37;, RT Critics: 35&#37;</code></p><p class="lead">Poor script and messy plot undermines the decent cast.</p></div>
 <div class="col-xs-3"><br><br><img width=100% class="lazy" data-original="http://resizing.flixster.com/wSw-X4jIvjhsCAU5QCzxQy7_coc=/224x320/dkpu1ddg7pbsk.cloudfront.net/movie/11/16/48/11164817_ori.jpg"></div></div></div>
-</div><div class="row">
+</div>
+
+
+<center>
+<div class="row">
+<div class="col-lg-12 visible-lg visible-md">
+
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- Google leaderboard -->
+<ins class="adsbygoogle"
+     style="display:inline-block;width:728px;height:90px"
+     data-ad-client="ca-pub-4947875154879707"
+     data-ad-slot="7446374452"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
+
+</div>
+<div class="col-sm-12 visible-sm visible-xs">
+
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- Mobile banner -->
+<ins class="adsbygoogle"
+     style="display:inline-block;width:320px;height:100px"
+     data-ad-client="ca-pub-4947875154879707"
+     data-ad-slot="8923107653"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
+</div>
+</div>
+</center>
+
+
+
+
+<div class="row">
 <div class="col-xs-12 col-md-6"><div class="row"><div class="col-xs-9">
 <h3><a href='http://www.rottentomatoes.com/m/august_rush/'>August Rush (2007)</a>&nbsp;<span class="bar">97,91,25,100</span></h3><p><code>IMDB: 8.0, RT Aud: 82&#37;, RT Critics: 36&#37;</code></p><p class="lead">Though featuring a talented cast, August Rush cannot overcome the flimsy direction and schmaltzy plot.</p></div>
 <div class="col-xs-3"><br><br><img width=100% class="lazy" data-original="http://resizing.flixster.com/-wxBfjHClAoojAVnOq7A2x_bsp0=/300x444/dkpu1ddg7pbsk.cloudfront.net/movie/96/76/16/9676160_ori.jpg"></div></div></div>
