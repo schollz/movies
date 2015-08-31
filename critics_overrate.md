@@ -23,7 +23,44 @@ keywords: "movies, reddit, overrated, rotten tomatoes, imdb, metacritic, best, f
 <div class="col-xs-12 col-md-6"><div class="row"><div class="col-xs-9">
 <h3><a href='http://www.rottentomatoes.com/m/manakamana/'>Manakamana (2014)</a>&nbsp;<span class="bar">58,48,91,100</span></h3><p><code>IMDB: 6.7, RT Aud: 62&#37;, RT Critics: 95&#37;</code></p><p class="lead">Its tranquil pace will prove jarring for the blockbuster-inclined, but Manakamana rewards patient viewers with a singularly haunting experience.</p></div>
 <div class="col-xs-3"><br><br><img width=100% class="lazy" data-original="http://resizing.flixster.com/OGYelJdbem4oOVKgpo5aC113OGQ=/800x1185/dkpu1ddg7pbsk.cloudfront.net/movie/11/17/70/11177015_ori.jpg"></div></div></div>
-</div><div class="row">
+</div>
+
+
+<center>
+<div class="row">
+<div class="col-lg-12 visible-lg visible-md">
+
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- Google leaderboard -->
+<ins class="adsbygoogle"
+     style="display:inline-block;width:728px;height:90px"
+     data-ad-client="ca-pub-4947875154879707"
+     data-ad-slot="7446374452"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
+
+</div>
+<div class="col-sm-12 visible-sm visible-xs">
+
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- Mobile banner -->
+<ins class="adsbygoogle"
+     style="display:inline-block;width:320px;height:100px"
+     data-ad-client="ca-pub-4947875154879707"
+     data-ad-slot="8923107653"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
+</div>
+</div>
+</center>
+
+
+
+<div class="row">
 
 <div class="col-xs-12 col-md-6"><div class="row"><div class="col-xs-9">
 <h3><a href='http://www.rottentomatoes.com/m/spy_kids/'>Spy Kids (2001)</a>&nbsp;<span class="bar">17,7,80,100</span></h3><p><code>IMDB: 5.4, RT Aud: 45&#37;, RT Critics: 92&#37;</code></p><p class="lead">A kinetic and fun movie that's sure to thrill children of all ages.</p></div>
@@ -52,7 +89,44 @@ keywords: "movies, reddit, overrated, rotten tomatoes, imdb, metacritic, best, f
 <div class="col-xs-12 col-md-6"><div class="row"><div class="col-xs-9">
 <h3><a href='http://www.rottentomatoes.com/m/scandal_1989/'>Scandal (1989)</a>&nbsp;<span class="bar">46,42,85,100</span></h3><p><code>IMDB: 6.4, RT Aud: 61&#37;, RT Critics: 90&#37;</code></p><p class="lead">No consensus yet.</p></div>
 <div class="col-xs-3"><br><br><img width=100% class="lazy" data-original="http://resizing.flixster.com/BJRM1LvviNtF0GGLV0EfmOrXeno=/337x475/dkpu1ddg7pbsk.cloudfront.net/movie/28/07/280708_ori.jpg"></div></div></div>
-</div><div class="row">
+</div>
+
+<center>
+<div class="row">
+<div class="col-lg-12 visible-lg visible-md">
+
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- Google leaderboard -->
+<ins class="adsbygoogle"
+     style="display:inline-block;width:728px;height:90px"
+     data-ad-client="ca-pub-4947875154879707"
+     data-ad-slot="7446374452"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
+
+</div>
+<div class="col-sm-12 visible-sm visible-xs">
+
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- Mobile banner -->
+<ins class="adsbygoogle"
+     style="display:inline-block;width:320px;height:100px"
+     data-ad-client="ca-pub-4947875154879707"
+     data-ad-slot="8923107653"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
+</div>
+</div>
+</center>
+
+
+
+
+<div class="row">
 <div class="col-xs-12 col-md-6"><div class="row"><div class="col-xs-9">
 <h3><a href='http://www.rottentomatoes.com/m/uncle_boonmee/'>Uncle Boonmee Who Can Recall His Past Lives (2011)</a>&nbsp;<span class="bar">54,49,93,100</span></h3><p><code>IMDB: 6.6, RT Aud: 60&#37;, RT Critics: 89&#37;</code></p><p class="lead">Languorous and deeply enigmatic, Palme d'Or winner Uncle Boonmee represents an original take on the ghosts that haunt us.</p></div>
 <div class="col-xs-3"><br><br><img width=100% class="lazy" data-original="http://resizing.flixster.com/SvjV4w3vubdpTt7YGxP78R5Dppc=/601x885/dkpu1ddg7pbsk.cloudfront.net/movie/11/15/55/11155577_ori.jpg"></div></div></div>
@@ -73,7 +147,44 @@ keywords: "movies, reddit, overrated, rotten tomatoes, imdb, metacritic, best, f
 <div class="col-xs-12 col-md-6"><div class="row"><div class="col-xs-9">
 <h3><a href='http://www.rottentomatoes.com/m/we_are_what_we_are_2013/'>We Are What We Are (2013)</a>&nbsp;<span class="bar">26,34,76,100</span></h3><p><code>IMDB: 5.8, RT Aud: 48&#37;, RT Critics: 85&#37;</code></p><p class="lead">A compelling story cleverly told, We Are What We Are quenches horror buffs' thirst for gore while serving up serious-minded filmmaking and solid acting.</p></div>
 <div class="col-xs-3"><br><br><img width=100% class="lazy" data-original="http://resizing.flixster.com/YgNsxvV84FC4bXvYwVtJYR_V2MI=/800x1178/dkpu1ddg7pbsk.cloudfront.net/movie/11/17/34/11173453_ori.jpg"></div></div></div>
-</div><div class="row">
+</div>
+
+
+<center>
+<div class="row">
+<div class="col-lg-12 visible-lg visible-md">
+
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- Google leaderboard -->
+<ins class="adsbygoogle"
+     style="display:inline-block;width:728px;height:90px"
+     data-ad-client="ca-pub-4947875154879707"
+     data-ad-slot="7446374452"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
+
+</div>
+<div class="col-sm-12 visible-sm visible-xs">
+
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- Mobile banner -->
+<ins class="adsbygoogle"
+     style="display:inline-block;width:320px;height:100px"
+     data-ad-client="ca-pub-4947875154879707"
+     data-ad-slot="8923107653"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
+</div>
+</div>
+</center>
+
+
+
+<div class="row">
 <div class="col-xs-12 col-md-6"><div class="row"><div class="col-xs-9">
 <h3><a href='http://www.rottentomatoes.com/m/secret_lives_of_dentists/'>The Secret Lives of Dentists (2003)</a>&nbsp;<span class="bar">50,42,80,100</span></h3><p><code>IMDB: 6.5, RT Aud: 57&#37;, RT Critics: 85&#37;</code></p><p class="lead">A witty and honest look at marriage in decay.</p></div>
 <div class="col-xs-3"><br><br><img width=100% class="lazy" data-original="http://resizing.flixster.com/DWUsnesv4gYwmEMuXxTQnYHU-7k=/325x475/dkpu1ddg7pbsk.cloudfront.net/movie/10/88/77/10887717_ori.jpg"></div></div></div>
@@ -96,7 +207,43 @@ keywords: "movies, reddit, overrated, rotten tomatoes, imdb, metacritic, best, f
 <div class="col-xs-12 col-md-6"><div class="row"><div class="col-xs-9">
 <h3><a href='http://www.rottentomatoes.com/m/blue_caprice_2013/'>Blue Caprice (2013)</a>&nbsp;<span class="bar">32,42,82,100</span></h3><p><code>IMDB: 6.0, RT Aud: 52&#37;, RT Critics: 82&#37;</code></p><p class="lead">Smart, sobering, and quietly chilling, Blue Caprice uses its horrible true-life story -- and some solid performances -- to underscore the dreadful banality of evil.</p></div>
 <div class="col-xs-3"><br><br><img width=100% class="lazy" data-original="http://resizing.flixster.com/c5LjZVxx1C094Hc2kHhon1ksk0g=/800x1196/dkpu1ddg7pbsk.cloudfront.net/movie/11/16/92/11169239_ori.jpg"></div></div></div>
-</div><div class="row">
+</div>
+
+<center>
+<div class="row">
+<div class="col-lg-12 visible-lg visible-md">
+
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- Google leaderboard -->
+<ins class="adsbygoogle"
+     style="display:inline-block;width:728px;height:90px"
+     data-ad-client="ca-pub-4947875154879707"
+     data-ad-slot="7446374452"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
+
+</div>
+<div class="col-sm-12 visible-sm visible-xs">
+
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- Mobile banner -->
+<ins class="adsbygoogle"
+     style="display:inline-block;width:320px;height:100px"
+     data-ad-client="ca-pub-4947875154879707"
+     data-ad-slot="8923107653"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
+</div>
+</div>
+</center>
+
+
+
+<div class="row">
 <div class="col-xs-12 col-md-6"><div class="row"><div class="col-xs-9">
 <h3><a href='http://www.rottentomatoes.com/m/100_bloody_acres_2013/'>100 Bloody Acres (2013)</a>&nbsp;<span class="bar">29,34,63,100</span></h3><p><code>IMDB: 5.9, RT Aud: 47&#37;, RT Critics: 82&#37;</code></p><p class="lead">No consensus yet.</p></div>
 <div class="col-xs-3"><br><br><img width=100% class="lazy" data-original="http://resizing.flixster.com/dDrAsE_1TX4TKauvVRrK5Dl-sKI=/800x1178/dkpu1ddg7pbsk.cloudfront.net/movie/11/17/16/11171638_ori.jpg"></div></div></div>
@@ -124,7 +271,43 @@ keywords: "movies, reddit, overrated, rotten tomatoes, imdb, metacritic, best, f
 <div class="col-xs-12 col-md-6"><div class="row"><div class="col-xs-9">
 <h3><a href='http://www.rottentomatoes.com/m/1177567-lola/'>Lola (2001)</a>&nbsp;<span class="bar">18,20,76,100</span></h3><p><code>IMDB: 5.5, RT Aud: 43&#37;, RT Critics: 80&#37;</code></p><p class="lead">No consensus yet.</p></div>
 <div class="col-xs-3"><br><br><img width=100% class="lazy" data-original="http://resizing.flixster.com/KCJz0IyK2aDXjhUd0zgHZyqOhn4=/110x150/dkpu1ddg7pbsk.cloudfront.net/movie/10/84/83/10848351_ori.jpg"></div></div></div>
-</div><div class="row">
+</div>
+
+
+<center>
+<div class="row">
+<div class="col-lg-12 visible-lg visible-md">
+
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- Google leaderboard -->
+<ins class="adsbygoogle"
+     style="display:inline-block;width:728px;height:90px"
+     data-ad-client="ca-pub-4947875154879707"
+     data-ad-slot="7446374452"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
+
+</div>
+<div class="col-sm-12 visible-sm visible-xs">
+
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- Mobile banner -->
+<ins class="adsbygoogle"
+     style="display:inline-block;width:320px;height:100px"
+     data-ad-client="ca-pub-4947875154879707"
+     data-ad-slot="8923107653"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
+</div>
+</div>
+</center>
+
+
+<div class="row">
 <div class="col-xs-12 col-md-6"><div class="row"><div class="col-xs-9">
 <h3><a href='http://www.rottentomatoes.com/m/cyrus/'>Cyrus (2010)</a>&nbsp;<span class="bar">42,34,73,100</span></h3><p><code>IMDB: 6.3, RT Aud: 53&#37;, RT Critics: 80&#37;</code></p><p class="lead">While it may strike some viewers as slight, Cyrus is a successful hybrid of mainstream production values and the mumblecore ideals of directors Jay and Mark Duplass.</p></div>
 <div class="col-xs-3"><br><br><img width=100% class="lazy" data-original="http://resizing.flixster.com/pmAFl0O5W7FZL6-P-9FhqvHWRuc=/505x755/dkpu1ddg7pbsk.cloudfront.net/movie/11/11/97/11119720_ori.jpg"></div></div></div>
