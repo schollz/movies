@@ -75,7 +75,53 @@ keywords: "movies, reddit, overrated, rotten tomatoes, imdb, metacritic, best, f
 <div class="col-xs-12 col-md-6"><div class="row"><div class="col-xs-9">
 <h3><a href='http://www.rottentomatoes.com/m/coriolanus_2010/'>Coriolanus (2011)</a>&nbsp;<span class="bar">35,49,85,100</span></h3><p><code>IMDB: 6.1, RT Aud: 58&#37;, RT Critics: 92&#37;</code></p><p class="lead">Visceral and visually striking, Ralph Fiennes' Coriolanus proves Shakespeare can still be both electrifying and relevant in a modern context.</p></div>
 <div class="col-xs-3"><br><br><img width=100% class="lazy" data-original="http://resizing.flixster.com/gnLbwYcSAzPNMwDoAfDwEGkai5Y=/509x755/dkpu1ddg7pbsk.cloudfront.net/movie/11/15/94/11159402_ori.jpg"></div></div></div>
-</div><div class="row">
+</div>
+
+
+
+
+
+
+
+
+<center>
+<div class="row">
+<div class="col-lg-12 visible-lg visible-md">
+
+
+<!-- Google leaderboard -->
+<ins class="adsbygoogle"
+     style="display:inline-block;width:728px;height:90px"
+     data-ad-client="ca-pub-4947875154879707"
+     data-ad-slot="7446374452"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
+
+</div>
+<div class="col-sm-12 visible-sm visible-xs">
+
+
+<!-- Mobile banner -->
+<ins class="adsbygoogle"
+     style="display:inline-block;width:320px;height:100px"
+     data-ad-client="ca-pub-4947875154879707"
+     data-ad-slot="8923107653"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
+</div>
+</div>
+</center>
+
+
+
+
+
+
+<div class="row">
 <div class="col-xs-12 col-md-6"><div class="row"><div class="col-xs-9">
 <h3><a href='http://www.rottentomatoes.com/m/10009419-mommas_man/'>Momma's Man (2008)</a>&nbsp;<span class="bar">35,34,88,100</span></h3><p><code>IMDB: 6.1, RT Aud: 50&#37;, RT Critics: 91&#37;</code></p><p class="lead">Moody yet touching, Momma's Man successfully illustrates with elegant simplicity the struggles of a man consumed with his adolescence.</p></div>
 <div class="col-xs-3"><br><br><img width=100% class="lazy" data-original="http://resizing.flixster.com/I7pEUc6Lw0osSUAB8bC1wWWxSw0=/510x755/dkpu1ddg7pbsk.cloudfront.net/movie/11/16/93/11169398_ori.jpg"></div></div></div>
@@ -199,7 +245,48 @@ keywords: "movies, reddit, overrated, rotten tomatoes, imdb, metacritic, best, f
 <h3><a href='http://www.rottentomatoes.com/m/berberian_sound_studio_2012/'>Berberian Sound Studio (2013)</a>&nbsp;<span class="bar">38,42,80,100</span></h3><p><code>IMDB: 6.2, RT Aud: 53&#37;, RT Critics: 83&#37;</code></p><p class="lead">Its reach may exceed its grasp, but with Berberian Sound Studio, director Peter Strickland assembles a suitably twisted, creepy tribute to the Italian Giallo horror movies of the '70s that benefits from a strong central performance by Toby Jones.</p></div>
 <div class="col-xs-3"><br><br><img width=100% class="lazy" data-original="http://resizing.flixster.com/yv9W3Y7L0NAlVDNY399zibEZU70=/700x875/dkpu1ddg7pbsk.cloudfront.net/movie/11/16/80/11168068_ori.jpg"></div></div></div>
 </div>
-<center><div class="row"><div class="col-lg-12 visible-lg visible-md"><iframe src="http://rcm-na.amazon-adsystem.com/e/cm?t=techblogandli-20&o=1&p=48&l=ur1&category=musicandentertainmentrot&f=ifr&linkID=Q2UKCBH2NQB7PJWJ" width="728" height="90" scrolling="no" border="0" marginwidth="0" style="border:none;" frameborder="0"></iframe></div><div class="col-sm-12 visible-sm visible-xs"><iframe src="http://rcm-na.amazon-adsystem.com/e/cm?t=techblogandli-20&o=1&p=12&l=ur1&category=musicandentertainmentrot&f=ifr&linkID=32GFT4RW5USFC6L4" width="300" height="250" scrolling="no" border="0" marginwidth="0" style="border:none;" frameborder="0"></iframe></div></div></center>
+
+
+
+
+
+
+<center>
+<div class="row">
+<div class="col-lg-12 visible-lg visible-md">
+
+
+<!-- Google leaderboard -->
+<ins class="adsbygoogle"
+     style="display:inline-block;width:728px;height:90px"
+     data-ad-client="ca-pub-4947875154879707"
+     data-ad-slot="7446374452"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
+
+</div>
+<div class="col-sm-12 visible-sm visible-xs">
+
+
+<!-- Mobile banner -->
+<ins class="adsbygoogle"
+     style="display:inline-block;width:320px;height:100px"
+     data-ad-client="ca-pub-4947875154879707"
+     data-ad-slot="8923107653"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
+</div>
+</div>
+</center>
+
+
+
+
+
 <div class="row">
 <div class="col-xs-12 col-md-6"><div class="row"><div class="col-xs-9">
 <h3><a href='http://www.rottentomatoes.com/m/drinking_buddies_2013/'>Drinking Buddies (2013)</a>&nbsp;<span class="bar">35,34,73,100</span></h3><p><code>IMDB: 6.1, RT Aud: 49&#37;, RT Critics: 82&#37;</code></p><p class="lead">Smart, funny, and powered by fine performances from Olivia Wilde and Jake Johnson, Drinking Buddies offers a bittersweet slice of observational comedy.</p></div>
@@ -342,7 +429,48 @@ keywords: "movies, reddit, overrated, rotten tomatoes, imdb, metacritic, best, f
 <h3><a href='http://www.rottentomatoes.com/m/tailor_of_panama/'>The Tailor of Panama (2001)</a>&nbsp;<span class="bar">35,27,71,100</span></h3><p><code>IMDB: 6.1, RT Aud: 46&#37;, RT Critics: 76&#37;</code></p><p class="lead">The Tailor of Panama is a smart, darkly satirical thriller with exuberant performances from Pierce Brosnan and Geoffrey Rush.</p></div>
 <div class="col-xs-3"><br><br><img width=100% class="lazy" data-original="http://resizing.flixster.com/vgzYzOPxrBSrbuvkLvOojnfcuKQ=/329x475/dkpu1ddg7pbsk.cloudfront.net/movie/27/40/274026_ori.jpg"></div></div></div>
 </div>
-<center><div class="row"><div class="col-lg-12 visible-lg visible-md"><iframe src="http://rcm-na.amazon-adsystem.com/e/cm?t=techblogandli-20&o=1&p=48&l=ur1&category=musicandentertainmentrot&f=ifr&linkID=Q2UKCBH2NQB7PJWJ" width="728" height="90" scrolling="no" border="0" marginwidth="0" style="border:none;" frameborder="0"></iframe></div><div class="col-sm-12 visible-sm visible-xs"><iframe src="http://rcm-na.amazon-adsystem.com/e/cm?t=techblogandli-20&o=1&p=12&l=ur1&category=musicandentertainmentrot&f=ifr&linkID=32GFT4RW5USFC6L4" width="300" height="250" scrolling="no" border="0" marginwidth="0" style="border:none;" frameborder="0"></iframe></div></div></center>
+
+
+
+
+
+
+<center>
+<div class="row">
+<div class="col-lg-12 visible-lg visible-md">
+
+
+<!-- Google leaderboard -->
+<ins class="adsbygoogle"
+     style="display:inline-block;width:728px;height:90px"
+     data-ad-client="ca-pub-4947875154879707"
+     data-ad-slot="7446374452"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
+
+</div>
+<div class="col-sm-12 visible-sm visible-xs">
+
+
+<!-- Mobile banner -->
+<ins class="adsbygoogle"
+     style="display:inline-block;width:320px;height:100px"
+     data-ad-client="ca-pub-4947875154879707"
+     data-ad-slot="8923107653"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
+</div>
+</div>
+</center>
+
+
+
+
+
 <div class="row">
 <div class="col-xs-12 col-md-6"><div class="row"><div class="col-xs-9">
 <h3><a href='http://www.rottentomatoes.com/m/771357233/'>The Invisible Woman (2013)</a>&nbsp;<span class="bar">38,34,71,100</span></h3><p><code>IMDB: 6.2, RT Aud: 45&#37;, RT Critics: 76&#37;</code></p><p class="lead">Its deliberate pace will frustrate some viewers, but for fans of handsomely mounted period drama, The Invisible Woman offers visual as well as emotional cinematic nourishment.</p></div>
@@ -414,7 +542,48 @@ keywords: "movies, reddit, overrated, rotten tomatoes, imdb, metacritic, best, f
 <h3><a href='http://www.rottentomatoes.com/m/they_came_together/'>They Came Together (2014)</a>&nbsp;<span class="bar">17,15,61,100</span></h3><p><code>IMDB: 5.4, RT Aud: 39&#37;, RT Critics: 68&#37;</code></p><p class="lead">They Came Together is surprisingly messy and perhaps too smart for its own good, but Amy Poehler and Paul Rudd's chemistry is enough to overcome many of the movie's flaws.</p></div>
 <div class="col-xs-3"><br><br><img width=100% class="lazy" data-original="http://resizing.flixster.com/Akz3xeuJ_nakr16iON2-YRtpHaw=/800x1200/dkpu1ddg7pbsk.cloudfront.net/movie/11/18/02/11180261_ori.jpg"></div></div></div>
 </div>
-<center><div class="row"><div class="col-lg-12 visible-lg visible-md"><iframe src="http://rcm-na.amazon-adsystem.com/e/cm?t=techblogandli-20&o=1&p=48&l=ur1&category=musicandentertainmentrot&f=ifr&linkID=Q2UKCBH2NQB7PJWJ" width="728" height="90" scrolling="no" border="0" marginwidth="0" style="border:none;" frameborder="0"></iframe></div><div class="col-sm-12 visible-sm visible-xs"><iframe src="http://rcm-na.amazon-adsystem.com/e/cm?t=techblogandli-20&o=1&p=12&l=ur1&category=musicandentertainmentrot&f=ifr&linkID=32GFT4RW5USFC6L4" width="300" height="250" scrolling="no" border="0" marginwidth="0" style="border:none;" frameborder="0"></iframe></div></div></center>
+
+
+
+
+
+
+<center>
+<div class="row">
+<div class="col-lg-12 visible-lg visible-md">
+
+
+<!-- Google leaderboard -->
+<ins class="adsbygoogle"
+     style="display:inline-block;width:728px;height:90px"
+     data-ad-client="ca-pub-4947875154879707"
+     data-ad-slot="7446374452"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
+
+</div>
+<div class="col-sm-12 visible-sm visible-xs">
+
+
+<!-- Mobile banner -->
+<ins class="adsbygoogle"
+     style="display:inline-block;width:320px;height:100px"
+     data-ad-client="ca-pub-4947875154879707"
+     data-ad-slot="8923107653"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
+</div>
+</div>
+</center>
+
+
+
+
+
 <div class="row">
 <div class="col-xs-12 col-md-6"><div class="row"><div class="col-xs-9">
 <h3><a href='http://www.rottentomatoes.com/m/1060720-kiss_of_death/'>Kiss of Death (1995)</a>&nbsp;<span class="bar">29,27,63,100</span></h3><p><code>IMDB: 5.9, RT Aud: 37&#37;, RT Critics: 67&#37;</code></p><p class="lead">An outstanding ensemble cast propels Kiss of Death, a noir-ish crime thriller that's slick and big on atmosphere, even if its script may only provide sporadic bursts of tension.</p></div>
