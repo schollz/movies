@@ -51,7 +51,7 @@ keywords: "movies, reddit, unknown, recent, overrated, underrated, rotten tomato
 </div>
 <div class="col-sm-12 visible-sm visible-xs">
 
-<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+
 <!-- Mobile banner -->
 <ins class="adsbygoogle"
      style="display:inline-block;width:320px;height:100px"
@@ -98,7 +98,53 @@ keywords: "movies, reddit, unknown, recent, overrated, underrated, rotten tomato
 <div class="col-xs-12 col-md-6"><div class="row"><div class="col-xs-9">
 <h3><a href='http://www.rottentomatoes.com/m/pk/'>PK (2014)</a>&nbsp;<span class="bar">100,88,78,100</span></h3><p><code>IMDB: 8.5, RT Aud: 85&#37;, RT Critics: 85&#37;</code></p><p class="lead">No consensus yet.</p></div>
 <div class="col-xs-3"><br><br><img width=100% class="lazy" data-original="http://d3biamo577v4eu.cloudfront.net/static/images/redesign/poster_default_large.jpg"></div></div></div>
-</div><div class="row">
+</div>
+
+
+
+
+
+
+
+
+<center>
+<div class="row">
+<div class="col-lg-12 visible-lg visible-md">
+
+
+<!-- Google leaderboard -->
+<ins class="adsbygoogle"
+     style="display:inline-block;width:728px;height:90px"
+     data-ad-client="ca-pub-4947875154879707"
+     data-ad-slot="7446374452"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
+
+</div>
+<div class="col-sm-12 visible-sm visible-xs">
+
+
+<!-- Mobile banner -->
+<ins class="adsbygoogle"
+     style="display:inline-block;width:320px;height:100px"
+     data-ad-client="ca-pub-4947875154879707"
+     data-ad-slot="8923107653"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
+</div>
+</div>
+</center>
+
+
+
+
+
+
+<div class="row">
 <div class="col-xs-12 col-md-6"><div class="row"><div class="col-xs-9">
 <h3><a href='http://www.rottentomatoes.com/m/short_term_12_2013/'>Short Term 12 (2013)</a>&nbsp;<span class="bar">97,98,93,100</span></h3><p><code>IMDB: 8.0, RT Aud: 92&#37;, RT Critics: 98&#37;</code></p><p class="lead">Short Term 12 is an emphatic, revealing drama that pulls audiences into the perspective of neglected youths.</p></div>
 <div class="col-xs-3"><br><br><img width=100% class="lazy" data-original="http://resizing.flixster.com/O-zesCacwAy_TXGncxqx4iRL7Uw=/509x755/dkpu1ddg7pbsk.cloudfront.net/movie/11/17/18/11171888_ori.jpg"></div></div></div>
@@ -115,11 +161,15 @@ keywords: "movies, reddit, unknown, recent, overrated, underrated, rotten tomato
 </div>
 
 
+
+
+
+
 <center>
 <div class="row">
 <div class="col-lg-12 visible-lg visible-md">
 
-<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+
 <!-- Google leaderboard -->
 <ins class="adsbygoogle"
      style="display:inline-block;width:728px;height:90px"
@@ -133,7 +183,7 @@ keywords: "movies, reddit, unknown, recent, overrated, underrated, rotten tomato
 </div>
 <div class="col-sm-12 visible-sm visible-xs">
 
-<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+
 <!-- Mobile banner -->
 <ins class="adsbygoogle"
      style="display:inline-block;width:320px;height:100px"
@@ -146,6 +196,7 @@ keywords: "movies, reddit, unknown, recent, overrated, underrated, rotten tomato
 </div>
 </div>
 </center>
+
 
 
 
@@ -209,20 +260,47 @@ keywords: "movies, reddit, unknown, recent, overrated, underrated, rotten tomato
 </div>
 
 
+
+
+
+
+
 <center>
 <div class="row">
 <div class="col-lg-12 visible-lg visible-md">
-<iframe src="http://rcm-na.amazon-adsystem.com/e/cm?t=techblogandli-20&o=1&p=48&l=ur1&category=dvd&banner=1ZWRHXKYV5KJE1AK3J02&f=ifr&linkID=LZMCTT2FC2HE2N4B" width="728" height="90" scrolling="no" border="0" marginwidth="0" style="border:none;" frameborder="0"></iframe>
+
+
+<!-- Google leaderboard -->
+<ins class="adsbygoogle"
+     style="display:inline-block;width:728px;height:90px"
+     data-ad-client="ca-pub-4947875154879707"
+     data-ad-slot="7446374452"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script>
 
 
 </div>
 <div class="col-sm-12 visible-sm visible-xs">
-<iframe src="http://rcm-na.amazon-adsystem.com/e/cm?t=techblogandli-20&o=1&p=12&l=ur1&category=dvd&banner=0GPYG7RE5B833WVRM7G2&f=ifr&linkID=C6RLFB7WROTX7ALW" width="300" height="250" scrolling="no" border="0" marginwidth="0" style="border:none;" frameborder="0"></iframe>
 
+
+<!-- Mobile banner -->
+<ins class="adsbygoogle"
+     style="display:inline-block;width:320px;height:100px"
+     data-ad-client="ca-pub-4947875154879707"
+     data-ad-slot="8923107653"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script>
 
 </div>
 </div>
 </center>
+
+
+
+
+
 
 
 
@@ -263,11 +341,16 @@ keywords: "movies, reddit, unknown, recent, overrated, underrated, rotten tomato
 <div class="col-xs-3"><br><br><img width=100% class="lazy" data-original="http://resizing.flixster.com/AIDv6YK8fjlKlyP1YzDpGDBcwqg=/640x948/dkpu1ddg7pbsk.cloudfront.net/movie/11/17/45/11174510_ori.jpg"></div></div></div>
 </div>
 
+
+
+
+
+
 <center>
 <div class="row">
 <div class="col-lg-12 visible-lg visible-md">
 
-<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+
 <!-- Google leaderboard -->
 <ins class="adsbygoogle"
      style="display:inline-block;width:728px;height:90px"
@@ -281,7 +364,7 @@ keywords: "movies, reddit, unknown, recent, overrated, underrated, rotten tomato
 </div>
 <div class="col-sm-12 visible-sm visible-xs">
 
-<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+
 <!-- Mobile banner -->
 <ins class="adsbygoogle"
      style="display:inline-block;width:320px;height:100px"
@@ -294,6 +377,11 @@ keywords: "movies, reddit, unknown, recent, overrated, underrated, rotten tomato
 </div>
 </div>
 </center>
+
+
+
+
+
 
 
 
@@ -373,22 +461,45 @@ keywords: "movies, reddit, unknown, recent, overrated, underrated, rotten tomato
 </div>
 
 
+
+
+
+
 <center>
 <div class="row">
 <div class="col-lg-12 visible-lg visible-md">
-<iframe src="http://rcm-na.amazon-adsystem.com/e/cm?t=techblogandli-20&o=1&p=48&l=ur1&category=musicandentertainmentrot&f=ifr&linkID=Q2UKCBH2NQB7PJWJ" width="728" height="90" scrolling="no" border="0" marginwidth="0" style="border:none;" frameborder="0"></iframe>
 
+
+<!-- Google leaderboard -->
+<ins class="adsbygoogle"
+     style="display:inline-block;width:728px;height:90px"
+     data-ad-client="ca-pub-4947875154879707"
+     data-ad-slot="7446374452"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script>
 
 
 </div>
 <div class="col-sm-12 visible-sm visible-xs">
-<iframe src="http://rcm-na.amazon-adsystem.com/e/cm?t=techblogandli-20&o=1&p=12&l=ur1&category=musicandentertainmentrot&f=ifr&linkID=32GFT4RW5USFC6L4" width="300" height="250" scrolling="no" border="0" marginwidth="0" style="border:none;" frameborder="0"></iframe>
 
 
+<!-- Mobile banner -->
+<ins class="adsbygoogle"
+     style="display:inline-block;width:320px;height:100px"
+     data-ad-client="ca-pub-4947875154879707"
+     data-ad-slot="8923107653"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script>
 
 </div>
 </div>
 </center>
+
+
+
+
 
 
 
@@ -493,11 +604,17 @@ keywords: "movies, reddit, unknown, recent, overrated, underrated, rotten tomato
 </div>
 
 
+
+
+
+
+
+
 <center>
 <div class="row">
 <div class="col-lg-12 visible-lg visible-md">
 
-<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+
 <!-- Google leaderboard -->
 <ins class="adsbygoogle"
      style="display:inline-block;width:728px;height:90px"
@@ -511,7 +628,7 @@ keywords: "movies, reddit, unknown, recent, overrated, underrated, rotten tomato
 </div>
 <div class="col-sm-12 visible-sm visible-xs">
 
-<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+
 <!-- Mobile banner -->
 <ins class="adsbygoogle"
      style="display:inline-block;width:320px;height:100px"
@@ -524,6 +641,11 @@ keywords: "movies, reddit, unknown, recent, overrated, underrated, rotten tomato
 </div>
 </div>
 </center>
+
+
+
+
+
 
 
 
@@ -612,42 +734,47 @@ keywords: "movies, reddit, unknown, recent, overrated, underrated, rotten tomato
 
 
 
+
+
+
+
+
 <center>
 <div class="row">
 <div class="col-lg-12 visible-lg visible-md">
-<script type="text/javascript" language="javascript">
-  amzn_assoc_ad_type = "contextual";
-  amzn_assoc_tracking_id = "techblogandli-20";
-  amzn_assoc_marketplace = "amazon";
-  amzn_assoc_region = "US";
-  amzn_assoc_placement = "GWFNSKU4CUZ5MEF5";
-  amzn_assoc_linkid = "GWFNSKU4CUZ5MEF5";
-  amzn_assoc_emphasize_categories = "130";
-  amzn_assoc_fallback_products = "";
-  amzn_assoc_width = "728";
-  amzn_assoc_height = "90";
+
+
+<!-- Google leaderboard -->
+<ins class="adsbygoogle"
+     style="display:inline-block;width:728px;height:90px"
+     data-ad-client="ca-pub-4947875154879707"
+     data-ad-slot="7446374452"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
 </script>
-<script type="text/javascript" language="javascript" src="//z-na.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&Operation=GetScript&ID=OneJS&WS=1&MarketPlace=US&source=ac"></script>
+
 
 </div>
-<div class="col-sm-12 visible-sm  visible-xs">
-<script type="text/javascript" language="javascript">
-  amzn_assoc_ad_type = "contextual";
-  amzn_assoc_tracking_id = "techblogandli-20";
-  amzn_assoc_marketplace = "amazon";
-  amzn_assoc_region = "US";
-  amzn_assoc_placement = "GWFNSKU4CUZ5MEF5";
-  amzn_assoc_linkid = "GWFNSKU4CUZ5MEF5";
-  amzn_assoc_emphasize_categories = "130";
-  amzn_assoc_fallback_products = "";
-  amzn_assoc_width = "300";
-  amzn_assoc_height = "250";
+<div class="col-sm-12 visible-sm visible-xs">
+
+
+<!-- Mobile banner -->
+<ins class="adsbygoogle"
+     style="display:inline-block;width:320px;height:100px"
+     data-ad-client="ca-pub-4947875154879707"
+     data-ad-slot="8923107653"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
 </script>
-<script type="text/javascript" language="javascript" src="//z-na.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&Operation=GetScript&ID=OneJS&WS=1&MarketPlace=US&source=ac"></script>
 
 </div>
 </div>
 </center>
+
+
+
+
+
 
 <div class="row">
 <div class="col-xs-12 col-md-6"><div class="row"><div class="col-xs-9">
@@ -1028,22 +1155,47 @@ keywords: "movies, reddit, unknown, recent, overrated, underrated, rotten tomato
 
 
 
+
+
+
+
+
 <center>
 <div class="row">
 <div class="col-lg-12 visible-lg visible-md">
-<iframe src="http://rcm-na.amazon-adsystem.com/e/cm?t=techblogandli-20&o=1&p=48&l=ur1&category=dvd&banner=1FPD5WCC2MS0HE348382&f=ifr&linkID=V73BN5UOCWADNOL3" width="728" height="90" scrolling="no" border="0" marginwidth="0" style="border:none;" frameborder="0"></iframe>
 
-<script type="text/javascript" language="javascript" src="//z-na.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&Operation=GetScript&ID=OneJS&WS=1&MarketPlace=US&source=ac"></script>
+
+<!-- Google leaderboard -->
+<ins class="adsbygoogle"
+     style="display:inline-block;width:728px;height:90px"
+     data-ad-client="ca-pub-4947875154879707"
+     data-ad-slot="7446374452"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 
 </div>
 <div class="col-sm-12 visible-sm visible-xs">
-<iframe src="http://rcm-na.amazon-adsystem.com/e/cm?t=techblogandli-20&o=1&p=12&l=ur1&category=dvd&banner=14P4X3647W5MZMZWK582&f=ifr&linkID=GUAOONZI4TUKQY2F" width="300" height="250" scrolling="no" border="0" marginwidth="0" style="border:none;" frameborder="0"></iframe>
 
-<script type="text/javascript" language="javascript" src="//z-na.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&Operation=GetScript&ID=OneJS&WS=1&MarketPlace=US&source=ac"></script>
+
+<!-- Mobile banner -->
+<ins class="adsbygoogle"
+     style="display:inline-block;width:320px;height:100px"
+     data-ad-client="ca-pub-4947875154879707"
+     data-ad-slot="8923107653"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script>
 
 </div>
 </div>
 </center>
+
+
+
+
+
 
 
 <div class="row">
