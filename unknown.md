@@ -23,7 +23,43 @@ keywords: "movies, reddit, unknown, recent, perfect, amazing, extraordinary, rot
 <div class="col-xs-12 col-md-6"><div class="row"><div class="col-xs-9">
 <h3><a href='http://www.rottentomatoes.com/m/thunder_soul/'>Thunder Soul (2011)</a></h3><p><code>100&#37; of critics love it, but only 692 people have rated it.</code></p><p class="lead">No consensus yet.</p></div>
 <div class="col-xs-3"><br><br><img width=100% class="lazy" data-original="http://resizing.flixster.com/zwJvF4706ggrdXmYoMgSW-J6FRk=/800x1185/dkpu1ddg7pbsk.cloudfront.net/movie/11/15/92/11159264_ori.jpg"></div></div></div>
-</div><div class="row">
+</div>
+
+<center>
+<div class="row">
+<div class="col-lg-12 visible-lg visible-md">
+
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- Google leaderboard -->
+<ins class="adsbygoogle"
+     style="display:inline-block;width:728px;height:90px"
+     data-ad-client="ca-pub-4947875154879707"
+     data-ad-slot="7446374452"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
+
+</div>
+<div class="col-sm-12 visible-sm visible-xs">
+
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- Mobile banner -->
+<ins class="adsbygoogle"
+     style="display:inline-block;width:320px;height:100px"
+     data-ad-client="ca-pub-4947875154879707"
+     data-ad-slot="8923107653"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
+</div>
+</div>
+</center>
+
+
+
+<div class="row">
 <div class="col-xs-12 col-md-6"><div class="row"><div class="col-xs-9">
 <h3><a href='http://www.rottentomatoes.com/m/the_waiting_room_2012/'>The Waiting Room (2012)</a></h3><p><code>100&#37; of critics love it, but only 1,824 people have rated it.</code></p><p class="lead">No consensus yet.</p></div>
 <div class="col-xs-3"><br><br><img width=100% class="lazy" data-original="http://d3biamo577v4eu.cloudfront.net/static/images/redesign/poster_default_large.jpg"></div></div></div>
@@ -72,7 +108,44 @@ keywords: "movies, reddit, unknown, recent, perfect, amazing, extraordinary, rot
 <div class="col-xs-12 col-md-6"><div class="row"><div class="col-xs-9">
 <h3><a href='http://www.rottentomatoes.com/m/no_no_a_dockumentary/'>No No: A Dockumentary (2014)</a></h3><p><code>100&#37; of critics love it, but only 385 people have rated it.</code></p><p class="lead">While taking full advantage of its subject's colorful baseball career, No No: A Dockumentary also imparts broader, thought-provoking messages that should resonate with viewers who aren't sports fans.</p></div>
 <div class="col-xs-3"><br><br><img width=100% class="lazy" data-original="http://resizing.flixster.com/lHUF5Xx-27D-mQqS7H_y0ee8PCQ=/284x405/dkpu1ddg7pbsk.cloudfront.net/movie/11/17/98/11179886_ori.jpg"></div></div></div>
-</div><div class="row">
+</div>
+
+
+<center>
+<div class="row">
+<div class="col-lg-12 visible-lg visible-md">
+
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- Google leaderboard -->
+<ins class="adsbygoogle"
+     style="display:inline-block;width:728px;height:90px"
+     data-ad-client="ca-pub-4947875154879707"
+     data-ad-slot="7446374452"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
+
+</div>
+<div class="col-sm-12 visible-sm visible-xs">
+
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- Mobile banner -->
+<ins class="adsbygoogle"
+     style="display:inline-block;width:320px;height:100px"
+     data-ad-client="ca-pub-4947875154879707"
+     data-ad-slot="8923107653"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
+</div>
+</div>
+</center>
+
+
+
+<div class="row">
 <div class="col-xs-12 col-md-6"><div class="row"><div class="col-xs-9">
 <h3><a href='http://www.rottentomatoes.com/m/next_goal_wins/'>Next Goal Wins (2014)</a></h3><p><code>100&#37; of critics love it, but only 614 people have rated it.</code></p><p class="lead">No consensus yet.</p></div>
 <div class="col-xs-3"><br><br><img width=100% class="lazy" data-original="http://resizing.flixster.com/kDGJ9ydZ9r35--KvTvYOysM9Sig=/500x741/dkpu1ddg7pbsk.cloudfront.net/movie/11/17/75/11177526_ori.jpg"></div></div></div>
@@ -160,7 +233,45 @@ keywords: "movies, reddit, unknown, recent, perfect, amazing, extraordinary, rot
 <div class="col-xs-12 col-md-6"><div class="row"><div class="col-xs-9">
 <h3><a href='http://www.rottentomatoes.com/m/10006630-life_of_reilly/'>The Life of Reilly (2007)</a></h3><p><code>97&#37; of critics love it, but only 846 people have rated it.</code></p><p class="lead">The Life of Reilly is a humorous and endearing look at the late comedian.</p></div>
 <div class="col-xs-3"><br><br><img width=100% class="lazy" data-original="http://resizing.flixster.com/8QZwd2Y7ynE5tzq4QuNqw2oLeq8=/450x666/dkpu1ddg7pbsk.cloudfront.net/movie/10/36/49/10364958_ori.jpg"></div></div></div>
-</div><div class="row">
+</div>
+
+
+<center>
+<div class="row">
+<div class="col-lg-12 visible-lg visible-md">
+
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- Google leaderboard -->
+<ins class="adsbygoogle"
+     style="display:inline-block;width:728px;height:90px"
+     data-ad-client="ca-pub-4947875154879707"
+     data-ad-slot="7446374452"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
+
+</div>
+<div class="col-sm-12 visible-sm visible-xs">
+
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- Mobile banner -->
+<ins class="adsbygoogle"
+     style="display:inline-block;width:320px;height:100px"
+     data-ad-client="ca-pub-4947875154879707"
+     data-ad-slot="8923107653"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
+</div>
+</div>
+</center>
+
+
+
+
+<div class="row">
 <div class="col-xs-12 col-md-6"><div class="row"><div class="col-xs-9">
 <h3><a href='http://www.rottentomatoes.com/m/the_island_president/'>The Island President (2012)</a></h3><p><code>97&#37; of critics love it, but only 4,211 people have rated it.</code></p><p class="lead">An eye-opening and appealing documentary about an earnest politician up against the closed door drama of climate change.</p></div>
 <div class="col-xs-3"><br><br><img width=100% class="lazy" data-original="http://resizing.flixster.com/8y81cZgk9OZbayJV54vv49R7eeU=/800x1185/dkpu1ddg7pbsk.cloudfront.net/movie/11/16/35/11163598_ori.jpg"></div></div></div>
