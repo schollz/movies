@@ -1,6 +1,8 @@
 ---
 layout: page
 title: Critically underrated
+description: This a list of movies where the critic's ratings are lower than both the RT audience ratings and the IMDB audience ratings. Sorted from worst critic rating to best.
+keywords: "movies, reddit, unknown, rotten tomatoes, imdb, metacritic, best, films, underrated, underestimated, looked down"
 ---
 <p class="lead">This a list of movies where the critic's ratings are lower than both the RT audience ratings and the IMDB audience ratings. Sorted from worst critic rating to best.</p>
 <div class="row">
