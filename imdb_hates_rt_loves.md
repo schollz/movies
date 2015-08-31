@@ -1,6 +1,8 @@
 ---
 layout: page
 title: Overrated by RT audiences
+description: These are films that are rated very highly by RT audiences but not loved by IMDB audiences or critics.
+keywords: "movies, reddit, unknown, rotten tomatoes, imdb, metacritic, best, films, overrated"
 ---
 <p class="lead">These are movies that are rated very highly by RT audiences but not loved by IMDB audiences or critics.</p>
 <div class="row">
