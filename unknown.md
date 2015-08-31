@@ -153,7 +153,48 @@ keywords: "movies, reddit, unknown, recent, perfect, amazing, extraordinary, rot
 <h3><a href='http://www.rottentomatoes.com/m/mr_death_the_rise_and_fall_of_fred_a_leuchter_jr/'>Mr. Death: The Rise and Fall of Fred A. Leuchter, Jr. (1999)</a></h3><p><code>100&#37; of critics love it, but only 3,925 people have rated it.</code></p><p class="lead">No consensus yet.</p></div>
 <div class="col-xs-3"><br><br><img width=100% class="lazy" data-original="http://resizing.flixster.com/rNOjGZakyRBTbbMxZ_6ZYP3do6M=/110x156/dkpu1ddg7pbsk.cloudfront.net/movie/10/87/50/10875046_ori.jpg"></div></div></div>
 </div>
-<center><div class="row"><div class="col-lg-12 visible-lg visible-md"><iframe src="http://rcm-na.amazon-adsystem.com/e/cm?t=techblogandli-20&o=1&p=48&l=ur1&category=musicandentertainmentrot&f=ifr&linkID=Q2UKCBH2NQB7PJWJ" width="728" height="90" scrolling="no" border="0" marginwidth="0" style="border:none;" frameborder="0"></iframe></div><div class="col-sm-12 visible-sm visible-xs"><iframe src="http://rcm-na.amazon-adsystem.com/e/cm?t=techblogandli-20&o=1&p=12&l=ur1&category=musicandentertainmentrot&f=ifr&linkID=32GFT4RW5USFC6L4" width="300" height="250" scrolling="no" border="0" marginwidth="0" style="border:none;" frameborder="0"></iframe></div></div></center>
+
+
+
+
+
+
+<center>
+<div class="row">
+<div class="col-lg-12 visible-lg visible-md">
+
+
+<!-- Google leaderboard -->
+<ins class="adsbygoogle"
+     style="display:inline-block;width:728px;height:90px"
+     data-ad-client="ca-pub-4947875154879707"
+     data-ad-slot="7446374452"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
+
+</div>
+<div class="col-sm-12 visible-sm visible-xs">
+
+
+<!-- Mobile banner -->
+<ins class="adsbygoogle"
+     style="display:inline-block;width:320px;height:100px"
+     data-ad-client="ca-pub-4947875154879707"
+     data-ad-slot="8923107653"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
+</div>
+</div>
+</center>
+
+
+
+
+
 <div class="row">
 <div class="col-xs-12 col-md-6"><div class="row"><div class="col-xs-9">
 <h3><a href='http://www.rottentomatoes.com/m/more_than_honey/'>More Than Honey (2013)</a></h3><p><code>100&#37; of critics love it, but only 2,173 people have rated it.</code></p><p class="lead">No consensus yet.</p></div>
@@ -225,7 +266,48 @@ keywords: "movies, reddit, unknown, recent, perfect, amazing, extraordinary, rot
 <h3><a href='http://www.rottentomatoes.com/m/bill_cunningham_new_york_2010/'>Bill Cunningham New York (2011)</a></h3><p><code>98&#37; of critics love it, but only 3,719 people have rated it.</code></p><p class="lead">Suffused with happiness and modest charm, Bill Cunningham New York offers a touching, gently humorous portrait of its subject without invading his jealously guarded privacy.</p></div>
 <div class="col-xs-3"><br><br><img width=100% class="lazy" data-original="http://resizing.flixster.com/ZPmU2_ae7ecIeTU2aBABVvUlIc4=/509x755/dkpu1ddg7pbsk.cloudfront.net/movie/11/17/27/11172739_ori.jpg"></div></div></div>
 </div>
-<center><div class="row"><div class="col-lg-12 visible-lg visible-md"><iframe src="http://rcm-na.amazon-adsystem.com/e/cm?t=techblogandli-20&o=1&p=48&l=ur1&category=musicandentertainmentrot&f=ifr&linkID=Q2UKCBH2NQB7PJWJ" width="728" height="90" scrolling="no" border="0" marginwidth="0" style="border:none;" frameborder="0"></iframe></div><div class="col-sm-12 visible-sm visible-xs"><iframe src="http://rcm-na.amazon-adsystem.com/e/cm?t=techblogandli-20&o=1&p=12&l=ur1&category=musicandentertainmentrot&f=ifr&linkID=32GFT4RW5USFC6L4" width="300" height="250" scrolling="no" border="0" marginwidth="0" style="border:none;" frameborder="0"></iframe></div></div></center>
+
+
+
+
+
+
+<center>
+<div class="row">
+<div class="col-lg-12 visible-lg visible-md">
+
+
+<!-- Google leaderboard -->
+<ins class="adsbygoogle"
+     style="display:inline-block;width:728px;height:90px"
+     data-ad-client="ca-pub-4947875154879707"
+     data-ad-slot="7446374452"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
+
+</div>
+<div class="col-sm-12 visible-sm visible-xs">
+
+
+<!-- Mobile banner -->
+<ins class="adsbygoogle"
+     style="display:inline-block;width:320px;height:100px"
+     data-ad-client="ca-pub-4947875154879707"
+     data-ad-slot="8923107653"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
+</div>
+</div>
+</center>
+
+
+
+
+
 <div class="row">
 <div class="col-xs-12 col-md-6"><div class="row"><div class="col-xs-9">
 <h3><a href='http://www.rottentomatoes.com/m/1087341-winslow_boy/'>The Winslow Boy (1999)</a></h3><p><code>97&#37; of critics love it, but only 3,664 people have rated it.</code></p><p class="lead">No consensus yet.</p></div>
@@ -335,7 +417,48 @@ keywords: "movies, reddit, unknown, recent, perfect, amazing, extraordinary, rot
 <h3><a href='http://www.rottentomatoes.com/m/51_birch_street/'>51 Birch Street (2006)</a></h3><p><code>97&#37; of critics love it, but only 1,234 people have rated it.</code></p><p class="lead">A filmmaker's investigation of his parents' marriage renders an ordinary subject surprisingly powerful.</p></div>
 <div class="col-xs-3"><br><br><img width=100% class="lazy" data-original="http://resizing.flixster.com/EWQkZbFNpUwilzQ3n8fjZ50gYnI=/200x300/dkpu1ddg7pbsk.cloudfront.net/movie/32/27/62/3227626_ori.jpg"></div></div></div>
 </div>
-<center><div class="row"><div class="col-lg-12 visible-lg visible-md"><iframe src="http://rcm-na.amazon-adsystem.com/e/cm?t=techblogandli-20&o=1&p=48&l=ur1&category=musicandentertainmentrot&f=ifr&linkID=Q2UKCBH2NQB7PJWJ" width="728" height="90" scrolling="no" border="0" marginwidth="0" style="border:none;" frameborder="0"></iframe></div><div class="col-sm-12 visible-sm visible-xs"><iframe src="http://rcm-na.amazon-adsystem.com/e/cm?t=techblogandli-20&o=1&p=12&l=ur1&category=musicandentertainmentrot&f=ifr&linkID=32GFT4RW5USFC6L4" width="300" height="250" scrolling="no" border="0" marginwidth="0" style="border:none;" frameborder="0"></iframe></div></div></center>
+
+
+
+
+
+
+<center>
+<div class="row">
+<div class="col-lg-12 visible-lg visible-md">
+
+
+<!-- Google leaderboard -->
+<ins class="adsbygoogle"
+     style="display:inline-block;width:728px;height:90px"
+     data-ad-client="ca-pub-4947875154879707"
+     data-ad-slot="7446374452"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
+
+</div>
+<div class="col-sm-12 visible-sm visible-xs">
+
+
+<!-- Mobile banner -->
+<ins class="adsbygoogle"
+     style="display:inline-block;width:320px;height:100px"
+     data-ad-client="ca-pub-4947875154879707"
+     data-ad-slot="8923107653"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
+</div>
+</div>
+</center>
+
+
+
+
+
 <div class="row">
 <div class="col-xs-12 col-md-6"><div class="row"><div class="col-xs-9">
 <h3><a href='http://www.rottentomatoes.com/m/up_the_yangtze/'>Up the Yangtze (2007)</a></h3><p><code>96&#37; of critics love it, but only 2,380 people have rated it.</code></p><p class="lead">Up the Yangtze is a visually stunning meditation about the changes confronting modern China.</p></div>
@@ -407,7 +530,48 @@ keywords: "movies, reddit, unknown, recent, perfect, amazing, extraordinary, rot
 <h3><a href='http://www.rottentomatoes.com/m/herb_and_dorothy/'>Herb & Dorothy (2008)</a></h3><p><code>96&#37; of critics love it, but only 719 people have rated it.</code></p><p class="lead">While perhaps not as probing as it could have been, Megumi Sasaki's languidly paced documentary is as entertaining as it is inspiring.</p></div>
 <div class="col-xs-3"><br><br><img width=100% class="lazy" data-original="http://resizing.flixster.com/1btiVRtFlvV97YdcCYzYUXUJZIM=/284x405/dkpu1ddg7pbsk.cloudfront.net/movie/11/18/25/11182501_ori.jpg"></div></div></div>
 </div>
-<center><div class="row"><div class="col-lg-12 visible-lg visible-md"><iframe src="http://rcm-na.amazon-adsystem.com/e/cm?t=techblogandli-20&o=1&p=48&l=ur1&category=musicandentertainmentrot&f=ifr&linkID=Q2UKCBH2NQB7PJWJ" width="728" height="90" scrolling="no" border="0" marginwidth="0" style="border:none;" frameborder="0"></iframe></div><div class="col-sm-12 visible-sm visible-xs"><iframe src="http://rcm-na.amazon-adsystem.com/e/cm?t=techblogandli-20&o=1&p=12&l=ur1&category=musicandentertainmentrot&f=ifr&linkID=32GFT4RW5USFC6L4" width="300" height="250" scrolling="no" border="0" marginwidth="0" style="border:none;" frameborder="0"></iframe></div></div></center>
+
+
+
+
+
+
+<center>
+<div class="row">
+<div class="col-lg-12 visible-lg visible-md">
+
+
+<!-- Google leaderboard -->
+<ins class="adsbygoogle"
+     style="display:inline-block;width:728px;height:90px"
+     data-ad-client="ca-pub-4947875154879707"
+     data-ad-slot="7446374452"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
+
+</div>
+<div class="col-sm-12 visible-sm visible-xs">
+
+
+<!-- Mobile banner -->
+<ins class="adsbygoogle"
+     style="display:inline-block;width:320px;height:100px"
+     data-ad-client="ca-pub-4947875154879707"
+     data-ad-slot="8923107653"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
+</div>
+</div>
+</center>
+
+
+
+
+
 <div class="row">
 <div class="col-xs-12 col-md-6"><div class="row"><div class="col-xs-9">
 <h3><a href='http://www.rottentomatoes.com/m/festival_express/'>Festival Express (2003)</a></h3><p><code>96&#37; of critics love it, but only 4,117 people have rated it.</code></p><p class="lead">Festival Express is a spellbinding documentary that nostalgically chronicles five days in the summer of 1970, when a train full of now- legendary rock perfomers jammed its way across Canada.</p></div>
@@ -479,7 +643,48 @@ keywords: "movies, reddit, unknown, recent, perfect, amazing, extraordinary, rot
 <h3><a href='http://www.rottentomatoes.com/m/lenfant_den_haut/'>Sister (2012)</a></h3><p><code>95&#37; of critics love it, but only 2,361 people have rated it.</code></p><p class="lead">No consensus yet.</p></div>
 <div class="col-xs-3"><br><br><img width=100% class="lazy" data-original="http://resizing.flixster.com/FmPhR3Nyo3zqreUgLL4KKXFFsBM=/800x1174/dkpu1ddg7pbsk.cloudfront.net/movie/11/16/57/11165765_ori.jpg"></div></div></div>
 </div>
-<center><div class="row"><div class="col-lg-12 visible-lg visible-md"><iframe src="http://rcm-na.amazon-adsystem.com/e/cm?t=techblogandli-20&o=1&p=48&l=ur1&category=musicandentertainmentrot&f=ifr&linkID=Q2UKCBH2NQB7PJWJ" width="728" height="90" scrolling="no" border="0" marginwidth="0" style="border:none;" frameborder="0"></iframe></div><div class="col-sm-12 visible-sm visible-xs"><iframe src="http://rcm-na.amazon-adsystem.com/e/cm?t=techblogandli-20&o=1&p=12&l=ur1&category=musicandentertainmentrot&f=ifr&linkID=32GFT4RW5USFC6L4" width="300" height="250" scrolling="no" border="0" marginwidth="0" style="border:none;" frameborder="0"></iframe></div></div></center>
+
+
+
+
+
+
+<center>
+<div class="row">
+<div class="col-lg-12 visible-lg visible-md">
+
+
+<!-- Google leaderboard -->
+<ins class="adsbygoogle"
+     style="display:inline-block;width:728px;height:90px"
+     data-ad-client="ca-pub-4947875154879707"
+     data-ad-slot="7446374452"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
+
+</div>
+<div class="col-sm-12 visible-sm visible-xs">
+
+
+<!-- Mobile banner -->
+<ins class="adsbygoogle"
+     style="display:inline-block;width:320px;height:100px"
+     data-ad-client="ca-pub-4947875154879707"
+     data-ad-slot="8923107653"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
+</div>
+</div>
+</center>
+
+
+
+
+
 <div class="row">
 <div class="col-xs-12 col-md-6"><div class="row"><div class="col-xs-9">
 <h3><a href='http://www.rottentomatoes.com/m/knuckle_2011/'>Knuckle (2011)</a></h3><p><code>95&#37; of critics love it, but only 2,739 people have rated it.</code></p><p class="lead">A gritty documentary that captures the brutality and banality of bare-knuckle fights among Irish Travellers.</p></div>
@@ -551,7 +756,48 @@ keywords: "movies, reddit, unknown, recent, perfect, amazing, extraordinary, rot
 <h3><a href='http://www.rottentomatoes.com/m/blancanieves/'>Blancanieves (2013)</a></h3><p><code>94&#37; of critics love it, but only 4,850 people have rated it.</code></p><p class="lead">Smartly written and beautiful to behold, Blancanieves uses its classic source material to offer a dark tale, delightfully told.</p></div>
 <div class="col-xs-3"><br><br><img width=100% class="lazy" data-original="http://resizing.flixster.com/ZEQt3BdeAX3fWz_2pbuEI_K4I7A=/529x755/dkpu1ddg7pbsk.cloudfront.net/movie/11/16/76/11167606_ori.jpg"></div></div></div>
 </div>
-<center><div class="row"><div class="col-lg-12 visible-lg visible-md"><iframe src="http://rcm-na.amazon-adsystem.com/e/cm?t=techblogandli-20&o=1&p=48&l=ur1&category=musicandentertainmentrot&f=ifr&linkID=Q2UKCBH2NQB7PJWJ" width="728" height="90" scrolling="no" border="0" marginwidth="0" style="border:none;" frameborder="0"></iframe></div><div class="col-sm-12 visible-sm visible-xs"><iframe src="http://rcm-na.amazon-adsystem.com/e/cm?t=techblogandli-20&o=1&p=12&l=ur1&category=musicandentertainmentrot&f=ifr&linkID=32GFT4RW5USFC6L4" width="300" height="250" scrolling="no" border="0" marginwidth="0" style="border:none;" frameborder="0"></iframe></div></div></center>
+
+
+
+
+
+
+<center>
+<div class="row">
+<div class="col-lg-12 visible-lg visible-md">
+
+
+<!-- Google leaderboard -->
+<ins class="adsbygoogle"
+     style="display:inline-block;width:728px;height:90px"
+     data-ad-client="ca-pub-4947875154879707"
+     data-ad-slot="7446374452"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
+
+</div>
+<div class="col-sm-12 visible-sm visible-xs">
+
+
+<!-- Mobile banner -->
+<ins class="adsbygoogle"
+     style="display:inline-block;width:320px;height:100px"
+     data-ad-client="ca-pub-4947875154879707"
+     data-ad-slot="8923107653"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
+</div>
+</div>
+</center>
+
+
+
+
+
 <div class="row">
 <div class="col-xs-12 col-md-6"><div class="row"><div class="col-xs-9">
 <h3><a href='http://www.rottentomatoes.com/m/after_tiller_2013/'>After Tiller (2013)</a></h3><p><code>94&#37; of critics love it, but only 838 people have rated it.</code></p><p class="lead">After Tiller applies empathy, honesty, and graceful understatement to a discussion that all too often lacks them all.</p></div>
@@ -623,7 +869,48 @@ keywords: "movies, reddit, unknown, recent, perfect, amazing, extraordinary, rot
 <h3><a href='http://www.rottentomatoes.com/m/girlhood/'>Girlhood (2003)</a></h3><p><code>93&#37; of critics love it, but only 767 people have rated it.</code></p><p class="lead">An intimate, compassionate look at two teenagers in juvenile hall.</p></div>
 <div class="col-xs-3"><br><br><img width=100% class="lazy" data-original="http://resizing.flixster.com/MHhFBjScZsJrcNkt5HG6NITaqaw=/334x475/dkpu1ddg7pbsk.cloudfront.net/movie/30/23/302302_ori.jpg"></div></div></div>
 </div>
-<center><div class="row"><div class="col-lg-12 visible-lg visible-md"><iframe src="http://rcm-na.amazon-adsystem.com/e/cm?t=techblogandli-20&o=1&p=48&l=ur1&category=musicandentertainmentrot&f=ifr&linkID=Q2UKCBH2NQB7PJWJ" width="728" height="90" scrolling="no" border="0" marginwidth="0" style="border:none;" frameborder="0"></iframe></div><div class="col-sm-12 visible-sm visible-xs"><iframe src="http://rcm-na.amazon-adsystem.com/e/cm?t=techblogandli-20&o=1&p=12&l=ur1&category=musicandentertainmentrot&f=ifr&linkID=32GFT4RW5USFC6L4" width="300" height="250" scrolling="no" border="0" marginwidth="0" style="border:none;" frameborder="0"></iframe></div></div></center>
+
+
+
+
+
+
+<center>
+<div class="row">
+<div class="col-lg-12 visible-lg visible-md">
+
+
+<!-- Google leaderboard -->
+<ins class="adsbygoogle"
+     style="display:inline-block;width:728px;height:90px"
+     data-ad-client="ca-pub-4947875154879707"
+     data-ad-slot="7446374452"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
+
+</div>
+<div class="col-sm-12 visible-sm visible-xs">
+
+
+<!-- Mobile banner -->
+<ins class="adsbygoogle"
+     style="display:inline-block;width:320px;height:100px"
+     data-ad-client="ca-pub-4947875154879707"
+     data-ad-slot="8923107653"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
+</div>
+</div>
+</center>
+
+
+
+
+
 <div class="row">
 <div class="col-xs-12 col-md-6"><div class="row"><div class="col-xs-9">
 <h3><a href='http://www.rottentomatoes.com/m/turn_me_on_dammit/'>Turn Me On, Dammit! (2012)</a></h3><p><code>93&#37; of critics love it, but only 3,451 people have rated it.</code></p><p class="lead">No consensus yet.</p></div>
@@ -695,7 +982,48 @@ keywords: "movies, reddit, unknown, recent, perfect, amazing, extraordinary, rot
 <h3><a href='http://www.rottentomatoes.com/m/our_nixon/'>Our Nixon (2013)</a></h3><p><code>92&#37; of critics love it, but only 1,058 people have rated it.</code></p><p class="lead">No consensus yet.</p></div>
 <div class="col-xs-3"><br><br><img width=100% class="lazy" data-original="http://resizing.flixster.com/L6hDOkRydQ6I3u-vPKnkhmV51to=/800x1185/dkpu1ddg7pbsk.cloudfront.net/movie/11/17/26/11172688_ori.jpg"></div></div></div>
 </div>
-<center><div class="row"><div class="col-lg-12 visible-lg visible-md"><iframe src="http://rcm-na.amazon-adsystem.com/e/cm?t=techblogandli-20&o=1&p=48&l=ur1&category=musicandentertainmentrot&f=ifr&linkID=Q2UKCBH2NQB7PJWJ" width="728" height="90" scrolling="no" border="0" marginwidth="0" style="border:none;" frameborder="0"></iframe></div><div class="col-sm-12 visible-sm visible-xs"><iframe src="http://rcm-na.amazon-adsystem.com/e/cm?t=techblogandli-20&o=1&p=12&l=ur1&category=musicandentertainmentrot&f=ifr&linkID=32GFT4RW5USFC6L4" width="300" height="250" scrolling="no" border="0" marginwidth="0" style="border:none;" frameborder="0"></iframe></div></div></center>
+
+
+
+
+
+
+<center>
+<div class="row">
+<div class="col-lg-12 visible-lg visible-md">
+
+
+<!-- Google leaderboard -->
+<ins class="adsbygoogle"
+     style="display:inline-block;width:728px;height:90px"
+     data-ad-client="ca-pub-4947875154879707"
+     data-ad-slot="7446374452"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
+
+</div>
+<div class="col-sm-12 visible-sm visible-xs">
+
+
+<!-- Mobile banner -->
+<ins class="adsbygoogle"
+     style="display:inline-block;width:320px;height:100px"
+     data-ad-client="ca-pub-4947875154879707"
+     data-ad-slot="8923107653"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
+</div>
+</div>
+</center>
+
+
+
+
+
 <div class="row">
 <div class="col-xs-12 col-md-6"><div class="row"><div class="col-xs-9">
 <h3><a href='http://www.rottentomatoes.com/m/our_brand_is_crisis/'>Our Brand Is Crisis (2005)</a></h3><p><code>92&#37; of critics love it, but only 4,775 people have rated it.</code></p><p class="lead">No consensus yet.</p></div>
@@ -767,7 +1095,48 @@ keywords: "movies, reddit, unknown, recent, perfect, amazing, extraordinary, rot
 <h3><a href='http://www.rottentomatoes.com/m/kid_stays_in_the_picture/'>The Kid Stays in the Picture (2002)</a></h3><p><code>91&#37; of critics love it, but only 4,590 people have rated it.</code></p><p class="lead">Though not objective by any means, The Kid Stays in the Picture is irresistibly entertaining.</p></div>
 <div class="col-xs-3"><br><br><img width=100% class="lazy" data-original="http://resizing.flixster.com/_V0XaD1LGsOPaxh_zjpNBCl0T9U=/347x500/dkpu1ddg7pbsk.cloudfront.net/movie/27/27/272795_ori.jpg"></div></div></div>
 </div>
-<center><div class="row"><div class="col-lg-12 visible-lg visible-md"><iframe src="http://rcm-na.amazon-adsystem.com/e/cm?t=techblogandli-20&o=1&p=48&l=ur1&category=musicandentertainmentrot&f=ifr&linkID=Q2UKCBH2NQB7PJWJ" width="728" height="90" scrolling="no" border="0" marginwidth="0" style="border:none;" frameborder="0"></iframe></div><div class="col-sm-12 visible-sm visible-xs"><iframe src="http://rcm-na.amazon-adsystem.com/e/cm?t=techblogandli-20&o=1&p=12&l=ur1&category=musicandentertainmentrot&f=ifr&linkID=32GFT4RW5USFC6L4" width="300" height="250" scrolling="no" border="0" marginwidth="0" style="border:none;" frameborder="0"></iframe></div></div></center>
+
+
+
+
+
+
+<center>
+<div class="row">
+<div class="col-lg-12 visible-lg visible-md">
+
+
+<!-- Google leaderboard -->
+<ins class="adsbygoogle"
+     style="display:inline-block;width:728px;height:90px"
+     data-ad-client="ca-pub-4947875154879707"
+     data-ad-slot="7446374452"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
+
+</div>
+<div class="col-sm-12 visible-sm visible-xs">
+
+
+<!-- Mobile banner -->
+<ins class="adsbygoogle"
+     style="display:inline-block;width:320px;height:100px"
+     data-ad-client="ca-pub-4947875154879707"
+     data-ad-slot="8923107653"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
+</div>
+</div>
+</center>
+
+
+
+
+
 <div class="row">
 <div class="col-xs-12 col-md-6"><div class="row"><div class="col-xs-9">
 <h3><a href='http://www.rottentomatoes.com/m/the_case_against_8/'>The Case Against 8 (2014)</a></h3><p><code>91&#37; of critics love it, but only 467 people have rated it.</code></p><p class="lead">Expansive in scope yet steady in focus, The Case Against 8 offers impassioned social advocacy as well as gripping viewing.</p></div>
@@ -839,7 +1208,48 @@ keywords: "movies, reddit, unknown, recent, perfect, amazing, extraordinary, rot
 <h3><a href='http://www.rottentomatoes.com/m/after_innocence/'>After Innocence (2005)</a></h3><p><code>91&#37; of critics love it, but only 2,341 people have rated it.</code></p><p class="lead">This understated yet emotionally devastating documentary lets the stories of its subjects speak for themselves.</p></div>
 <div class="col-xs-3"><br><br><img width=100% class="lazy" data-original="http://resizing.flixster.com/4FyfmgWL4SoBH1_m02UbzcZ7MH8=/270x400/dkpu1ddg7pbsk.cloudfront.net/movie/25/03/250396_ori.jpg"></div></div></div>
 </div>
-<center><div class="row"><div class="col-lg-12 visible-lg visible-md"><iframe src="http://rcm-na.amazon-adsystem.com/e/cm?t=techblogandli-20&o=1&p=48&l=ur1&category=musicandentertainmentrot&f=ifr&linkID=Q2UKCBH2NQB7PJWJ" width="728" height="90" scrolling="no" border="0" marginwidth="0" style="border:none;" frameborder="0"></iframe></div><div class="col-sm-12 visible-sm visible-xs"><iframe src="http://rcm-na.amazon-adsystem.com/e/cm?t=techblogandli-20&o=1&p=12&l=ur1&category=musicandentertainmentrot&f=ifr&linkID=32GFT4RW5USFC6L4" width="300" height="250" scrolling="no" border="0" marginwidth="0" style="border:none;" frameborder="0"></iframe></div></div></center>
+
+
+
+
+
+
+<center>
+<div class="row">
+<div class="col-lg-12 visible-lg visible-md">
+
+
+<!-- Google leaderboard -->
+<ins class="adsbygoogle"
+     style="display:inline-block;width:728px;height:90px"
+     data-ad-client="ca-pub-4947875154879707"
+     data-ad-slot="7446374452"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
+
+</div>
+<div class="col-sm-12 visible-sm visible-xs">
+
+
+<!-- Mobile banner -->
+<ins class="adsbygoogle"
+     style="display:inline-block;width:320px;height:100px"
+     data-ad-client="ca-pub-4947875154879707"
+     data-ad-slot="8923107653"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
+</div>
+</div>
+</center>
+
+
+
+
+
 <div class="row">
 <div class="col-xs-12 col-md-6"><div class="row"><div class="col-xs-9">
 <h3><a href='http://www.rottentomatoes.com/m/a_league_of_ordinary_gentlemen/'>A League of Ordinary Gentlemen (2005)</a></h3><p><code>91&#37; of critics love it, but only 397 people have rated it.</code></p><p class="lead">Even if bowling isn't your sport, this colorful documentary is still an entertaining watch.</p></div>
@@ -911,7 +1321,48 @@ keywords: "movies, reddit, unknown, recent, perfect, amazing, extraordinary, rot
 <h3><a href='http://www.rottentomatoes.com/m/life_and_debt/'>Life And Debt (2001)</a></h3><p><code>90&#37; of critics love it, but only 1,924 people have rated it.</code></p><p class="lead">No consensus yet.</p></div>
 <div class="col-xs-3"><br><br><img width=100% class="lazy" data-original="http://resizing.flixster.com/G4EhDgYdi8vMMnzWCybG8GFHT1Y=/332x475/dkpu1ddg7pbsk.cloudfront.net/movie/11/14/65/11146556_ori.jpg"></div></div></div>
 </div>
-<center><div class="row"><div class="col-lg-12 visible-lg visible-md"><iframe src="http://rcm-na.amazon-adsystem.com/e/cm?t=techblogandli-20&o=1&p=48&l=ur1&category=musicandentertainmentrot&f=ifr&linkID=Q2UKCBH2NQB7PJWJ" width="728" height="90" scrolling="no" border="0" marginwidth="0" style="border:none;" frameborder="0"></iframe></div><div class="col-sm-12 visible-sm visible-xs"><iframe src="http://rcm-na.amazon-adsystem.com/e/cm?t=techblogandli-20&o=1&p=12&l=ur1&category=musicandentertainmentrot&f=ifr&linkID=32GFT4RW5USFC6L4" width="300" height="250" scrolling="no" border="0" marginwidth="0" style="border:none;" frameborder="0"></iframe></div></div></center>
+
+
+
+
+
+
+<center>
+<div class="row">
+<div class="col-lg-12 visible-lg visible-md">
+
+
+<!-- Google leaderboard -->
+<ins class="adsbygoogle"
+     style="display:inline-block;width:728px;height:90px"
+     data-ad-client="ca-pub-4947875154879707"
+     data-ad-slot="7446374452"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
+
+</div>
+<div class="col-sm-12 visible-sm visible-xs">
+
+
+<!-- Mobile banner -->
+<ins class="adsbygoogle"
+     style="display:inline-block;width:320px;height:100px"
+     data-ad-client="ca-pub-4947875154879707"
+     data-ad-slot="8923107653"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
+</div>
+</div>
+</center>
+
+
+
+
+
 <div class="row">
 <div class="col-xs-12 col-md-6"><div class="row"><div class="col-xs-9">
 <h3><a href='http://www.rottentomatoes.com/m/kings_of_pastry_2010/'>Kings of Pastry (2010)</a></h3><p><code>90&#37; of critics love it, but only 1,271 people have rated it.</code></p><p class="lead">No consensus yet.</p></div>
@@ -983,7 +1434,48 @@ keywords: "movies, reddit, unknown, recent, perfect, amazing, extraordinary, rot
 <h3><a href='http://www.rottentomatoes.com/m/topp-twins-untouchable-girls/'>The Topp Twins: Untouchable Girls (2011)</a></h3><p><code>89&#37; of critics love it, but only 378 people have rated it.</code></p><p class="lead">No consensus yet.</p></div>
 <div class="col-xs-3"><br><br><img width=100% class="lazy" data-original="http://resizing.flixster.com/3IuORnChSgbDcBvJ_f2gShsCmEE=/222x320/dkpu1ddg7pbsk.cloudfront.net/movie/11/15/67/11156727_ori.jpg"></div></div></div>
 </div>
-<center><div class="row"><div class="col-lg-12 visible-lg visible-md"><iframe src="http://rcm-na.amazon-adsystem.com/e/cm?t=techblogandli-20&o=1&p=48&l=ur1&category=musicandentertainmentrot&f=ifr&linkID=Q2UKCBH2NQB7PJWJ" width="728" height="90" scrolling="no" border="0" marginwidth="0" style="border:none;" frameborder="0"></iframe></div><div class="col-sm-12 visible-sm visible-xs"><iframe src="http://rcm-na.amazon-adsystem.com/e/cm?t=techblogandli-20&o=1&p=12&l=ur1&category=musicandentertainmentrot&f=ifr&linkID=32GFT4RW5USFC6L4" width="300" height="250" scrolling="no" border="0" marginwidth="0" style="border:none;" frameborder="0"></iframe></div></div></center>
+
+
+
+
+
+
+<center>
+<div class="row">
+<div class="col-lg-12 visible-lg visible-md">
+
+
+<!-- Google leaderboard -->
+<ins class="adsbygoogle"
+     style="display:inline-block;width:728px;height:90px"
+     data-ad-client="ca-pub-4947875154879707"
+     data-ad-slot="7446374452"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
+
+</div>
+<div class="col-sm-12 visible-sm visible-xs">
+
+
+<!-- Mobile banner -->
+<ins class="adsbygoogle"
+     style="display:inline-block;width:320px;height:100px"
+     data-ad-client="ca-pub-4947875154879707"
+     data-ad-slot="8923107653"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
+</div>
+</div>
+</center>
+
+
+
+
+
 <div class="row">
 <div class="col-xs-12 col-md-6"><div class="row"><div class="col-xs-9">
 <h3><a href='http://www.rottentomatoes.com/m/cockettes/'>The Cockettes (2002)</a></h3><p><code>89&#37; of critics love it, but only 670 people have rated it.</code></p><p class="lead">The Cockettes provides a colorful, eye-opening view of the counterculture 1960s.</p></div>
@@ -1055,7 +1547,48 @@ keywords: "movies, reddit, unknown, recent, perfect, amazing, extraordinary, rot
 <h3><a href='http://www.rottentomatoes.com/m/the_unforeseen/'>The Unforeseen (2008)</a></h3><p><code>88&#37; of critics love it, but only 871 people have rated it.</code></p><p class="lead">A calm documentary that doesn't resort to shrill polemics, The Unforeseen also benefits from great interview subjects and jaw-dropping cinematography.</p></div>
 <div class="col-xs-3"><br><br><img width=100% class="lazy" data-original="http://resizing.flixster.com/bPz8wnwQw-56H2f1ZyHTuqHGi3s=/110x150/dkpu1ddg7pbsk.cloudfront.net/movie/10/85/52/10855203_ori.jpg"></div></div></div>
 </div>
-<center><div class="row"><div class="col-lg-12 visible-lg visible-md"><iframe src="http://rcm-na.amazon-adsystem.com/e/cm?t=techblogandli-20&o=1&p=48&l=ur1&category=musicandentertainmentrot&f=ifr&linkID=Q2UKCBH2NQB7PJWJ" width="728" height="90" scrolling="no" border="0" marginwidth="0" style="border:none;" frameborder="0"></iframe></div><div class="col-sm-12 visible-sm visible-xs"><iframe src="http://rcm-na.amazon-adsystem.com/e/cm?t=techblogandli-20&o=1&p=12&l=ur1&category=musicandentertainmentrot&f=ifr&linkID=32GFT4RW5USFC6L4" width="300" height="250" scrolling="no" border="0" marginwidth="0" style="border:none;" frameborder="0"></iframe></div></div></center>
+
+
+
+
+
+
+<center>
+<div class="row">
+<div class="col-lg-12 visible-lg visible-md">
+
+
+<!-- Google leaderboard -->
+<ins class="adsbygoogle"
+     style="display:inline-block;width:728px;height:90px"
+     data-ad-client="ca-pub-4947875154879707"
+     data-ad-slot="7446374452"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
+
+</div>
+<div class="col-sm-12 visible-sm visible-xs">
+
+
+<!-- Mobile banner -->
+<ins class="adsbygoogle"
+     style="display:inline-block;width:320px;height:100px"
+     data-ad-client="ca-pub-4947875154879707"
+     data-ad-slot="8923107653"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
+</div>
+</div>
+</center>
+
+
+
+
+
 <div class="row">
 <div class="col-xs-12 col-md-6"><div class="row"><div class="col-xs-9">
 <h3><a href='http://www.rottentomatoes.com/m/1031208-tales_of_hoffmann/'>The Tales of Hoffmann (1951)</a></h3><p><code>88&#37; of critics love it, but only 426 people have rated it.</code></p><p class="lead">No consensus yet.</p></div>
@@ -1127,7 +1660,48 @@ keywords: "movies, reddit, unknown, recent, perfect, amazing, extraordinary, rot
 <h3><a href='http://www.rottentomatoes.com/m/happy_valley_2014/'>Happy Valley (2014)</a></h3><p><code>88&#37; of critics love it, but only 1,400 people have rated it.</code></p><p class="lead">Sober, even-handed, and quietly devastating, Happy Valley illuminates the wreckage of a tragedy while leaving viewers room to draw their own conclusions.</p></div>
 <div class="col-xs-3"><br><br><img width=100% class="lazy" data-original="http://resizing.flixster.com/Fz-6O-u4wsrBwvehcmqzHZD3QDU=/800x1186/dkpu1ddg7pbsk.cloudfront.net/movie/11/18/13/11181304_ori.jpg"></div></div></div>
 </div>
-<center><div class="row"><div class="col-lg-12 visible-lg visible-md"><iframe src="http://rcm-na.amazon-adsystem.com/e/cm?t=techblogandli-20&o=1&p=48&l=ur1&category=musicandentertainmentrot&f=ifr&linkID=Q2UKCBH2NQB7PJWJ" width="728" height="90" scrolling="no" border="0" marginwidth="0" style="border:none;" frameborder="0"></iframe></div><div class="col-sm-12 visible-sm visible-xs"><iframe src="http://rcm-na.amazon-adsystem.com/e/cm?t=techblogandli-20&o=1&p=12&l=ur1&category=musicandentertainmentrot&f=ifr&linkID=32GFT4RW5USFC6L4" width="300" height="250" scrolling="no" border="0" marginwidth="0" style="border:none;" frameborder="0"></iframe></div></div></center>
+
+
+
+
+
+
+<center>
+<div class="row">
+<div class="col-lg-12 visible-lg visible-md">
+
+
+<!-- Google leaderboard -->
+<ins class="adsbygoogle"
+     style="display:inline-block;width:728px;height:90px"
+     data-ad-client="ca-pub-4947875154879707"
+     data-ad-slot="7446374452"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
+
+</div>
+<div class="col-sm-12 visible-sm visible-xs">
+
+
+<!-- Mobile banner -->
+<ins class="adsbygoogle"
+     style="display:inline-block;width:320px;height:100px"
+     data-ad-client="ca-pub-4947875154879707"
+     data-ad-slot="8923107653"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
+</div>
+</div>
+</center>
+
+
+
+
+
 <div class="row">
 <div class="col-xs-12 col-md-6"><div class="row"><div class="col-xs-9">
 <h3><a href='http://www.rottentomatoes.com/m/crossfire_hurricane_2012/'>Crossfire Hurricane (2012)</a></h3><p><code>88&#37; of critics love it, but only 234 people have rated it.</code></p><p class="lead">No consensus yet.</p></div>
@@ -1199,7 +1773,48 @@ keywords: "movies, reddit, unknown, recent, perfect, amazing, extraordinary, rot
 <h3><a href='http://www.rottentomatoes.com/m/magnificent_desolation/'>Magnificent Desolation: Walking on the Moon 3D (2005)</a></h3><p><code>87&#37; of critics love it, but only 1,822 people have rated it.</code></p><p class="lead">This inspirational 3D IMAX film approximates for audiences what it is like to set steps on the moon.</p></div>
 <div class="col-xs-3"><br><br><img width=100% class="lazy" data-original="http://resizing.flixster.com/fN7vHUu1SivrTox_swmCXmrTRvU=/110x150/dkpu1ddg7pbsk.cloudfront.net/movie/10/88/95/10889553_ori.jpg"></div></div></div>
 </div>
-<center><div class="row"><div class="col-lg-12 visible-lg visible-md"><iframe src="http://rcm-na.amazon-adsystem.com/e/cm?t=techblogandli-20&o=1&p=48&l=ur1&category=musicandentertainmentrot&f=ifr&linkID=Q2UKCBH2NQB7PJWJ" width="728" height="90" scrolling="no" border="0" marginwidth="0" style="border:none;" frameborder="0"></iframe></div><div class="col-sm-12 visible-sm visible-xs"><iframe src="http://rcm-na.amazon-adsystem.com/e/cm?t=techblogandli-20&o=1&p=12&l=ur1&category=musicandentertainmentrot&f=ifr&linkID=32GFT4RW5USFC6L4" width="300" height="250" scrolling="no" border="0" marginwidth="0" style="border:none;" frameborder="0"></iframe></div></div></center>
+
+
+
+
+
+
+<center>
+<div class="row">
+<div class="col-lg-12 visible-lg visible-md">
+
+
+<!-- Google leaderboard -->
+<ins class="adsbygoogle"
+     style="display:inline-block;width:728px;height:90px"
+     data-ad-client="ca-pub-4947875154879707"
+     data-ad-slot="7446374452"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
+
+</div>
+<div class="col-sm-12 visible-sm visible-xs">
+
+
+<!-- Mobile banner -->
+<ins class="adsbygoogle"
+     style="display:inline-block;width:320px;height:100px"
+     data-ad-client="ca-pub-4947875154879707"
+     data-ad-slot="8923107653"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
+</div>
+</div>
+</center>
+
+
+
+
+
 <div class="row">
 <div class="col-xs-12 col-md-6"><div class="row"><div class="col-xs-9">
 <h3><a href='http://www.rottentomatoes.com/m/1136293-lightning_in_a_bottle/'>Lightning in a Bottle (2004)</a></h3><p><code>87&#37; of critics love it, but only 1,073 people have rated it.</code></p><p class="lead">Lightning in a Bottle pays dazzling tribute to the blues by capturing its power and excitement through backstage interviews and performance footage.</p></div>
@@ -1271,7 +1886,48 @@ keywords: "movies, reddit, unknown, recent, perfect, amazing, extraordinary, rot
 <h3><a href='http://www.rottentomatoes.com/m/scott-walker-30-century-man/'>Scott Walker: 30 Century Man (2006)</a></h3><p><code>86&#37; of critics love it, but only 1,258 people have rated it.</code></p><p class="lead">Scott Walker: 30 Century Man is a stylish portrait of an influential artist that will fascinate fans and neophytes alike.</p></div>
 <div class="col-xs-3"><br><br><img width=100% class="lazy" data-original="http://resizing.flixster.com/aaKAL8Nz2S9mG8gq8c0W1Ja5UZ8=/99x132/dkpu1ddg7pbsk.cloudfront.net/movie/10/86/22/10862206_ori.jpg"></div></div></div>
 </div>
-<center><div class="row"><div class="col-lg-12 visible-lg visible-md"><iframe src="http://rcm-na.amazon-adsystem.com/e/cm?t=techblogandli-20&o=1&p=48&l=ur1&category=musicandentertainmentrot&f=ifr&linkID=Q2UKCBH2NQB7PJWJ" width="728" height="90" scrolling="no" border="0" marginwidth="0" style="border:none;" frameborder="0"></iframe></div><div class="col-sm-12 visible-sm visible-xs"><iframe src="http://rcm-na.amazon-adsystem.com/e/cm?t=techblogandli-20&o=1&p=12&l=ur1&category=musicandentertainmentrot&f=ifr&linkID=32GFT4RW5USFC6L4" width="300" height="250" scrolling="no" border="0" marginwidth="0" style="border:none;" frameborder="0"></iframe></div></div></center>
+
+
+
+
+
+
+<center>
+<div class="row">
+<div class="col-lg-12 visible-lg visible-md">
+
+
+<!-- Google leaderboard -->
+<ins class="adsbygoogle"
+     style="display:inline-block;width:728px;height:90px"
+     data-ad-client="ca-pub-4947875154879707"
+     data-ad-slot="7446374452"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
+
+</div>
+<div class="col-sm-12 visible-sm visible-xs">
+
+
+<!-- Mobile banner -->
+<ins class="adsbygoogle"
+     style="display:inline-block;width:320px;height:100px"
+     data-ad-client="ca-pub-4947875154879707"
+     data-ad-slot="8923107653"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
+</div>
+</div>
+</center>
+
+
+
+
+
 <div class="row">
 <div class="col-xs-12 col-md-6"><div class="row"><div class="col-xs-9">
 <h3><a href='http://www.rottentomatoes.com/m/the_tribe_2015/'>The Tribe (2015)</a></h3><p><code>86&#37; of critics love it, but only 3,028 people have rated it.</code></p><p class="lead">A bleak, haunting drama whose wordless dialogue speaks volumes, The Tribe is a bold, innovative take on silent films for a contemporary audience.</p></div>
