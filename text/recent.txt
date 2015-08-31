@@ -1,0 +1,333 @@
+Title	Year	IMDB	RT Aud	RT Critics	Description
+Stop Making Sense	2014	8.4	98	96	No consensus yet.
+Virunga	2014	8.3	93	100	No consensus yet.
+Whiplash	2014	8.6	95	94	Intense, inspiring, and well-acted, Whiplash is a brilliant sophomore effort from director Damien Chazelle and a riveting vehicle for stars J.K. Simmons and Miles Teller.
+The Look of Silence	2015	8.4	92	96	The Look of Silence delivers a less shocking -- yet just as terribly compelling -- companion piece to Joshua Oppenheimer's The Act of Killing.
+12 Years a Slave	2013	8.1	90	96	It's far from comfortable viewing, but 12 Years a Slave's unflinchingly brutal look at American slavery is also brilliant -- and quite possibly essential -- cinema.
+Boyhood	2014	8.1	81	97	Epic in technical scale but breathlessly intimate in narrative scope, Boyhood is a sprawling investigation of the human condition.
+The Battered Bastards Of Baseball	2014	8.2	94	100	No consensus yet.
+Inside Out	2015	8.0	90	98	Inventive, gorgeously animated, and powerfully moving, Inside Out is another outstanding addition to the Pixar library of modern animated classics.
+Gangs of Wasseypur	2015	8.4	91	94	No consensus yet.
+An Adventure in Space and Time	2013	8.3	93	95	Fun, clever, and eminently accessible, An Adventure in Space and Time offers entertaining viewing for Doctor Who newcomers and diehards alike.
+The King and the Mockingbird	2014	8.0	92	100	No consensus yet.
+Song Of The Sea	2014	8.3	92	98	Song of the Sea boasts narrative depth commensurate with its visual beauty, adding up to an animated saga overflowing with family-friendly riches.
+The Act Of Killing	2013	8.2	85	95	Raw, terrifying, and painfully difficult to watch, The Act of Killing offers a haunting testament to the edifying, confrontational power of documentary cinema.
+Forbidden Games	2015	7.9	93	100	No consensus yet.
+Gravity	2013	7.9	80	96	Alfonso Cuar n's Gravity is an eerie, tense sci-fi thriller that's masterfully directed and visually stunning.
+PK	2014	8.5	85	85	No consensus yet.
+Short Term 12	2013	8.0	92	98	Short Term 12 is an emphatic, revealing drama that pulls audiences into the perspective of neglected youths.
+Winter Sleep	2014	8.4	84	88	Epic in length, thrilling to behold, and utterly absorbing, Winter Sleep demands -- and rewards -- viewers' patient attention.
+Before Midnight	2013	8.0	82	98	Building on the first two installments in Richard Linklater's well-crafted Before trilogy, Before Midnight offers intelligent, powerfully acted perspectives on love, marriage, and long-term commitment.
+Citizenfour	2014	8.2	88	97	Part real-life thriller, part sobering examination of 21st century civil liberties, Citizenfour transcends ideology to offer riveting, must-see cinema.
+Taxi	2015	8.2	100	100	No consensus yet.
+The Epic Of Everest	2013	7.9	71	100	No consensus yet.
+The Grand Budapest Hotel	2014	8.1	86	92	Typically stylish but deceptively thoughtful, The Grand Budapest Hotel finds Wes Anderson once again using ornate visual environments to explore deeply emotional ideas.
+Going Clear: Scientology and the Prison of Belief	2015	8.4	92	92	Thoroughly disquieting but impossible to ignore, Going Clear: Scientology and the Prison of Belief is a searing investigative work from a master documentarian.
+Her	2013	8.0	82	94	Sweet, soulful, and smart, Spike Jonze's Her uses its just-barely-sci-fi scenario to impart wryly funny wisdom about the state of modern human relationships.
+Life Itself	2014	8.0	89	97	Rich in detail and warmly affectionate, Life Itself offers a joyful yet poignant tribute to a critical cinematic legacy.
+Night Will Fall	2014	7.9	93	100	No consensus yet.
+Wild Tales	2015	8.2	92	96	Wickedly hilarious and delightfully deranged, Wild Tales is a subversive satire that doubles as a uniformly entertaining anthology film.
+Captain Phillips	2013	7.9	89	93	Smart, powerfully acted, and incredibly intense, Captain Phillips offers filmgoers a Hollywood biopic done right -- and offers Tom Hanks a showcase for yet another brilliant performance.
+Let The Fire Burn	2013	7.9	91	97	Smartly edited and heartbreakingly compelling, Let the Fire Burn uses archival footage to uncover a troubling -- and still deeply resonant -- chapter in American history.
+Blackfish	2013	8.1	90	98	Blackfish is an aggressive, impassioned documentary that will change the way you look at performance killer whales.
+About Elly	2015	8.2	87	96	About Elly offers viewers performances as powerful as its thought-provoking ideas, and adds another strong entry to Asghar Farhadi's impressive filmography.
+Nostalghia	2013	8.2	91	82	No consensus yet.
+56 Up	2013	7.9	75	98	Director Michael Apted continues to utilize cinema as a window into the lives of everyday people, and in the reflection of this documentary we can glimpse our own aging humanity.
+Avengers: Age of Ultron	2015	9.4	86	74	Exuberant and eye-popping, Avengers: Age of Ultron serves as an overstuffed but mostly satisfying sequel, reuniting its predecessor's unwieldy cast with a few new additions and a worthy foe.
+Guardians of the Galaxy	2014	8.1	92	91	Guardians of the Galaxy is just as irreverent as fans of the frequently zany Marvel comic would expect -- as well as funny, thrilling, full of heart, and packed with visual splendor.
+Jodorowsky's Dune	2014	8.1	89	98	Part thoughtful tribute, part bittersweet reminder of a missed opportunity, Jodorowsky's Dune offers a fascinating look at a lost sci-fi legend.
+Kurt Cobain: Montage Of Heck	2015	8.3	84	96	Kurt Cobain: Montage of Heck makes a persuasive case for its subject without resorting to hagiography -- and includes plenty of rare and unreleased footage for fans.
+The Dark Horse	2014	8.5	83	100	No consensus yet.
+Gone Girl	2014	8.2	87	88	Dark, intelligent, and stylish to a fault, Gone Girl plays to director David Fincher's sick strengths while bringing the best out of stars Ben Affleck and Rosamund Pike.
+Leviathan	2014	7.8	79	99	Leviathan lives up to its title, offering trenchant, well-crafted social satire on a suitably grand scale.
+Toy Story of Terror!	2013	7.6	84	92	No consensus yet.
+Ernest & C lestine	2014	7.9	88	97	Sweet and visually charming, Ernest & Celestine offers old-fashioned delights for animation lovers of all ages.
+The LEGO Movie	2014	7.8	87	95	Boasting beautiful animation, a charming voice cast, laugh-a-minute gags, and a surprisingly thoughtful story, The Lego Movie is colorful fun for all ages.
+Ex Machina	2015	8.0	86	91	Ex Machina leans heavier on ideas than effects, but it's still a visually polished piece of work -- and an uncommonly engaging sci-fi feature.
+Filmage: The Story of Descendents/All	2013	8.6	93	100	No consensus yet.
+Hard to be a God	2015	7.1	78	96	No consensus yet.
+Last Days in Vietnam	2014	7.7	82	94	As gripping as it is inspiring, Last Days in Vietnam offers a surprisingly fresh -- and heart-wrenching -- perspective on the end of the Vietnam War.
+Nightcrawler	2014	7.9	86	94	Restless, visually sleek, and powered by a lithe star performance from Jake Gyllenhaal, Nightcrawler offers dark, thought-provoking thrills.
+Stories We Tell	2013	7.6	79	94	In Stories We Tell, Sarah Polley plays with the documentary format to explore the nature of memory and storytelling, crafting a thoughtful, compelling narrative that unfolds like a mystery.
+The Crash Reel	2013	7.7	95	95	Smart, compassionate, and moving, The Crash Reel uses the familiar sport-doc formula to subvert expectations and ask challenging questions about ambition and achievement.
+The Overnighters	2014	7.5	86	98	Hard-hitting, absorbing, and painfully relevant, The Overnighters offers an urgent and compassionate picture of life in 21st century America.
+The Imitation Game	2014	8.1	92	89	With an outstanding starring performance from Benedict Cumberbatch illuminating its fact-based story, The Imitation Game serves as an eminently well-made entry in the "prestige biopic" genre.
+Blood Brother	2013	8.3	89	70	No consensus yet.
+Dallas Buyers Club	2013	8.0	91	93	Dallas Buyers Club rests squarely on Matthew McConaughey's scrawny shoulders, and he carries the burden gracefully with what might be a career-best performance.
+How to Train Your Dragon 2	2014	8.0	90	91	Exciting, emotionally resonant, and beautifully animated, How to Train Your Dragon 2 builds on its predecessor's successes just the way a sequel should.
+Tangerines	2015	8.6	90	83	Tangerines' impassioned message and the strong work of a solid cast more than make up for the movie's flawed narrative and uneven structure.
+Frequencies	2014	7.1	77	100	No consensus yet.
+X-Men: Days of Future Past	2014	8.1	92	90	X-Men: Days of Future Past combines the best elements of the series to produce a satisfyingly fast-paced outing that ranks among the franchise's finest installments.
+Zero Dark Thirty	2013	7.4	80	93	Gripping, suspenseful, and brilliantly crafted, Zero Dark Thirty dramatizes the hunt for Osama bin Laden with intelligence and an eye for detail.
+Best Kept Secret	2013	7.5	92	100	No consensus yet.
+Me and Earl and the Dying Girl	2015	8.1	90	81	Beautifully scripted and perfectly cast, Me & Earl & the Dying Girl is a coming-of-age movie with uncommon charm and insight.
+Rush	2013	8.2	88	89	A sleek, slick, well-oiled machine, Rush is a finely crafted sports drama with exhilarating race sequences and strong performances from Chris Hemsworth and Daniel Br hl.
+The Normal Heart	2014	8.0	87	93	Thanks to Emmy-worthy performances from a reputable cast, The Normal Heart is not only a powerful, heartbreaking drama, but also a vital document of events leading up to and through the early AIDS crisis.
+The Wolf of Wall Street	2013	8.2	82	77	Funny, self-referential, and irreverent to a fault, The Wolf of Wall Street finds Martin Scorsese and Leonardo DiCaprio at their most infectiously dynamic.
+Dawn Of The Planet Of The Apes	2014	7.7	88	89	With intelligence and emotional resonance to match its stunning special effects, Dawn of the Planet of the Apes expands on its predecessor with an exciting and ambitious burst of sci-fi achievement.
+McCullin	2013	8.1	91	100	No consensus yet.
+Nebraska	2013	7.8	83	90	Elegant in its simplicity and poetic in its message, Nebraska adds another stirringly resonant chapter to Alexander Payne's remarkable filmography.
+Sound City	2013	7.8	90	100	Smart, affectionate, and unabashedly sincere, Sound City pairs a great soundtrack with a well-argued ode to one of rock 'n' roll's most fondly remembered bygone eras.
+The Gatekeepers	2013	7.6	79	93	Strikingly stark, brutally honest, and rivetingly assembled, The Gatekeepers offers essential perspective on a seemingly intractable war from some of the men who fought it.
+The Internet's Own Boy: The Story of Aaron Swartz	2014	8.2	91	93	Informative and enraging in equal measure, The Internet's Own Boy: The Story of Aaron Swartz uses its subject's tragic tale to deliver an impassioned call to action.
+Inside Llewyn Davis	2013	7.5	73	94	Smart, funny, and profoundly melancholy, Inside Llewyn Davis finds the Coen brothers in fine form.
+Interstellar	2014	8.7	85	71	Interstellar represents more of the thrilling, thought-provoking, and visually resplendent filmmaking moviegoers have come to expect from writer-director Christopher Nolan, even if its intellectual reach somewhat exceeds its grasp.
+The Wind Rises	2014	7.8	85	88	The Wind Rises is a fittingly bittersweet swan song for director Hayao Miyazaki.
+Shaun the Sheep	2015	7.6	82	99	Warm, funny, and brilliantly animated, Shaun the Sheep is yet another stop-motion jewel in Aardman's family-friendly crown.
+Jerusalem	2013	7.4	91	88	No consensus yet.
+Next Goal Wins	2014	7.9	87	100	No consensus yet.
+Philomena	2013	7.7	89	92	Based on a powerful true story and led by note-perfect performances from Judi Dench and Steve Coogan, Philomena offers a profoundly affecting drama for adult filmgoers of all ages.
+All This Mayhem	2014	8.0	82	100	No consensus yet.
+Call Me Kuchu	2013	7.5	88	97	Alternately horrific and uplifting, Call Me Kuchu exposes heinous systematic brutality with a clear eye and admirable precision.
+Live Die Repeat: Edge of Tomorrow	2014	8.0	90	90	Gripping, well-acted, funny, and clever, Edge of Tomorrow offers entertaining proof that Tom Cruise is still more than capable of shouldering the weight of a blockbuster action thriller.
+Frozen	2013	7.7	86	88	Beautifully animated, smartly written, and stocked with singalong songs, Frozen adds another worthy entry to the Disney canon.
+Fruitvale Station	2013	7.5	87	93	Passionate and powerfully acted, Fruitvale Station serves as a celebration of life, a condemnation of death, and a triumph for star Michael B. Jordan.
+National Gallery	2014	7.5	77	96	National Gallery finds director Frederick Wiseman doing what he does best: Drawing the viewer in with richly detailed, patiently constructed observations on modern institutions.
+Seymour: An Introduction	2015	7.7	88	100	Seymour Bernstein's genuineness shines so brightly in Seymour: An Introduction that viewers will forgive debuting director Ethan Hawke's reverent treatment.
+Theeb	2015	7.9	86	100	No consensus yet.
+Wadjda	2013	7.6	89	99	Transgressive in the best possible way, Wadjda presents a startlingly assured new voice from a corner of the globe where cinema has been all but silenced.
+Which Way Is the Front Line from Here? The Life and Times of Tim Hetherington	2013	7.7	92	100	No consensus yet.
+An Honest Liar	2015	7.8	91	97	A thoughtful and surprisingly layered documentary enlivened by its subject, An Honest Liar serves as a well-deserved tribute to a fascinating life.
+Bhaag Milkha Bhaag	2013	8.4	84	90	No consensus yet.
+Captain America: The Winter Soldier	2014	7.8	92	88	Suspenseful and politically astute, Captain America: The Winter Soldier is a superior entry in the Avengers canon and is sure to thrill Marvel diehards.
+Two Days, One Night	2014	7.4	78	96	Another profoundly affecting work from the Dardenne brothers, Two Days, One Night delivers its timely message with honesty and clear-eyed compassion.
+Beyond The Hills	2013	7.6	80	90	Although some viewers may mistake its deliberate pace for passionless filmmaking, Beyond the Hills offers an intelligent, powerfully acted examination of the tension between secular life and religious faith.
+The Way He Looks	2014	8.1	89	91	Compassionate, emotionally detailed, and populated with resonant characters, The Way He Looks leaves a warmth that lingers.
+Inequality For All	2013	8.0	88	90	While it arrives in a glut of similarly themed documentaries, Inequality for All distinguishes itself with a compelling presentation of an important message, as well as much-needed splashes of wit.
+Kajaki	2014	8.1	87	100	No consensus yet.
+McConkey	2013	8.4	94	100	No consensus yet.
+Mr. Holmes	2015	8.6	78	86	Mr. Holmes focuses on the man behind the mysteries, and while it may lack Baker Street thrills, it more than compensates with tenderly wrought, well-acted drama.
+Pride	2014	7.8	89	92	Earnest without being didactic and uplifting without stooping to sentimentality, Pride is a joyous crowd-pleaser that genuinely works.
+Star Trek Into Darkness	2013	7.8	90	86	Visually spectacular and suitably action packed, Star Trek Into Darkness is a rock-solid installment in the venerable sci-fi franchise, even if it's not as fresh as its predecessor.
+The Raid 2	2014	8.1	87	79	Although its high-energy plot and over-the-top violence may play better with genre aficionados, The Raid 2 definitely delivers more of everything audiences loved about its predecessor.
+Big Hero 6	2014	7.9	91	89	Agreeably entertaining and brilliantly animated, Big Hero 6 is briskly-paced, action-packed, and often touching.
+The Missing Picture	2014	7.4	76	98	Thrillingly unorthodox and emotionally searing without being didactic, The Missing Picture is a uniquely poignant documentary -- and so much more.
+Muscle Shoals	2013	7.7	88	96	Essential for soul fans and entertaining for novices, Muscle Shoals offers a compelling, warts-and-all glimpse at one of the most fascinating stories in modern American music.
+Prisoners	2013	8.1	87	81	Prisoners has an emotional complexity and a sense of dread that makes for absorbing (and disturbing) viewing.
+The Hunger Games: Catching Fire	2013	7.7	89	89	Smart, smoothly directed, and enriched with a deeper exploration of the franchise's thought-provoking themes, Catching Fire proves a thoroughly compelling second installment in the Hunger Games series.
+The World Before Her	2013	7.5	80	100	No consensus yet.
+20 Feet From Stardom	2013	7.4	82	99	Rich, insightful, and occasionally heartbreaking, 20 Feet From Stardom is an energetic tribute to the passion, talent, and hard work of backup singers.
+What We Do In The Shadows	2015	7.6	86	96	Smarter, fresher, and funnier than a modern vampire movie has any right to be, What We Do in the Shadows is bloody good fun.
+The Attorney	2014	7.8	88	72	No consensus yet.
+Finding Vivian Maier	2014	7.7	89	94	Narratively gripping, visually striking, and ultimately thought-provoking, Finding Vivian Maier shines an overdue spotlight on its subject's long-hidden brilliance.
+The Last of the Unjust	2014	7.1	81	97	No consensus yet.
+Particle Fever	2014	7.5	84	95	The concepts behind its heady subject matter may fly over the heads of most viewers, but Particle Fever presents it in such a way that even the least science-inclined viewers will find themselves enraptured.
+Like Father, Like Son	2014	7.8	88	86	Sensitively written, smartly directed, and powerfully performed, Like Father, Like Son uses familiar-seeming elements to tell a thought-provoking story.
+Alive Inside	2014	8.1	93	73	It's somewhat clumsily expressed, but Alive Inside offers such an uplifting message that it's ultimately hard to resist.
+Blancanieves	2013	7.5	83	94	Smartly written and beautiful to behold, Blancanieves uses its classic source material to offer a dark tale, delightfully told.
+Elaine Stritch: Shoot Me	2014	7.5	81	98	Brutally honest and utterly compelling, Elaine Stritch: Shoot Me offers a riveting, vanity-free portrait of its legendary subject while offering a few essential truths about the human condition.
+Haider	2014	8.5	87	100	No consensus yet.
+Love & Mercy	2015	7.4	89	89	As unconventional and unwieldy as the life and legacy it honors, Love & Mercy should prove moving for Brian Wilson fans while still satisfying neophytes.
+Nosotros los Nobles	2013	7.4	83	100	No consensus yet.
+Starred Up	2014	7.4	84	99	Smart, hard-hitting, and queasily realistic, Starred Up is an instant classic of U.K. prison cinema.
+American Hustle	2013	7.3	74	92	Riotously funny and impeccably cast, American Hustle compensates for its flaws with unbridled energy and some of David O. Russell's most irrepressibly vibrant direction.
+Gideon's Army	2013	7.8	88	100	No consensus yet.
+The Challenger Disaster	2013	7.3	93	92	No consensus yet.
+Tim's Vermeer	2014	7.8	86	89	Entertaining and profound in equal measure, Tim's Vermeer uses its seemingly esoteric subject to pose fascinating questions about art and obsession.
+Metro Manila	2014	7.6	91	93	Infusing thriller tropes with a searing glimpse of modern-day corruption, Metro Manila is just as gripping as any action blockbuster -- and twice as thought-provoking.
+Slow West	2015	8.1	75	91	Slow West serves as an impressive calling card for first-time writer-director John M. Maclean -- and offers an inventive treat for fans of the Western.
+The Broken Circle Breakdown	2013	7.8	85	81	The Broken Circle Breakdown's reach occasionally exceeds its grasp, but overall, it's an intoxicating, finely wrought romance -- and one with a terrific soundtrack to boot.
+The Return To Homs	2014	7.8	85	92	No consensus yet.
+Toy Story That Time Forgot	2014	7.3	99	100	No consensus yet.
+20,000 Days on Earth	2014	7.5	81	95	Revealing yet respectful, 20,000 Days on Earth is essential viewing for any Nick Cave fan.
+A Band Called Death	2013	7.5	85	93	A Band Called Death is not only a fascinating portrait of a pioneering rock group, but also a tribute to family ties and perseverance in the face of hardship.
+Backstreet Boys: Show 'Em What You're Made Of	2015	8.1	86	68	No consensus yet.
+The Great Beauty	2013	7.4	79	91	Dazzlingly ambitious, beautifully filmed, and thoroughly enthralling, The Great Beauty offers virtuoso filmmaking from writer/director Paolo Sorrentino.
+Blue Jasmine	2013	7.3	77	91	Woody Allen's Blue Jasmine finds the director in peak late-period form -- and benefiting from a superb cast led by Cate Blanchett.
+Free China: The Courage to Believe	2013	8.0	85	100	No consensus yet.
+It Follows	2015	7.6	65	96	Smart, original, and above all terrifying, It Follows is the rare modern horror film that works on multiple levels -- and leaves a lingering sting.
+Keep On Keepin' On	2014	7.4	87	97	Offering keen observations and infectious warmth, Keep On Keepin' On is a joy for jazz buffs and novices alike.
+The Selfish Giant	2013	7.3	81	97	Starkly emotional and beautifully directed, The Selfish Giant uses a lovely script and some powerful performances to present some of the best that modern British cinema has to offer.
+7 Boxes	2014	7.2	85	100	No consensus yet.
+99 Homes	2015	7.3	99	95	No consensus yet.
+Far Out Isn't Far Enough: The Tomi Ungerer Story	2013	7.7	90	91	No consensus yet.
+I Am Divine	2013	7.7	83	96	With warmth and affection, I Am Divine offers an engaging portrait of the complex personality behind a trailblazing cinematic figure.
+Mauvais Sang	2013	7.4	84	90	No consensus yet.
+The Duke Of Burgundy	2015	7.4	67	93	Stylish, sensual, and smart, The Duke of Burgundy proves that erotic cinema can have genuine substance.
+The Theory of Everything	2014	7.8	84	79	Part biopic, part love story, The Theory of Everything rises on James Marsh's polished direction and the strength of its two leads.
+What Maisie Knew	2013	7.5	80	87	It's undeniably difficult to watch at times, but What Maisie Knew ultimately rises on the strength of its solidly sourced script, powerful performances, and empathetic direction.
+Zero Motivation	2014	7.8	83	84	Darkly funny and understatedly absurd, Zero Motivation is a refreshing addition to the canon of irreverent war comedies -- and an intriguing calling card for writer-director Talya Lavie.
+A World Not Ours	2014	7.8	82	100	No consensus yet.
+Calvary	2014	7.5	80	89	Led by a brilliant performance from Brendan Gleeson, Calvary tackles weighty issues with humor, intelligence, and sensitivity.
+Frances Ha	2013	7.4	77	92	Audiences will need to tolerate a certain amount of narrative drift, but thanks to sensitive direction from Noah Baumbach and an endearing performance from Greta Gerwig, Frances Ha makes it easy to forgive.
+In Bloom	2014	8.0	75	93	A coming-of-age drama entwined with a political statement, In Bloom underscores its well-worn themes with strong performances and palpable real-world tension.
+Stations of the Cross	2015	7.6	84	91	A drama of thought-provoking depth as well as a showcase for newcomer Lea van Acken, Stations of the Cross hits hard and leaves a lingering impact.
+Maidentrip	2014	7.5	81	81	No consensus yet.
+Mistaken for Strangers	2014	7.4	85	91	A suitably complicated look at fraternal bonds, Mistaken for Strangers offers more depth and insight than the usual tour documentary.
+When Marnie Was There	2015	7.7	89	89	When Marnie Was There is still blessed with enough visual and narrative beauty to recommend, even if it isn't quite as magical as Studio Ghibli's greatest works.
+Still Alice	2015	7.5	85	89	Elevated by a gripping performance from Julianne Moore, Still Alice is a heartfelt drama that honors its delicate themes with bravery and sensitivity.
+The Fault In Our Stars	2014	8.0	85	80	Wise, funny, and heartbreaking without resorting to exploitation, The Fault In Our Stars does right by its bestselling source material.
+A Girl Walks Home Alone at Night	2014	7.1	76	95	A Girl Walks Home Alone at Night blends conventional elements into something brilliantly original -- and serves as a striking calling card for writer-director Ana Lily Amirpour.
+After Tiller	2013	7.4	84	94	After Tiller applies empathy, honesty, and graceful understatement to a discussion that all too often lacks them all.
+At Berkeley	2013	7.3	75	85	Its generous running time will test less forbearing viewers' patience, but for filmgoers seeking more of director Frederick Wiseman's observant brand of documentary, At Berkeley satisfies.
+Blue Ruin	2014	7.1	78	96	Smart, stripped-down, and thrillingly grim, Blue Ruin proves that a well-told revenge story can still leave its audience on the edge of their seat.
+Casting By	2013	7.6	80	92	No consensus yet.
+Furious 7	2015	8.0	85	81	Serving up a fresh round of over-the-top thrills while adding unexpected dramatic heft, Furious 7 keeps the franchise moving in more ways than one.
+God Loves Uganda	2013	7.5	78	100	No consensus yet.
+Gore Vidal: The United States Of Amnesia	2014	7.9	83	82	No consensus yet.
+How To Make Money Selling Drugs	2013	7.8	91	76	No consensus yet.
+Life According To Sam	2013	8.1	97	100	No consensus yet.
+Tales Of The Grim Sleeper	2014	7.3	82	100	No consensus yet.
+The Hobbit: The Desolation of Smaug	2013	8.0	85	74	While still slightly hamstrung by "middle chapter" narrative problems and its formidable length, The Desolation of Smaug represents a more confident, exciting second chapter for the Hobbit series.
+The Punk Singer	2013	7.4	82	88	It verges on hagiography, but given the deeply compelling nature of its subject's story, The Punk Singer can be forgiven its lack of objectivity.
+Wrinkles	2014	7.6	81	96	Poignant and tender without succumbing to schmaltz, Wrinkles offers a thoughtful -- and beautifully animated -- look at old age.
+Cutie And The Boxer	2013	7.2	75	95	A beautifully-made documentary that explores the challenges and richness of both marriage and art through the lens of a fascinating and complex couple.
+A Hijacking	2013	7.2	76	95	A tense, gripping thriller, A Hijacking avoids action movie cliches and instead creates a palpable sense of dread by mixing gritty realism with atmospheric beauty.
+Kingsman: The Secret Service	2015	8.1	85	74	Stylish, subversive, and above all fun, Kingsman: The Secret Service finds director Matthew Vaughn sending up the spy genre with gleeful abandon.
+Le Pont du Nord	2013	7.2	81	100	No consensus yet.
+The Machine Which Makes Everything Disappear	2013	8.0	80	64	No consensus yet.
+McFarland USA	2015	7.8	89	78	Disney's inspirational sports drama formula might be old hat, but McFarland, USA proves it still works -- especially with a talented director and eminently likable star in the mix.
+More Than Honey	2013	7.5	80	100	No consensus yet.
+The Tribe	2015	7.5	75	86	A bleak, haunting drama whose wordless dialogue speaks volumes, The Tribe is a bold, innovative take on silent films for a contemporary audience.
+Rich Hill	2014	7.3	80	84	As compassionate as it is infuriating, Rich Hill offers a sobering glimpse of American poverty.
+Rocks in my Pockets	2014	7.6	74	100	No consensus yet.
+The History Of Future Folk	2013	7.5	86	93	High on quirky smarts and low on splashy special effects, The History of Future Folk is an unusual -- and unusually fun -- slice of sci-fi.
+The Spectacular Now	2013	7.2	76	92	The Spectacular Now is an adroit, sensitive film that avoids typical coming-of-age story trappings.
+Ain't In It For My Health: A Film About Levon Helm	2013	7.2	76	92	No consensus yet.
+Fed Up	2014	7.7	84	81	Compelling and troubling in equal measure, Fed Up is an advocacy documentary that earns its outrage.
+God's Horses	2014	7.3	77	100	No consensus yet.
+Narco Cultura	2013	7.3	78	86	Disturbing, thought-provoking, and timely, Narco Cultura sheds some crucial light on an important -- and underserved -- subject.
+Dirty Wars	2013	7.5	74	85	Some viewers may find fault with director Rick Rowley's filmmaking methods, but they aren't distracting enough to keep Dirty Wars from serving as a terribly compelling argument against elements of American foreign policy.
+A Pigeon Sat on a Branch Reflecting on Existence	2015	7.2	67	91	Expertly assembled and indelibly original, A Pigeon Sat on a Branch concludes writer-director Roy Andersson's Living trilogy in style.
+Lamb Of God's As The Palaces Burn	2014	8.1	88	78	No consensus yet.
+Birders: The Central Park Effect	2013	7.3	77	100	No consensus yet.
+Charlie's Country	2015	7.3	86	93	Powerfully performed and beautifully directed, Charlie's Country uses its protagonist's personal saga to explore poignant universal themes.
+Cinderella	2015	7.5	80	84	Refreshingly traditional in a revisionist era, Kenneth Branagh's Cinderella proves Disney hasn't lost any of its old-fashioned magic.
+Fire In The Blood	2013	7.7	89	88	No consensus yet.
+Liv & Ingmar	2013	7.3	82	91	No consensus yet.
+Spy	2015	7.5	82	93	Simultaneously broad and progressive, Spy offers further proof that Melissa McCarthy and writer-director Paul Feig bring out the best in one another -- and delivers scores of belly laughs along the way.
+The Conjuring	2013	7.5	82	85	Well-crafted and gleefully creepy, The Conjuring ratchets up dread through a series of effective old-school scares.
+The Inevitable Defeat of Mister & Pete	2013	7.5	88	90	No consensus yet.
+The Way Way Back	2013	7.4	84	84	Despite its familiar themes, The Way Way Back makes use of its talented cast, finely tuned script, and an abundance of charm to deliver a funny and satisfying coming-of-age story.
+Copenhagen	2014	7.3	82	92	No consensus yet.
+Dope	2015	7.1	86	87	Featuring a starmaking performance from Shameik Moore and a refreshingly original point of view from writer-director Rick Famuyiwa, Dope is smart, insightful entertainment.
+Fury	2014	7.7	84	76	Overall, Fury is a well-acted, suitably raw depiction of the horrors of war that offers visceral battle scenes but doesn't quite live up to its larger ambitions.
+No No: A Dockumentary	2014	7.4	89	100	While taking full advantage of its subject's colorful baseball career, No No: A Dockumentary also imparts broader, thought-provoking messages that should resonate with viewers who aren't sports fans.
+Aftermath	2013	7.3	81	82	It represents an occasionally uneven collision of genres, but all in all, Wladyslaw Pasikowski's Aftermath delves into Holocaust guilt with power and efficiency.
+Road	2014	7.8	90	80	No consensus yet.
+Saving Mr. Banks	2013	7.6	84	79	Aggressively likable and sentimental to a fault, Saving Mr. Banks pays tribute to the Disney legacy with excellent performances and sweet, high-spirited charm.
+The Trials Of Muhammad Ali	2013	7.1	86	89	Director Bill Siegel doesn't explore any new boundaries of the documentary with The Trials of Muhammad Ali, but his subject is so inherently fascinating that the movie proves gripping in spite of its familiar beats.
+Utopia	2013	7.6	89	100	No consensus yet.
+The Case Against 8	2014	7.1	88	91	Expansive in scope yet steady in focus, The Case Against 8 offers impassioned social advocacy as well as gripping viewing.
+The Pervert's Guide To Ideology	2013	7.6	77	90	No consensus yet.
+A Most Violent Year	2015	7.1	69	90	Gritty, gripping, and weighted with thought-provoking heft, A Most Violent Year represents another strong entry in writer-director J.C. Chandor's impressive filmography.
+Black Souls	2015	7.1	72	97	No consensus yet.
+Is the Man Who Is Tall Happy?: An Animated Conversation with Noam Chomsky	2013	7.6	67	91	No consensus yet.
+E-Team	2014	7.1	75	87	No consensus yet.
+Enough Said	2013	7.1	75	95	Wryly charming, impeccably acted, and ultimately quite bittersweet, Enough Said is a grown-up movie in the best possible way.
+Foxcatcher	2014	7.1	66	88	A chilling true crime drama, Foxcatcher offers Steve Carell, Mark Ruffalo, and Channing Tatum a chance to shine -- and all three of them rise to the challenge.
+Man from Reno	2015	7.2	87	93	Man from Reno rises on the strength of solid performances and a sharp script, adding up to a densely plotted neo-noir with some subtle twists.
+The Farewell Party	2015	7.6	81	92	No consensus yet.
+Springsteen And I	2013	7.4	79	88	No consensus yet.
+The Kill Team	2014	7.2	74	90	Urgent, mesmerizing, and infuriating, The Kill Team looks at American foreign policy from a rarely considered perspective.
+A Touch of Sin	2013	7.2	74	93	Its screenplay isn't as graceful as the choreography of its action sequences, but A Touch of Sin offers enough stylishly satisfying violence to muscle past its rough spots.
+Nas: Time Is Illmatic	2014	7.1	82	100	Comprehensive yet brisk, Nas: Time Is Illmatic offers an absorbing look at a hip-hop classic and the life of the artist who made it.
+Wild	2014	7.2	76	89	Powerfully moving and emotionally resonant, Wild finds director Jean-Marc Vall e and star Reese Witherspoon working at the peak of their respective powers.
+42	2013	7.5	86	78	42 is an earnest, inspirational, and respectfully told biography of an influential American sports icon, though it might be a little too safe and old-fashioned for some.
+Bears	2014	7.4	78	89	Sweet, beautifully filmed, and admirably short on sugarcoating, Bears continues Disneynature's winning streak.
+Doin' It in the Park: Pick-Up Basketball, NYC	2013	7.4	71	75	No consensus yet.
+Happy People: A Year in the Taiga	2013	7.7	75	87	Filled with breathtaking images of the foreboding Siberian countryside, Happy People: A Year in the Taiga is a fascinating look at an isolated society.
+Why Don't You Play in Hell?	2014	7.3	81	83	Deliriously manic and gleefully tasteless, Why Don't You Play in Hell? delivers infectious genre fun.
+A Hard Day	2015	7.2	84	80	No consensus yet.
+Laurence Anyways	2013	7.6	77	82	Passionate and powerfully acted, Laurence Anyways sometimes strains to achieve its narrative ambitions (and fill its three-hour running time), but ultimately succeeds.
+Lone Survivor	2014	7.6	87	75	A true account of military courage and survival, Lone Survivor wields enough visceral power to mitigate its heavy-handed jingoism.
+Milius	2013	7.5	96	94	No consensus yet.
+Only Lovers Left Alive	2014	7.3	74	85	Worth watching for Tom Hiddleston and Tilda Swinton's performances alone, Only Lovers Left Alive finds writer-director Jim Jarmusch adding a typically offbeat entry to the vampire genre.
+Out in the Dark	2013	7.6	80	75	No consensus yet.
+The Place Beyond The Pines	2013	7.3	75	79	Ambitious to a fault, The Place Beyond the Pines finds writer/director Derek Cianfrance reaching for -- and often grasping -- thorny themes of family, fatherhood, and fate.
+This Ain't California	2013	7.3	82	81	No consensus yet.
+Art and Craft	2014	7.1	73	91	The spotlight it shines on an apparently troubled mind may strike some viewers as exploitative, but Art and Craft remains a thoroughly gripping glimpse into the life of a legendary art forger.
+Girl Rising	2013	7.2	83	88	No consensus yet.
+Harry Dean Stanton: Partly Fiction	2013	7.3	74	92	No consensus yet.
+Iron Man 3	2013	7.3	79	78	With the help of its charismatic lead, some impressive action sequences, and even a few surprises, Iron Man 3 is a witty, entertaining adventure and a strong addition to the Marvel canon.
+From Up On Poppy Hill	2013	7.4	79	83	Gentle and nostalgic, From Up on Poppy Hill is one of Studio Ghibli's sweeter efforts -- and if it doesn't push the boundaries of the genre, it remains as engagingly lovely as Ghibli fans have come to expect.
+Sands of Iwo Jima	2014	7.2	80	100	No consensus yet.
+Stolen Seas	2013	7.1	83	100	No consensus yet.
+Despicable Me 2	2013	7.5	85	73	Despicable Me 2 offers plenty of eye-popping visual inventiveness and a number of big laughs.
+A Story Of Children And Film	2014	7.1	80	94	No consensus yet.
+About Time	2013	7.8	81	69	Beautifully filmed and unabashedly sincere, About Time finds director Richard Curtis at his most sentimental.
+Deceptive Practice: The Mysteries and Mentors of Ricky Jay	2013	7.1	71	89	No consensus yet.
+Monsters University	2013	7.4	82	78	Offering Monsters, Inc. fans a return visit with beloved characters, Monsters University delivers funny and thoughtful family entertainment for viewers of any age.
+Our Vinyl Weighs A Ton: This Is Stones Throw Records	2014	7.5	80	100	No consensus yet.
+The Book of Life	2014	7.3	78	82	The Book of Life's gorgeous animation is a treat, but it's a pity that its story lacks the same level of craft and detail that its thrilling visuals provide.
+The Human Scale	2013	7.2	88	63	No consensus yet.
+Antarctica: A Year on Ice	2014	7.5	82	84	No consensus yet.
+Chef	2014	7.3	85	86	Chef's charming cast and sharp, funny script add enough spice to make this feel-good comedy a flavorful -- if familiar -- treat.
+Human Capital	2015	7.4	76	79	Part character study, part socioeconomic fable, Human Capital offers trenchant commentary as well as absorbing drama.
+Far from Men	2015	7.5	78	79	No consensus yet.
+Marie's Story	2015	7.4	76	68	No consensus yet.
+Testament Of Youth	2015	7.2	79	81	Testament of Youth is well-acted and beautifully filmed, adding up to an enriching if not adventurous experience for fans of British period dramas.
+The Good Lie	2014	7.4	82	87	The Good Lie sacrifices real-life nuance in order to turn its true story into a Hollywood production, but the results still add up to a compelling, well-acted, and deeply moving drama.
+22 Jump Street	2014	7.1	77	84	Boasting even more of the bromantic chemistry between its stars -- and even more of the goofy, good-natured humor that made its predecessor so much fun -- 22 Jump Street is the rare sequel that improves upon the original.
+Advanced Style	2014	7.2	79	87	Colorful, witty, and uplifting, Advanced Style celebrates life and pays tribute to those who flout convention.
+Big Star: Nothing Can Hurt Me	2013	7.1	81	91	No consensus yet.
+John Wick	2014	7.2	80	85	Stylish, thrilling, and giddily kinetic, John Wick serves as a satisfying return to action for Keanu Reeves -- and what looks like it could be the first of a franchise.
+Nicky's Family	2013	7.7	88	61	No consensus yet.
+Pawn Sacrifice	2015	8.0	96	88	No consensus yet.
+Side Effects	2013	7.1	70	82	A smart, clever thriller with plenty of disquieting twists, Side Effects is yet another assured effort from director Steven Soderbergh.
+St. Vincent	2014	7.3	79	76	St. Vincent offers the considerable pleasure of seeing Bill Murray back in funny form, but drifts into dangerously sentimental territory along the way.
+Predestination	2015	7.4	74	83	Fun genre fare with uncommon intelligence, Predestination serves as a better-than-average sci-fi adventure -- and offers a starmaking turn from Sarah Snook.
+Banksy Does New York	2014	7.3	81	100	No consensus yet.
+The Circle	2014	7.3	79	100	No consensus yet.
+Kumiko, the Treasure Hunter	2015	7.2	63	87	Powerfully acted and lovely to look at, Kumiko, the Treasure Hunter offers a treat for cinephiles with a taste for the pleasantly peculiar.
+Leave The World Behind	2014	7.9	85	71	No consensus yet.
+Merchants Of Doubt	2015	7.1	74	84	Merchants of Doubt is a thought-provoking documentary assembled with energy and style, even if it doesn't dig as deep as it could.
+Michael H. Profession: Director	2013	7.2	68	100	No consensus yet.
+The Armstrong Lie	2013	7.2	75	83	Smartly constructed and scathingly sharp, The Armstrong Lie presents an effective indictment of its unscrupulous subject -- as well as the sports culture that spawned him.
+The Bitter Buddha	2013	7.1	78	93	No consensus yet.
+The Drop	2014	7.1	76	89	There's no shortage of similarly themed crime dramas, but The Drop rises above the pack with a smartly written script and strong cast.
+The Kings of Summer	2013	7.2	77	75	Thanks to charming performances and endearingly off-kilter spirit, The Kings of Summer proves to be a slight, sweet entry in the crowded coming-of-age genre.
+The Stone Roses: Made of Stone	2013	7.2	76	73	No consensus yet.
+A Bottle in the Gaza Sea	2013	7.2	70	69	No consensus yet.
+Harmontown	2014	7.4	83	76	No consensus yet.
+Himizu	2013	7.2	74	93	No consensus yet.
+Infinitely Polar Bear	2015	7.3	77	80	Infinitely Polar Bear handles its thorny themes with a somewhat troublesomely light touch, but Mark Ruffalo's complex performance keeps the drama solidly grounded.
+Rudderless	2014	7.5	83	62	Rudderless asks its cast to carry an awful lot of weight for its occasionally manipulative story; fortunately, this talented bunch -- led by Billy Crudup -- is often more than up to the task.
+Spinning Plates	2013	7.2	84	84	No consensus yet.
+TV Junkie	2013	7.3	68	83	No consensus yet.
+The Croods	2013	7.3	78	70	While it may not be as (ahem) evolved as the best modern animated fare, The Croods will prove solidly entertaining for families seeking a fast-paced, funny cartoon adventure.
+The One I Love	2014	7.1	77	80	The One I Love doesn't take its intriguing premise quite as far as it could, but it still adds up to an ambitious, well-acted look at love and marriage.
+The Short Game	2013	7.5	87	83	No consensus yet.
+Z For Zachariah	2015	7.3	66	79	Z for Zachariah wrings compelling drama out of its simplistic premise -- albeit at a pace that may test the patience of less contemplative viewers.
+The Iran Job	2013	7.1	76	88	No consensus yet.
+Danny Collins	2015	7.5	75	77	Thanks to Al Pacino's stirring central performance - and excellent work from an esteemed supporting cast -- Danny Collins manages to overcome its more predictable and heavy-handed moments to deliver a heartfelt tale of redemption.
+Generation Iron	2013	7.2	78	80	No consensus yet.
+Good Ol' Freda	2013	7.2	77	84	No consensus yet.
+Lilting	2014	7.1	81	81	Skillfully weaving multiple delicate tonal strands into a quietly affecting whole, Lilting serves as a thoroughly compelling calling card for writer-director Hong Khaou.
+Metallica Through the Never	2013	7.3	74	78	Imaginatively shot and edited, Metallica Through the Never is an electrifying, immersive concert film, though its fictional sequences are slightly less assured.
+A Letter to Momo	2014	7.3	77	79	Sweet, sad, and visually striking, A Letter to Momo is a hand-drawn experience for animation fans to savor.
+Richard Pryor: Omit The Logic	2013	7.3	73	80	No consensus yet.
+Fast & Furious 6	2013	7.2	84	69	With high-octane humor and terrific action scenes, Fast & Furious 6 builds upon the winning blockbuster formula that made Fast 5 a critical and commercial success.
+Hannah Arendt	2013	7.1	73	87	Led by a powerful performance from Barbara Sukowa, Hannah Arendt does a commendable job of dramatizing the life of a complex public figure.
+Island Of Lemurs: Madagascar	2014	7.3	66	80	Brief enough for the youngest viewers yet informative and visually spectacular enough for all ages, Island of Lemurs: Madagascar is educational entertainment for the whole family.
+Magical Universe	2014	7.6	75	62	No consensus yet.
+Pulp: a Film About Life, Death & Supermarkets	2014	7.3	78	83	Witty, warm, and unconventional, Pulp makes up in overall entertainment what it lacks in depth.
+Supermensch: The Legend of Shep Gordon	2014	7.2	85	77	Its unabashedly positive tone may strike some viewers as disingenuous, but even if Supermensch doesn't tell the whole story, it's an undeniably entertaining one.
+Lee Daniels' The Butler	2013	7.1	78	71	Gut-wrenching and emotionally affecting, Lee Daniels' The Butler overcomes an uneven narrative thanks to strong performances from an all-star cast.
+Weekend Of A Champion	2013	7.5	74	71	No consensus yet.
+Bridegroom	2013	8.1	86	81	No consensus yet.
+Hawking	2013	7.3	73	84	No consensus yet.
+The Hundred-Foot Journey	2014	7.3	81	67	Director Lasse Hallstr m does lovely work and Helen Mirren is always worth watching, but The Hundred-Foot Journey travels predictable ground already covered by countless feel-good dramedies.
+The Rise and Rise of Bitcoin	2014	7.3	88	62	No consensus yet.
+Antoine et Antoinette	2013	7.5	100	75	No consensus yet.
+August: Osage County	2013	7.3	66	64	The sheer amount of acting going on in August: Osage County threatens to overwhelm, but when the actors involved are as talented as Meryl Streep and Julia Roberts, it's difficult to complain.
+The Story Of Luke	2013	7.3	78	80	No consensus yet.
+Awake: The Life Of Yogananda	2014	7.6	81	66	No consensus yet.
+Camp X-Ray	2014	7.2	66	72	Camp X-Ray's treatment of its subject verges on the shallow, but benefits greatly from a pair of impressive performances from Kristen Stewart and Peyman Moaadi.
+Bettie Page Reveals All	2013	7.1	61	72	No consensus yet.
+Pantani: The Accidental Death Of A Cyclist	2014	7.1	78	81	No consensus yet.
+Thor: The Dark World	2013	7.1	78	66	It may not be the finest film to come from the Marvel Universe, but Thor: The Dark World still offers plenty of the humor and high-stakes action that fans have come to expect.
+Broadway Idiot	2013	7.5	71	63	No consensus yet.
+In Your Eyes	2014	7.2	68	62	No consensus yet.
+Pandora's Promise	2013	7.3	70	63	No consensus yet.
+Dinosaur 13	2014	7.1	74	71	It's undeniably slanted and doesn't cover as much of the story as it should, but Dinosaur 13 makes for gripping documentary viewing, flaws and all.
+Miss Violence	2013	7.1	93	82	No consensus yet.
+Money for Nothing: Inside the Federal Reserve	2013	7.2	78	65	No consensus yet.
+Patema Inverted	2014	7.3	78	84	No consensus yet.
+The Water Diviner	2015	7.4	62	62	The Water Diviner finds Russell Crowe on somewhat uncertain footing as a director, but he's rescued by a strong performance from himself in the leading role.
+Linsanity	2013	7.4	77	62	No consensus yet.
+Million Dollar Arm	2014	7.1	69	61	Pleasant to a fault, Million Dollar Arm is a middle-of-the-plate pitch that coasts on Jon Hamm's considerable charm without adding any truly original curves to Disney's inspirational sports formula.
+The Equalizer	2014	7.2	77	61	The Equalizer is more stylishly violent than meaningful, but with Antoine Fuqua behind the cameras and Denzel Washington dispensing justice, it delivers.
+Roman Polanski: A Film Memoir	2013	7.1	85	90	No consensus yet.
+The Young And Prodigious T.S. Spivet	2015	7.1	72	78	No consensus yet.
+High Tech, Low Life	2013	7.3	82	62	No consensus yet.

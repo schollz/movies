@@ -1,0 +1,63 @@
+Title	Year	IMDB	RT Aud	RT Critics	Description
+Room 237	2013	6.3	55	93	Mysterious and provocative, Room 237 is a fascinating journey into the world of obsessive cinephilles.
+The Hunting Ground	2015	6.4	69	92	The Hunting Ground isn't director Kirby Dick's strongest work as a filmmaker, but the movie's powerful message more than trumps any technical weaknesses.
+Spy Kids	2001	5.4	45	92	A kinetic and fun movie that's sure to thrill children of all ages.
+Splash	1984	6.2	58	92	A perfectly light, warmly funny romantic comedy that's kept afloat by Ron Howard's unobtrusive direction and charming performances from Tom Hanks and Daryl Hannah.
+Farewell, My Queen	2012	6.3	56	92	No consensus yet.
+Coriolanus	2011	6.1	58	92	Visceral and visually striking, Ralph Fiennes' Coriolanus proves Shakespeare can still be both electrifying and relevant in a modern context.
+Momma's Man	2008	6.1	50	91	Moody yet touching, Momma's Man successfully illustrates with elegant simplicity the struggles of a man consumed with his adolescence.
+Married to the Mob	1988	6.1	48	91	No consensus yet.
+Your Mommy Kills Animals	2007	6.5	72	90	A thoroughly fascinating, well-presented examination of the animal rights debate that is both provocative and thought-provoking.
+Scandal	1989	6.4	61	90	No consensus yet.
+Uncle Boonmee Who Can Recall His Past Lives	2011	6.6	60	89	Languorous and deeply enigmatic, Palme d'Or winner Uncle Boonmee represents an original take on the ghosts that haunt us.
+Shaft	1971	6.6	68	88	No consensus yet.
+Freaky Friday	2003	6.1	57	87	Jamie Lee Curtis and Lindsay Lohan charm in Mark Waters' nicely pitched -- and Disney's second -- remake of the 1976 hit.
+A Field in England	2014	6.2	58	87	Recklessly assembled and occasionally compelling in spite of itself, A Field in England showcases a singularly brilliant voice in British cinema.
+Computer Chess	2013	6.3	54	86	With its delightfully retro production design, Computer Chess is an inventive, intelligent, and humorous comedy that celebrates the eccentricity and uniqueness of its subject.
+We Are What We Are	2013	5.8	48	85	A compelling story cleverly told, We Are What We Are quenches horror buffs' thirst for gore while serving up serious-minded filmmaking and solid acting.
+The Secret Lives of Dentists	2003	6.5	57	85	A witty and honest look at marriage in decay.
+The Tree of Life	2011	6.7	60	83	Terrence Malick's singularly deliberate style may prove unrewarding for some, but for patient viewers, Tree of Life is an emotional as well as visual treat.
+Listen Up Philip	2014	6.5	55	83	As thought-provoking as it is uncompromising, Listen Up Philip finds writer-director Alex Ross Perry taking a creative step forward while hearkening back to classic neurotic comedies of '70s cinema.
+Berberian Sound Studio	2013	6.2	53	83	Its reach may exceed its grasp, but with Berberian Sound Studio, director Peter Strickland assembles a suitably twisted, creepy tribute to the Italian Giallo horror movies of the '70s that benefits from a strong central performance by Toby Jones.
+Drinking Buddies	2013	6.1	49	82	Smart, funny, and powered by fine performances from Olivia Wilde and Jake Johnson, Drinking Buddies offers a bittersweet slice of observational comedy.
+Blue Caprice	2013	6.0	52	82	Smart, sobering, and quietly chilling, Blue Caprice uses its horrible true-life story -- and some solid performances -- to underscore the dreadful banality of evil.
+100 Bloody Acres	2013	5.9	47	82	No consensus yet.
+The Two Faces of January	2014	6.2	47	81	With striking visuals, complex characters, and Hitchcockian plot twists, The Two Faces of January offers a pleasantly pungent treat for fans of romantic thrillers.
+Stuart Little 2	2002	5.4	41	81	Stuart Little 2 is a sweet, visually impressive sequel that provides wholesome entertainment for kids.
+Camille Claudel, 1915	2013	6.5	46	81	Camille Claudel, 1915 isn't an easy watch, but Juliette Binoche's excellent performance makes it worth the effort.
+Young Adult	2011	6.3	49	80	Despite its somewhat dour approach, Young Adult is a funny and ultimately powerful no-holds-barred examination of prolonged adolescence, thanks largely to a convincing performance by Charlize Theron.
+The Myth Of The American Sleepover	2011	6.2	52	80	No consensus yet.
+Scream 2	1997	6.1	56	80	As with the first film, Scream 2 is a gleeful takedown of scary movie conventions that manages to poke fun at terrible horror sequels without falling victim to the same fate.
+Lola	2001	5.5	43	80	No consensus yet.
+Cyrus	2010	6.3	53	80	While it may strike some viewers as slight, Cyrus is a successful hybrid of mainstream production values and the mumblecore ideals of directors Jay and Mark Duplass.
+The Wild Thornberrys Movie	2002	5.1	51	79	A pleasant enough kids flick that adults may even enjoy.
+The Aristocrats	2005	6.4	61	79	Can a joke stand up to repeated tellings? Hilarious and revealing of the way comedy works, The Aristocrats demonstrates that it's possible.
+Teeth	2007	5.5	45	79	Smart, original, and horrifically funny, Teeth puts a fresh feminist spin on horror movie tropes.
+Humpday	2009	6.1	51	79	Observant and insightful, this indie comedy takes a different tack on the "bromance" but still makes a point without sermonizing.
+Tiny Furniture	2010	6.3	55	78	No consensus yet.
+The Innkeepers	2012	5.5	42	78	It doesn't break any rules of the genre, but The Innkeepers serves as additional proof that Ti West is a young director that discriminating horror fans can trust.
+Baghead	2008	5.9	48	78	Pitting actors against murderers in a self-aware struggle for stardom, Baghead successfully skates the borders of horror and comedy.
+Undercover Brother	2002	5.8	64	76	Fast-paced and filled with racial gags, Undercover Brother serves up plenty of laughs and sharp satire.
+The Tailor of Panama	2001	6.1	46	76	The Tailor of Panama is a smart, darkly satirical thriller with exuberant performances from Pierce Brosnan and Geoffrey Rush.
+The Invisible Woman	2013	6.2	45	76	Its deliberate pace will frustrate some viewers, but for fans of handsomely mounted period drama, The Invisible Woman offers visual as well as emotional cinematic nourishment.
+The Bay	2012	5.6	43	76	Barry Levinson's eco-horror flick cleverly utilizes familiar found-footage methods in service of a gruesome yet atmospheric chiller.
+Noah	2014	5.9	42	76	With sweeping visuals grounded by strong performances in service of a timeless tale told on a human scale, Darren Aronofsky's Noah brings the Bible epic into the 21st century.
+Unforgivable	2012	5.8	35	76	No consensus yet.
+Teacher's Pet	2004	5.8	47	75	Despite its short running time, Teacher's Pet is a witty and irreverent family film.
+Happy Christmas	2014	5.6	38	75	Intelligent, well-acted, and satisfyingly low-key, Happy Christmas marks another step in prolific filmmaker Joe Swanberg's creative evolution.
+Spy Kids 2: The Island of Lost Dreams	2002	5.1	38	74	Though the concept is no longer fresh, Spy Kids 2 is still an agreeable and energetic romp.
+Killing Them Softly	2012	6.2	44	74	Killing Them Softly is a darkly comic, visceral thriller that doubles as a cautionary tale on capitalism, whose message is delivered with sledgehammer force.
+Greenberg	2010	6.1	42	74	Greenberg's title character is harder to like than most, but Ben Stiller's nuanced performance and a darkly funny script help take the misanthropic edge off.
+Beeswax	2009	6.0	44	74	Andrew Bujalski's third effort will test the patience of some filmgoers, but it represents a warm, funny, and honest introduction to the mumblecore movement.
+Afterglow	1997	6.2	47	74	No consensus yet.
+Robot Stories	2004	5.9	52	72	Although its 4 stories vary in quality, Robot Stories is still worth a look for Twilight Zone fans.
+Friends With Money	2006	5.9	40	71	Stong lead performances, witty dialogue and wry observations cement Friends With Money as another winning dramedy from writer/director Nicole Holofcener.
+Valhalla Rising	2010	6.0	48	70	No consensus yet.
+The Loneliest Planet	2012	5.5	31	70	The source material that inspired The Loneliest Planet may be brief, but this adaptation of a Tom Bissell short story compensates with studious, finely detailed filmmaking, haunting visuals, and thought-provoking subtext.
+Sex Is Comedy	2004	5.7	46	69	No consensus yet.
+Not Fade Away	2012	6.0	42	69	Exuberant and bittersweet, Not Fade Away is a coming-of-age story set to a British Invasion beat that occasionally meanders but mostly charms.
+Life During Wartime	2010	5.2	48	69	With Life During Wartime, Todd Solondz delivers an unexpected semi-sequel to Happiness in typically uncompromising fashion.
+C.O.G.	2013	5.6	35	69	C.O.G.'s plot is a bit meandering, but the characters are always compelling and the ending is richly rewarding.
+They Came Together	2014	5.4	39	68	They Came Together is surprisingly messy and perhaps too smart for its own good, but Amy Poehler and Paul Rudd's chemistry is enough to overcome many of the movie's flaws.
+Kiss of Death	1995	5.9	37	67	An outstanding ensemble cast propels Kiss of Death, a noir-ish crime thriller that's slick and big on atmosphere, even if its script may only provide sporadic bursts of tension.
+The Girlfriend Experience	2009	4.8	35	65	Steven Soderbergh's latest lo-fi production is strikingly crafted but emotionally vague.

@@ -1,0 +1,191 @@
+Title	Year	IMDB	RT Aud	RT Critics	Description
+2016: Obama's America	2012	5.1	73	25	No consensus yet.
+23 Blast	2014	5.9	71	38	The real life story that inspired 23 Blast is undeniably heartwarming -- but the movie itself is too predictable and amateurish to recommend.
+3 Nights In The Desert	2015	5.8	73	40	No consensus yet.
+Tyler Perry's A Madea Christmas	2013	4.4	70	18	It boasts a few laughs, but overall, Tyler Perry's A Madea Christmas ranks among Perry's least entertaining or substantive works.
+ATL	2006	5.9	86	62	Strong lead performances and catchy musical interludes rescue this coming-of-age story from its formulaic script and uneven direction.
+All Relative	2014	5.2	93	10	No consensus yet.
+All Stars	2013	4.9	62	57	No consensus yet.
+Alvin and the Chipmunks	2007	5.3	65	26	Though cutely rendered, Alvin and the Chipmunks suffers from bland potty humor and a rehashed kids' movie formula.
+America: Imagine the World Without Her	2014	5.6	84	8	Passionate but poorly constructed, America preaches to the choir.
+America So Beautiful	2001	5.7	75	33	No consensus yet.
+American Adobo	2002	5.0	40	30	The characters and situations seem borrowed from overwrought sitcoms.
+Annie	2014	5.1	61	27	The new-look Annie hints at a progressive take on a well-worn story, but smothers its likable cast under clich s, cloying cuteness, and a distasteful materialism.
+Assault of the Killer Bimbos	1987	4.6	50	16	No consensus yet.
+Backstage	2000	5.6	83	30	No consensus yet.
+Ball Don't Lie	2008	5.5	75	20	No consensus yet.
+Beer for My Horses	2008	4.8	62	0	No consensus yet.
+Believe Me	2014	4.8	62	36	No consensus yet.
+Belly	1998	5.8	88	12	No consensus yet.
+Bert and Arnie's Guide to Friendship	2013	5.0	67	33	No consensus yet.
+Better than Chocolate	1999	6.3	78	38	No consensus yet.
+Big Mommas: Like Father, Like Son	2011	4.3	58	5	Unnecessary, unfunny, and generally unwelcome, Big Mommas: Like Father, Like Son offers more of the same for fans of Martin Lawrence's perplexingly popular series.
+Black Coffee	2014	5.4	58	33	No consensus yet.
+Bloodline	2008	5.8	63	36	No consensus yet.
+Boys of Abu Ghraib	2014	5.3	58	30	No consensus yet.
+Breakin'	1984	5.6	73	42	No consensus yet.
+Breakup at a Wedding	2013	4.7	62	60	No consensus yet.
+Broken Bridges	2006	6.2	86	4	A cliched attempt at a feel-good drama, Broken Bridges is schmaltzy, predictable, and stiffly acted.
+Brothers at War	2009	2.6	66	70	No consensus yet.
+Brooklyn Babylon	2001	6.0	71	50	No consensus yet.
+Camp Rock	2008	4.9	75	20	No consensus yet.
+Careless Love	2012	6.0	79	85	No consensus yet.
+Civil Brand	2003	5.2	81	15	No consensus yet.
+Cocaine Angel	2007	5.4	53	60	No consensus yet.
+Cover	2007	5.3	78	0	No consensus yet.
+Addicted To Fame	2012	3.6	67	27	No consensus yet.
+Daddy's Little Girls	2007	5.2	81	26	Daddy's Little Girls boasts fine performances and a poignant message, but is ultimately let down by amateurish filmmaking.
+Death by China	2012	6.0	72	33	No consensus yet.
+WMD: Weapons of Mass Deception	2004	5.3	68	57	No consensus yet.
+Desert Dancer	2015	5.4	73	31	No consensus yet.
+Diary of a Mad Black Woman	2005	5.6	87	16	Tyler Perry's successful play can't make the move to the screen; this mix of slapstick, melodrama and spirituality lacks a consistent tone.
+Dirty Sanchez: The Movie	2007	6.2	75	40	No consensus yet.
+Do You Believe?	2015	5.4	84	17	No consensus yet.
+Dumbbells	2014	3.5	59	14	No consensus yet.
+EDC 2013: Under the Electric Sky	2014	6.3	65	57	No consensus yet.
+Echoes of Innocence	2005	5.1	60	0	No consensus yet.
+Eye of the Dolphin	2007	5.6	58	31	No consensus yet.
+Fall	1997	6.0	85	0	No consensus yet.
+Fat Girls	2006	5.2	49	27	No consensus yet.
+Filly Brown	2013	5.5	73	45	No consensus yet.
+Flicka	2006	6.1	82	53	The rebellious protagonist will rally girls and children, but adults may find Flicka saddled with thin characters, over-the-top dialogue, and a plot that wanders into the countryside and never comes back.
+Foolish	1999	4.2	66	0	No consensus yet.
+For Colored Girls	2010	5.9	73	31	Tyler Perry has assembled a fine cast for this adaptation of the 1975 play, and his heart is obviously in the right place, but his fondness for melodrama cheapens a meaningful story.
+Fort McCoy	2014	5.4	63	50	No consensus yet.
+FrackNation	2013	6.0	72	50	No consensus yet.
+Frankie	2005	6.0	67	25	No consensus yet.
+Games People Play: New York	2004	5.3	50	34	No consensus yet.
+Ghost Team One	2013	4.6	70	36	No consensus yet.
+Girl In Progress	2012	5.6	53	30	Despite a well-intentioned and novel premise, Girl in Progress is plagued by jarring tonal shifts and does little to break its characters out of clich .
+Glee: The 3D Concert Movie	2011	5.3	64	60	The unconverted will remain just as perplexed as ever, but for gleeful Gleeks, The 3D Concert Movie delivers exactly what it promises.
+God's Not Dead	2014	5.0	78	15	No consensus yet.
+Tyler Perry's Good Deeds	2012	5.3	76	31	Tyler Perry's craftmanship as a director continues to improve, but his stories are still the same ol' hoary, pretentious melodramas.
+Grace Unplugged	2013	6.0	79	50	No consensus yet.
+Green Card Fever	2003	5.7	80	40	No consensus yet.
+Hair Show	2004	4.8	69	16	No consensus yet.
+Hammersmith Is Out	1972	5.9	67	40	No consensus yet.
+Hangman's Curse	2003	4.9	75	0	No consensus yet.
+Ghosts of the Heartland	2007	6.3	50	20	No consensus yet.
+Heaven Is for Real	2014	5.8	67	46	Heaven Is for Real boasts a well-written screenplay and a talented cast, but overextends itself with heavy-handed sequences depicting concepts it could have trusted the audience to take on faith.
+Hello Herman	2012	5.8	71	12	No consensus yet.
+High School Musical 3: Senior Year	2008	4.3	71	64	It won't win many converts, but High School Musical 3 is bright, energetic, and well-crafted.
+Home Run	2013	6.0	82	45	No consensus yet.
+Hurricane	1979	4.3	42	50	No consensus yet.
+I Can Do Bad All By Myself	2009	3.9	81	62	Though somewhat formulaic and predictable, Perry succeeds in mixing broad humor with sincere sentimentality to palatable effect.
+I Want Your Money	2010	5.0	67	0	No consensus yet.
+I Woke Up Early the Day I Died	1998	6.3	64	27	No consensus yet.
+I'm In Love With A Church Girl	2013	4.2	66	5	No consensus yet.
+Illegal Tender	2007	5.5	67	14	Lackluster acting and a ridiculous plot make the over-the-top Illegal Tender an unrealistic bust.
+In God's Hands	1998	5.4	80	0	No consensus yet.
+John Tucker Must Die	2006	5.7	69	25	This derivitive teen comedy tries to go for cute when it could use more bite.
+Joshua Tree, 1951: A Portrait of James Dean	2012	6.1	62	60	No consensus yet.
+Joyful Noise	2012	5.6	66	33	Joyful Noise's musical numbers are solidly entertaining, and it benefits from Queen Latifah and Dolly Parton's sizable chemistry; unfortunately, they aren't enough to make up for the rest of the film.
+Jump In!	2007	5.3	61	50	No consensus yet.
+Jumping the Broom	2011	5.6	59	55	Its heart is in the right place -- and so is its appealing cast -- but Jumping the Broom is ultimately too cliched and thinly written to recommend.
+Just Another Girl on the I.R.T.	1993	6.1	85	40	No consensus yet.
+Kevin & Perry Go Large	2000	5.3	71	0	No consensus yet.
+Last Ounce of Courage	2012	4.3	70	0	No consensus yet.
+Least Among Saints	2012	6.3	86	36	No consensus yet.
+Leave it on the Floor	2013	6.1	68	75	No consensus yet.
+Legends of Oz: Dorothy's Return	2014	5.8	69	16	Faced with the choice between staying in or seeing Legends of Oz: Dorothy's Return, most filmgoers will be forced to conclude that there's no place like home.
+Letters To God	2010	6.1	74	25	No consensus yet.
+Lift	2001	6.3	72	44	No consensus yet.
+Lost For Words	2013	2.8	75	33	No consensus yet.
+Madea Goes to Jail	2009	4.0	70	28	Divided between sincere melodrama and populist comedy, Madea Goes to Jail fails to provide enough laughs -- or screen time -- for its titular heroine.
+Madea's Big Happy Family	2011	4.3	74	37	No consensus yet.
+Madea's Family Reunion	2006	4.9	84	25	Tyler Perry's Madea's Family Reunion is sincere in its positive intentions, but leaves something to be desired as a film.
+Madea's Witness Protection	2012	4.7	67	20	No consensus yet.
+Mahogany	1975	6.0	78	23	No consensus yet.
+Mariachi Gringo	2013	6.2	71	42	No consensus yet.
+Martin Lawrence Live - Runteldat	2002	5.4	70	38	Lawrence's delivery can be funny, but the content is stale.
+Meet The Browns	2008	3.9	70	31	Angela Bassett's considerable charms can't compensate for Meet the Browns' incessant melodrama and scattered narrative threads.
+Mercy Streets	2000	5.6	63	12	No consensus yet.
+Modern Girls	1986	5.7	66	40	No consensus yet.
+Mobsters and Mormons	2005	6.2	76	75	No consensus yet.
+Moms' Night Out	2014	5.4	67	18	Cheap-looking, unfunny, and kind of sexist to boot, Moms' Night Out is a disappointment from start to finish.
+Moshi Monsters: The Movie	2013	3.2	63	66	No consensus yet.
+My Brother	2006	5.6	65	30	No consensus yet.
+My Heroes Have Always Been Cowboys	1991	6.3	85	33	No consensus yet.
+My Uncle Rafael	2012	5.4	80	20	No consensus yet.
+Newlyweeds	2013	5.7	72	68	No consensus yet.
+Not Cool	2014	5.4	75	14	No consensus yet.
+Not Today	2013	5.5	84	50	No consensus yet.
+Now, Forager	2012	6.4	75	54	No consensus yet.
+On the Edge	2001	5.1	80	62	No consensus yet.
+On the Road With Judas	2006	5.3	64	60	No consensus yet.
+One Direction: This Is Us	2013	4.0	80	62	It's mostly for the converted, but One Direction: This Is Us will be fun for fans -- and it offers just enough slickly edited concert footage to entertain the casual viewer.
+One Night With the King	2006	6.3	78	19	Despite its epic source matierial, One Night With the King is held back by dull storytelling and a clumsy script.
+Playback	2012	4.2	77	0	No consensus yet.
+Pride	2007	5.7	72	44	Pride features a typically stellar performance from Terrence Howard, but ultimately falls victim to its over usage of sports movie clich s.
+Pulling Strings	2013	6.0	72	58	No consensus yet.
+Santa Buddies	2009	4.8	59	20	No consensus yet.
+Sarafina!	1992	6.3	88	55	No consensus yet.
+School Daze	1988	5.7	81	57	No consensus yet.
+Second Hand Wedding	2008	6.1	71	50	No consensus yet.
+Seven Days In Utopia	2011	6.1	68	14	No consensus yet.
+Sex and the City	2008	5.4	77	49	Sex and the City loses steam in the transition to the big screen, but will still thrill fans of the show.
+Shottas	2006	6.1	91	18	No consensus yet.
+Somewhere Slow	2014	5.5	86	50	No consensus yet.
+Son Of God	2014	5.5	73	20	The faithful may find their spirits raised, but on purely cinematic terms, Son of God is too dull and heavy-handed to spark much fervor.
+Sparkle	2012	5.6	65	56	While undeniably melodramatic and old-fashioned, Sparkle transcends its formulaic trappings thanks to Salim Akil's empathetic direction and strong performances from a committed cast.
+Sprung	1997	4.9	77	22	No consensus yet.
+State's Evidence	2004	6.0	79	40	No consensus yet.
+State Property	2002	4.1	73	0	No consensus yet.
+State Property 2	2005	4.3	83	14	No consensus yet.
+Step Up 2 the Streets	2008	6.2	76	27	There's a kinetic appeal to the handsome cast and their smooth moves, but everything else about Step Up 2 the Streets is been there, danced that.
+Stomp the Yard	2007	5.2	81	25	While Stomp the Yard contains impressive musical and dance numbers, it loses its momentum during the intervening soap opera-style subplots.
+Suddenly Naked	2001	6.0	63	50	No consensus yet.
+$upercapitalist	2012	4.0	79	18	No consensus yet.
+Swearnet: The Movie	2014	6.2	64	20	No consensus yet.
+Ta Ra Rum Pum	2007	5.4	73	66	No consensus yet.
+Talento de Barrio	2008	5.4	72	0	No consensus yet.
+Temptation	2013	4.8	66	14	No consensus yet.
+The Art of Love	1965	6.3	90	0	No consensus yet.
+The Big Squeeze	1996	5.1	60	42	No consensus yet.
+Love & Air Sex	2014	5.3	59	66	No consensus yet.
+The Brothers	2001	6.3	85	62	Often seen as a Waiting to Exhale with men, The Brothers is amiable. However, it feels superficial and somewhat of a retread.
+The Challenge	1982	6.3	72	60	No consensus yet.
+The Christmas Candle	2013	5.6	76	18	No consensus yet.
+The Family That Preys	2008	5.2	61	51	Tyler Perry's The Family that Preys treads the filmmaker's established terrain of family loyalty and moral uprightness, though the occasionally predictable plot slides forward, aided by an excess of soapy melodrama.
+The Forbidden Dance	1990	3.3	78	23	No consensus yet.
+The Fox and the Hound 2	2006	5.5	49	0	No consensus yet.
+The Girl Is In Trouble	2015	5.3	50	57	No consensus yet.
+The Grace Card	2011	6.4	81	34	Tailored for a very specific audience, The Grace Card delivers its noble religious message via implausible plot twists and preachy dialogue.
+The Gospel	2005	4.3	74	32	While it features outstanding musical numbers, The Gospel reduces a series of worthy themes -- faith, family, forgiveness -- to soapy, banal clich s.
+The Green Berets	1968	5.6	62	27	No consensus yet.
+The Groundstar Conspiracy	1972	6.0	75	40	No consensus yet.
+The Identical	2014	4.6	64	6	With nearly every element ringing as hollow as the ersatz Elvis at the story's core, The Identical looks destined for a bright future on the ironic viewing circuit.
+The Land of College Prophets	2005	4.1	80	66	No consensus yet.
+The Last Sin Eater	2007	5.9	72	18	This earnest Christian parable is undone by its pompous dialogue and cheap FX.
+The Longshots	2008	5.0	61	40	The Longshots means well, but it's a largely formulaic affair, rarely deviating from the inspirational sports movie playbook.
+The Lord of the Rings	1978	6.1	64	50	No consensus yet.
+The Pill	2011	5.6	61	70	No consensus yet.
+The Players Club	1998	5.5	86	31	No consensus yet.
+The R.M.	2003	5.8	73	63	No consensus yet.
+The Reckoning	2014	5.7	89	50	No consensus yet.
+The Runner Stumbles	1979	5.9	100	44	No consensus yet.
+The Scenesters	2011	6.0	73	42	No consensus yet.
+The Single Moms Club	2014	4.9	59	16	The Single Moms' Club finds Tyler Perry avoiding some of the pitfalls of his earlier work, but continuing to rely on heavy-handed melodrama at the expense of sensible characters or absorbing storylines.
+The Smurfs 2	2013	5.4	57	13	Like its predecessor, Smurfs 2 may amuse small children, but it's largely an unambitious, charm-free collection of slapstick gags and one-liners.
+The Song	2014	5.9	85	28	No consensus yet.
+The Ten Commandments	2007	2.8	53	14	No consensus yet.
+The Twilight Saga: Breaking Dawn Part 2	2012	5.6	70	48	It's the most entertaining Twilight, but that's not enough to make Breaking Dawn Part 2 worth watching for filmgoers who don't already count themselves among the franchise converts.
+The Twilight Saga: Eclipse	2010	4.9	60	48	Stuffed with characters and overly reliant on uninspired dialogue, Eclipse won't win The Twilight Saga many new converts, despite an improved blend of romance and action fantasy.
+The Twilight Saga: New Moon	2009	4.6	61	27	The Twilight Saga's second installment may satisfy hardcore fans of the series, but outsiders are likely to be turned off by its slow pace, relentlessly downcast tone, and excessive length.
+The Ultimate Life	2013	5.7	57	18	No consensus yet.
+The Young Black Stallion	2003	5.6	68	45	No consensus yet.
+Think Like a Man Too	2014	5.7	60	23	Think Like a Man Too reunites its predecessor's talented cast, but fails to take their characters in new or interesting directions.
+Third World Cop	1999	6.2	88	15	No consensus yet.
+This Christmas	2007	6.1	81	55	This Christmas features strong performances and a sharp portrayal of family dynamics, but relies too heavily on holiday movie clich?s.
+Thunderstruck	2012	5.2	72	20	No consensus yet.
+Time Changer	2002	5.6	74	22	No consensus yet.
+Touching Home	2010	5.8	74	50	No consensus yet.
+Trippin	1999	5.2	79	17	No consensus yet.
+Venus and Mars	2001	6.2	67	0	No consensus yet.
+Walter	2015	5.4	52	58	No consensus yet.
+We the Party	2012	4.0	69	27	No consensus yet.
+Which Way Is Up?	1977	6.4	85	20	No consensus yet.
+Who Needs Enemies	2013	5.7	55	20	No consensus yet.
+Why Did I Get Married?	2007	5.5	78	46	Despite some poignant observations on modern marriages, Why Did I Get Married? is too preachy and melodramatic.
+The Battle of Pussy Willow Creek	2013	5.1	91	55	No consensus yet.
+Woman Thou Art Loosed: On the 7th Day	2012	4.8	69	20	No consensus yet.

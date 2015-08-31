@@ -1,0 +1,143 @@
+Title	Year	IMDB	RT Aud	RT Critics	Description
+Wing Commander	1999	8.8	24	10	The low budget may explain Wing Commander's cheesy special effects, but can't excuse the lame dialogue or the movie's obsessive reliance on sci-fi cliches.
+Fighting for Life	2008	8.2	70	89	No consensus yet.
+Knock Knock	2015	8.3	88	50	No consensus yet.
+The Last Airbender	2010	8.9	31	6	The Last Airbender squanders its popular source material with incomprehensible plotting, horrible acting, and detached joyless direction.
+The Singing Revolution	2007	8.5	80	83	No consensus yet.
+Max Payne	2008	9.4	30	16	While it boasts some stylish action, Max Payne suffers severely from an illogical plot and overdirection.
+Trumbo	2007	7.5	77	81	Trumbo celebrates the life and work of blacklisted screenwriter Dalton Trumbo with measures of humor and sadness.
+War of the Worlds	2005	8.5	42	74	Steven Spielberg's adaptation of War of the Worlds delivers on the thrill and paranoia of H.G. Wells' classic novel while impressively updating the action and effects for modern audiences.
+Broken Tower	2012	7.3	19	20	No consensus yet.
+Black Christmas	2006	8.4	38	14	A gratuitous remake of the 1974 slasher, Black Christmas pumps out the gore and blood with zero creativity, humor, or visual flair.
+The Comedian	2013	7.7	90	53	No consensus yet.
+The Quest	1996	7.4	37	14	No consensus yet.
+Henry's Crime	2011	7.4	25	39	Supporting actors Vera Farmiga and James Caan give the movie a little heft, but Henry's Crime is an otherwise predictable heist/comedy with slow pacing.
+Highlander: Endgame	2000	7.6	38	11	The fourth and supposedly last Highlander movie is a confusing mess, complete with bad acting and dialogue.
+The Babysitters	2008	7.8	30	33	Though built on an audacious and controversial premise, Babysitters teeters between exploitation and grossness due to uneven execution.
+Phantom	2013	7.8	34	25	A cast of solid actors do what they can to elevate the material, but Phantom's script is too clunky and devoid of tension to bear comparison to its thematic predecessors.
+Neil Young: Heart of Gold	2006	7.8	79	89	Proving that it's neither better to burn out nor fade away, Neil Young: Heart of Gold works both as a concert film and a meditation on mortality.
+Star Wars: Episode III - Revenge of the Sith 3D	2005	8.6	65	79	This sixth and final installment of George Lucas' epic space opera will please die-hard fanatics and non-believers alike -- largely due to awesome digital effects and the sheer power of the mythology.
+The Borderlands	2014	8.2	44	78	No consensus yet.
+Donnie Darko	2001	8.1	80	85	Richard Kelly's debut feature Donnie Darko is a daring, original vision, packed with jarring ideas and intelligence and featuring a remarkable performance from Jake Gyllenhaal as the troubled title character.
+True Story	2015	8.0	42	44	James Franco and Jonah Hill make a watchable pair, but True Story loses their performances -- and the viewer's interest -- in a muddled movie that bungles its fact-based tale.
+Be Here to Love Me: A Film About Townes Van Zandt	2005	8.0	91	93	No consensus yet.
+Cowboy del Amor	2006	7.1	48	70	No consensus yet.
+Wrong Turn 2: Dead End	2007	7.9	44	77	No consensus yet.
+The Hollywood Revue of 1929	1929	7.8	17	40	No consensus yet.
+Dahmer	2002	7.5	41	68	No consensus yet.
+King Kong	2005	7.3	50	83	Featuring state-of-the-art special effects, terrific performances, and a majestic sense of spectacle, Peter Jackson's remake of King Kong is a potent epic that's faithful to the spirit of the 1933 original.
+I Love You, Man	2009	7.1	74	83	I Love You, Man makes the most of its simple premise due to the heartfelt and hilarious performances of Paul Rudd and Jason Segel.
+Scooby-Doo on Zombie Island	1998	7.7	75	87	No consensus yet.
+Say Amen, Somebody	1982	7.7	70	85	No consensus yet.
+Love Actually	2003	7.7	73	62	A sugary tale overstuffed with too many stories. Still, the cast charms.
+Nine Lives	2005	7.7	67	75	Nine Lives is bolstered by a strong cast and features many insightful glimpses into the lives of women.
+The Man Inside	2012	6.9	33	30	No consensus yet.
+Rhythm Thief	1995	6.9	50	80	No consensus yet.
+The Heart of the Game	2005	7.6	83	86	This group of high school girls and their eccentric basketball coach easily win your heart with their unusual humanity and dynamism.
+Smiling Fish & Goat on Fire	2000	7.6	54	53	No consensus yet.
+Bigger, Stronger, Faster*	2008	7.6	80	96	Bigger, Stronger, Faster* is a fascinating, informative, entertaining and especially introspective account of the American 'enhancement' culture.
+Surfwise	2007	7.3	64	97	An intriguing account of a unique family.
+Loggerheads	2005	7.3	65	74	Loggerheads is an understated, quietly moving character study, bolstered by great performances.
+40 Is the New 20	2009	6.8	40	33	No consensus yet.
+The Syrian Bride	2005	7.5	80	87	A humane and empathic work, The Syrian Bride depicts the personal impact of politics upon individuals.
+The Rocking Horse Winner	1949	7.5	62	83	No consensus yet.
+So Much So Fast	2006	7.5	82	95	A poignant documentary about terminal illness that's as moving as it is honest.
+In the Loop	2009	7.5	81	93	In the Loop is an uncommonly funny political satire that blends Dr. Strangelove with Spinal Tap for the Iraq war era.
+About a Boy	2002	7.1	54	93	A winning comedy that benefits from Hugh Grant's boyish charms.
+In Secret	2014	7.4	36	40	Although it benefits from a strong cast, In Secret's stars can't totally compensate for the movie's sodden pacing and overly familiar story.
+Hollow Reed	1996	7.4	43	83	No consensus yet.
+Chicken Little	2005	7.4	47	36	In its first non-Pixar CGI venture, Disney expends more effort in the technical presentation than in crafting an original storyline.
+The Backyard	2002	7.2	52	73	No consensus yet.
+Kalamity	2010	6.8	28	0	No consensus yet.
+Red Trousers: The Life of the Hong Kong Stuntmen	2003	7.0	31	23	No consensus yet.
+360	2012	7.0	32	20	No consensus yet.
+The Express	2008	7.3	75	60	This inspirational sports biopic set in the the civil rights era is interesting even for non-football fans, and features a great performance by Dennis Quaid as tough-but-fair football coach.
+Galaxy Quest	1999	7.3	78	89	Intelligent and humorous satire with an excellent cast -- no previous Trekkie knowledge needed to enjoy this one.
+Eyes Wide Shut	1999	7.3	73	74	Kubrick's intense study of the human psyche yields an impressive cinematic work.
+Batman & Mr. Freeze: Subzero	1998	7.3	66	90	No consensus yet.
+Filthy Gorgeous: The Bob Guccione Story	2013	7.1	67	57	No consensus yet.
+Nine	2009	7.1	37	37	It has a game, great-looking cast, led by the always worthwhile Daniel Day-Lewis, but Rob Marshall's Nine is chaotic and curiously distant.
+Wrong Turn	2003	7.2	54	41	An unremarkable slasher flick that fails to distinguished itself from others of its ilk.
+Tremors	1990	7.2	74	84	An affectionate throwback to 1950s creature features, Tremors reinvigorates its genre tropes with a finely balanced combination of horror and humor.
+Starship Troopers	1997	7.2	69	62	A fun movie...if you can accept the excessive gore and wooden acting.
+The Imaginarium of Doctor Parnassus	2009	7.2	60	64	Terry Gilliam remains as indulgent as ever, but The Imaginarium of Doctor Parnassus represents a return to the intoxicatingly imaginative, darkly beautiful power of his earlier work, with fine performances to match all the visual spectacle.
+Our Brand Is Crisis	2005	7.2	80	92	No consensus yet.
+Front Page Woman	1935	7.2	27	80	No consensus yet.
+First Descent	2005	7.2	85	52	This snowboarding doc scores with its dazzling array of snowboarding stunts and beautiful scenery, but loses points with shameless product placement and an overlong runtime.
+Truth About Love	2005	7.2	41	0	No consensus yet.
+I Want Your Love	2013	7.0	84	70	No consensus yet.
+The Time Traveler's Wife	2009	7.1	59	37	Though it may satisfy fans of the novel, The Time Traveler's Wife's plot contrivances and illogical narrative hamper its big screen effectiveness.
+The Ring	2002	7.1	48	71	With little gore and a lot of creepy visuals, The Ring gets under your skin, thanks to director Gore Verbinski's haunting sense of atmosphere and an impassioned performance from Naomi Watts.
+The Flying Scotsman	2006	7.1	51	49	The Flying Scotsman's too-brisk pacing reduces the scale of cyclist Graham Obree's accomplishments while not uncovering what makes him tick.
+Fugitive Pieces	2008	7.1	65	68	Though the retelling is a bit too subtle, the moving story and solid performances lift Fugitive Pieces beyond standard holocaust tales.
+Frequently Asked Questions About Time Travel	2009	7.1	60	40	No consensus yet.
+Contraband	1940	7.1	67	100	No consensus yet.
+Chicken Run	2000	7.1	64	97	Chicken Run has all the charm of Nick Park's Wallace & Gromit, and something for everybody. The voice acting is fabulous, the slapstick is brilliant, and the action sequences are spectacular.
+Charlie and the Chocolate Factory	2005	7.1	51	82	Closer to the source material than 1971's Willy Wonka & the Chocolate Factory, Charlie and the Chocolate Factory is for people who like their Chocolate visually appealing and dark.
+A.I. Artificial Intelligence	2001	7.1	64	73	A curious, not always seamless, amalgamation of Kubrick's chilly bleakness and Spielberg's warm-hearted optimism, A.I. is, in a word, fascinating.
+Wah-Wah	2006	6.9	63	52	The ensemble cast is strong, but they get overpowered by the muddled stew of melodrama.
+Short Order	2008	6.9	43	0	No consensus yet.
+Leonard Cohen: I'm Your Man	2006	6.9	59	69	A moving, if somewhat uneven, look at the legendary singer-songwriter, I'm Your Man treats Cohen's body of work with the reverence it deserves.
+The Thirteenth Floor	1999	7.0	64	28	Bad script and confusing plot undermine the movie's impressive visuals.
+The Keeping Room	2015	7.0	97	76	No consensus yet.
+Special	2006	7.0	63	56	This quirky indie comedy's low budget is readily apparent, but it's elevated by Michael Rapaport's dedicated performance.
+The Saint	1997	7.0	63	29	The Saint is watchable thanks to Kilmer and Shue, but the muddled screenplay stretches credulity.
+Pee-wee's Big Adventure	1985	7.0	79	88	No consensus yet.
+Orphan	2009	7.0	63	55	While it has moments of dark humor and the requisite scares, Orphan fails to build on its interesting premise and degenerates into a formulaic, sleazy horror/thriller.
+My Dog Skip	2000	7.0	67	73	Critics say My Dog Skip is cute, wholesome entertainment for the family. It's especially designed to appeal to your sentiment, but you might find yourself choking up just the same.
+Mighty Joe Young	1949	7.0	62	94	No consensus yet.
+Mean Girls	2004	7.0	66	83	Funnier and more smartly written than the average teen comedy.
+Major Barbara	1941	7.0	54	85	No consensus yet.
+Jerichow	2008	7.0	60	87	Minimal and intriguing, this Teutonic retreading of The Postman Always Rings Twice is tense and ominous throughout.
+Hollywoodland	2006	7.0	47	68	More than a movie star murder mystery, Hollywoodland takes it slow in order to reveal the intriguing details of the rise and fall of superstar fame.
+13 Rue Madeleine	1947	7.0	53	83	No consensus yet.
+Private Parts	1997	6.8	68	79	A surprisingly endearing biopic about the controversial shock-jock Howard Stern that is equally funny and raunchy.
+Dark Places	2015	6.8	35	26	No consensus yet.
+Wetherby	1985	6.9	44	80	No consensus yet.
+Visions of 8 - The Olympics of Motion Picture Achievement	1973	6.9	60	40	No consensus yet.
+Vanilla Sky	2001	6.9	72	41	An ambitious mix of genres, Vanilla Sky collapses into an incoherent jumble. Cruise's performance lacks depth, and it's hard to feel sympathy for his narcissistic character.
+The Majestic	2001	6.9	60	42	Ponderous and overlong, The Majestic drowns in forced sentimentality and resembles a mish-mash of other, better films.
+The Hunchback of Notre Dame	1996	6.9	69	72	Disney's take on the Victor Hugo classic is dramatically uneven, but its strong visuals, dark themes, and message of tolerance make for a more-sophisticated-than-average children's film.
+The Chronicles of Narnia: The Lion, The Witch and The Wardrobe	2005	6.9	61	76	With first-rate special effects and compelling storytelling, this adaptation stays faithful to its source material and will please moviegoers of all ages.
+The Ballad of Little Jo	1993	6.9	69	73	No consensus yet.
+Take Me Home Tonight	2011	6.9	42	28	It has a charming sweetness about it, but Take Me Home Tonight is neither funny nor original enough to live up to the comedies it evokes.
+Sunshine State	2002	6.9	56	79	Wonderfully acted, but the story and pacing can use a little work.
+Macon County Line	1974	6.9	59	33	No consensus yet.
+Kingpin	1996	6.9	70	50	Kingpin has its moments, but they're often offset by an eagerness to descend into vulgar mean-spiritedness.
+Heidi Fleiss: Hollywood Madam	1995	6.9	44	75	No consensus yet.
+Gulliver's Travels	1939	6.9	53	66	No consensus yet.
+Drift	2001	6.9	27	71	No consensus yet.
+Cop Land	1997	6.9	66	72	No consensus yet.
+Conan the Barbarian	1982	6.9	74	69	Though Conan may take itself too seriously for some, this adventure film about a former slave seeking vengeance is full of quotable Schwarzenegger lines and gritty action.
+Calendar Girls	2003	6.9	67	74	A charming, but cliched comedy reminiscent of The Full Monty.
+Breakdown	1997	6.9	66	80	A brainy and suspenseful -- if somewhat uneven -- thriller.
+Basic Instinct	1992	6.9	63	54	Unevenly echoing the work of Alfred Hitchcock, Basic Instinct contains a star-making performance from Sharon Stone but is ultimately undone by its problematic, overly lurid plot.
+Babe	1995	6.9	66	97	The rare family-friendly feature with a heart as big as its special effects budget, Babe offers timeless entertainment for viewers of all ages.
+Aurora Borealis	2006	6.9	63	69	Deeply reminiscent of other, better films, Aurora Borealis nonetheless succeeds on the strength of winning performances from Sutherland and Jackson.
+A Love Divided	1999	6.9	71	52	No consensus yet.
+8 Mile	2002	6.9	54	76	Even though the story is overly familiar, there's enough here for an engaging ride.
+Tomorrow Never Dies	1997	6.8	53	57	A competent, if sometimes by-the-numbers entry to the 007 franchise, Tomorrow Never Dies may not boast the most original plot but its action sequences are genuinely thrilling.
+To Die For	1995	6.8	65	87	No consensus yet.
+The Stone Boy	1984	6.8	41	80	No consensus yet.
+The Naked Gun 2 1/2: The Smell of Fear	1991	6.8	65	57	The slapstick antics of this sequel provide a few laughs, but fail to equal those of the original.
+The House on 92nd Street	1945	6.8	50	60	No consensus yet.
+The Hitchhiker's Guide to the Galaxy	2005	6.8	65	60	A frantic and occasional funny adaptation of Douglas Adams' novel. However, it may have those unfamiliar with the source material scratching their heads.
+The Curse of the Jade Scorpion	2001	6.8	54	45	The writing for Scorpion is not as sharp as Woody Allen's previous movies as most of the jokes fall flat.
+Something New	2006	6.8	73	61	Something New tackles serious questions about race and interracial relationships with genuine appeal and an alluring romance that develops as naturally as the plot.
+Pandorum	2009	6.8	48	28	While it might prove somewhat satisfying for devout sci-fi fans, Pandorum's bloated, derivative plot ultimately leaves it drifting in space.
+One Last Thing	2006	6.8	61	11	No consensus yet.
+One Hour Photo	2002	6.8	64	80	Robin Williams is very effective in this creepy, well-shot thriller.
+Just Cause	1995	6.8	46	22	No consensus yet.
+Johnny Got His Gun	2008	6.8	50	21	No consensus yet.
+Grace Is Gone	2007	6.8	60	61	A refreshing departure from the current crop of Iraq war dramas, Grace is Gone is a heartfelt, finely acted portrayal of grief and healing.
+Fly Away Home	1996	6.8	69	86	Well-acted and beautifully filmed, Fly Away Home offers heartwarming entertainment for moviegoers of all ages.
+Dave	1993	6.8	71	94	Ivan Reitman's refreshingly earnest political comedy benefits from an understated, charming script and a breezy performance by Kevin Kline.
+Bulworth	1998	6.8	68	75	Star and director Beatty's ambitious take on race and politics in 20th-century America isn't perfect, but manages to provide more than its share of thought-provoking laughs.
+Broadway Damage	1997	6.8	48	28	No consensus yet.
+Bicentennial Man	1999	6.8	58	36	Bicentennial Man is ruined by a bad script and ends up being dull and mawkish.
+Beavis and Butt-head Do America	1996	6.8	70	72	Beavis and Butt-Head Do America is unabashedly offensive, unapologetically stupid, and unexpectedly funny.
+Above Suspicion	1995	6.8	52	60	No consensus yet.
+A Prairie Home Companion	2006	6.8	59	81	The final film by the great Robert Altman, A Prairie Home Companion, the big screen adaptation of Garrison Keillor's radio broadcast, showcases plenty of the director's strengths: it's got a gigantic cast and plenty of quirky acting and dialogue. Much like the radio show, Companion features clever jokes, rousing tunes, and endearing characters. With strong work from Lindsay Lohan, Meryl Streep, Kevin Kline, and Tommy Lee Jones, it's a worthy swan song from one of the cinema's best.
+A Goofy Movie	1995	6.8	70	53	No consensus yet.
+8MM	1999	6.8	52	21	Its sadistic violence is unappealing and is lacking in suspense and mystery.
+55 Days at Peking	1963	6.8	53	57	No consensus yet.
