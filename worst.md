@@ -260,37 +260,26 @@ keywords: "movies, reddit, unknown, recent, overrated, underrated, rotten tomato
 <h3><a href='http://www.rottentomatoes.com/m/daredevil/'>Daredevil (2003)</a>&nbsp;<span class="bar">15,15,33,100</span></h3><p><code>IMDB: 5.3, RT Aud: 35&#37;, RT Critics: 44&#37;</code></p><p class="lead">While Ben Affleck fits the role and the story is sporadically interesting, Daredevil is ultimately a dull, brooding origin story that fails to bring anything new to the genre.</p></div>
 <div class="col-xs-3"><br><br><img width=100% class="lazy" data-original="http://resizing.flixster.com/qh9UFutDu3A10H1a2cmlgBjYIVc=/224x320/dkpu1ddg7pbsk.cloudfront.net/movie/11/16/50/11165002_ori.jpg"></div></div></div>
 </div>
+
+
 <center>
 <div class="row">
 <div class="col-lg-12 visible-lg visible-md">
 
-
-<!-- Google leaderboard -->
-<ins class="adsbygoogle"
-     style="display:inline-block;width:728px;height:90px"
-     data-ad-client="ca-pub-4947875154879707"
-     data-ad-slot="7446374452"></ins>
-<script>
-(adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
-
-</div>
-<div class="col-sm-12 visible-sm visible-xs">
-
-
-<!-- Mobile banner -->
-<ins class="adsbygoogle"
-     style="display:inline-block;width:320px;height:100px"
-     data-ad-client="ca-pub-4947875154879707"
-     data-ad-slot="8923107653"></ins>
-<script>
-(adsbygoogle = window.adsbygoogle || []).push({});
-</script>
+<!-- Project Wonderful Ad Box Code -->
+<div style="text-align:center;"><div style="display:inline-block;" id="pw_adbox_76874_5_0"></div></div>
+<script type="text/javascript"></script>
+<noscript><div style="text-align:center;"><div style="display:inline-block;"><map name="admap76874" id="admap76874"><area href="http://www.projectwonderful.com/out_nojs.php?r=0&c=0&id=76874&type=5" shape="rect" coords="0,0,728,90" title="" alt="" target="_blank" /></map>
+<table cellpadding="0" cellspacing="0" style="width:728px;border-style:none;background-color:#ffffff;"><tr><td><img src="http://www.projectwonderful.com/nojs.php?id=76874&type=5" style="width:728px;height:90px;border-style:none;" usemap="#admap76874" alt="" /></td></tr><tr><td style="background-color:#ffffff;" colspan="1"><center><a style="font-size:10px;color:#0000ff;text-decoration:none;line-height:1.2;font-weight:bold;font-family:Tahoma, verdana,arial,helvetica,sans-serif;text-transform: none;letter-spacing:normal;text-shadow:none;white-space:normal;word-spacing:normal;" href="http://www.projectwonderful.com/advertisehere.php?id=76874&type=5" target="_blank">Ads by Project Wonderful!  Your ad here, right now: $0</a></center></td></tr></table></div></div>
+</noscript>
+<!-- End Project Wonderful Ad Box Code -->
 
 </div>
 </div>
 </center>
+
+
+
 
 <div class="row">
 <div class="col-xs-12 col-md-6"><div class="row"><div class="col-xs-9">
@@ -363,37 +352,40 @@ keywords: "movies, reddit, unknown, recent, overrated, underrated, rotten tomato
 <h3><a href='http://www.rottentomatoes.com/m/fools_gold_2008/'>Fool's Gold (2008)</a>&nbsp;<span class="bar">21,34,9,100</span></h3><p><code>IMDB: 5.6, RT Aud: 48&#37;, RT Critics: 11&#37;</code></p><p class="lead">With little chemistry among the performers, humorless gags, and a predictable storyline, Fool's Gold fails on every level.</p></div>
 <div class="col-xs-3"><br><br><img width=100% class="lazy" data-original="http://resizing.flixster.com/ScAHGQOeaXPlgTLjdOlZZqJ3tXI=/800x1186/dkpu1ddg7pbsk.cloudfront.net/movie/11/16/13/11161301_ori.jpg"></div></div></div>
 </div>
+
+
+
 <center>
 <div class="row">
 <div class="col-lg-12 visible-lg visible-md">
 
-
-<!-- Google leaderboard -->
-<ins class="adsbygoogle"
-     style="display:inline-block;width:728px;height:90px"
-     data-ad-client="ca-pub-4947875154879707"
-     data-ad-slot="7446374452"></ins>
-<script>
-(adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
+<!-- Project Wonderful Ad Box Code -->
+<div style="text-align:center;"><div style="display:inline-block;" id="pw_adbox_77189_5_0"></div></div>
+<script type="text/javascript"></script>
+<noscript><div style="text-align:center;"><div style="display:inline-block;"><map name="admap77189" id="admap77189"><area href="http://www.projectwonderful.com/out_nojs.php?r=0&c=0&id=77189&type=5" shape="rect" coords="0,0,728,90" title="" alt="" target="_blank" /></map>
+<table cellpadding="0" cellspacing="0" style="width:728px;border-style:none;background-color:#ffffff;"><tr><td><img src="http://www.projectwonderful.com/nojs.php?id=77189&type=5" style="width:728px;height:90px;border-style:none;" usemap="#admap77189" alt="" /></td></tr><tr><td style="background-color:#ffffff;" colspan="1"><center><a style="font-size:10px;color:#0000ff;text-decoration:none;line-height:1.2;font-weight:bold;font-family:Tahoma, verdana,arial,helvetica,sans-serif;text-transform: none;letter-spacing:normal;text-shadow:none;white-space:normal;word-spacing:normal;" href="http://www.projectwonderful.com/advertisehere.php?id=77189&type=5" target="_blank">Ads by Project Wonderful!  Your ad here, right now: $0</a></center></td></tr></table></div></div>
+</noscript>
+<!-- End Project Wonderful Ad Box Code -->
 
 </div>
+
+
 <div class="col-sm-12 visible-sm visible-xs">
 
 
-<!-- Mobile banner -->
-<ins class="adsbygoogle"
-     style="display:inline-block;width:320px;height:100px"
-     data-ad-client="ca-pub-4947875154879707"
-     data-ad-slot="8923107653"></ins>
-<script>
-(adsbygoogle = window.adsbygoogle || []).push({});
-</script>
+<!-- Project Wonderful Ad Box Code -->
+<div style="text-align:center;"><div style="display:inline-block;" id="pw_adbox_76846_6_0"></div></div>
+<script type="text/javascript"></script>
+<noscript><div style="text-align:center;"><div style="display:inline-block;"><map name="admap76846" id="admap76846"><area href="http://www.projectwonderful.com/out_nojs.php?r=0&c=0&id=76846&type=6" shape="rect" coords="0,0,234,60" title="" alt="" target="_blank" /></map>
+<table cellpadding="0" cellspacing="0" style="width:234px;border-style:none;background-color:#ffffff;"><tr><td><img src="http://www.projectwonderful.com/nojs.php?id=76846&type=6" style="width:234px;height:60px;border-style:none;" usemap="#admap76846" alt="" /></td></tr><tr><td style="background-color:#ffffff;" colspan="1"><center><a style="font-size:10px;color:#0000ff;text-decoration:none;line-height:1.2;font-weight:bold;font-family:Tahoma, verdana,arial,helvetica,sans-serif;text-transform: none;letter-spacing:normal;text-shadow:none;white-space:normal;word-spacing:normal;" href="http://www.projectwonderful.com/advertisehere.php?id=76846&type=6" target="_blank">Ads by Project Wonderful!  Your ad here, right now: $0</a></center></td></tr></table></div></div>
+</noscript>
+<!-- End Project Wonderful Ad Box Code -->
 
 </div>
 </div>
 </center>
+
+
 
 <div class="row">
 <div class="col-xs-12 col-md-6"><div class="row"><div class="col-xs-9">
@@ -466,37 +458,39 @@ keywords: "movies, reddit, unknown, recent, overrated, underrated, rotten tomato
 <h3><a href='http://www.rottentomatoes.com/m/into_the_blue/'>Into the Blue (2005)</a>&nbsp;<span class="bar">26,34,13,100</span></h3><p><code>IMDB: 5.8, RT Aud: 57&#37;, RT Critics: 20&#37;</code></p><p class="lead">Even the endless shots of bronzed beach babes and buffed dudes can't keep this soggy scuba flick's plot from drowning.</p></div>
 <div class="col-xs-3"><br><br><img width=100% class="lazy" data-original="http://resizing.flixster.com/jaOa1ZJcDobxlQiiO8KWXlQ4Q_0=/269x400/dkpu1ddg7pbsk.cloudfront.net/movie/25/02/250214_ori.jpg"></div></div></div>
 </div>
+
+
+
 <center>
 <div class="row">
 <div class="col-lg-12 visible-lg visible-md">
 
 
-<!-- Google leaderboard -->
-<ins class="adsbygoogle"
-     style="display:inline-block;width:728px;height:90px"
-     data-ad-client="ca-pub-4947875154879707"
-     data-ad-slot="7446374452"></ins>
-<script>
-(adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
+<!-- Project Wonderful Ad Box Code -->
+<div id="pw_adbox_77188_5_0"></div>
+<script type="text/javascript"></script>
+<noscript><map name="admap77188" id="admap77188"><area href="http://www.projectwonderful.com/out_nojs.php?r=0&c=0&id=77188&type=5" shape="rect" coords="0,0,728,90" title="" alt="" target="_blank" /></map>
+<table cellpadding="0" cellspacing="0" style="width:728px;border-style:none;background-color:#ffffff;"><tr><td><img src="http://www.projectwonderful.com/nojs.php?id=77188&type=5" style="width:728px;height:90px;border-style:none;" usemap="#admap77188" alt="" /></td></tr><tr><td style="background-color:#ffffff;" colspan="1"><center><a style="font-size:10px;color:#0000ff;text-decoration:none;line-height:1.2;font-weight:bold;font-family:Tahoma, verdana,arial,helvetica,sans-serif;text-transform: none;letter-spacing:normal;text-shadow:none;white-space:normal;word-spacing:normal;" href="http://www.projectwonderful.com/advertisehere.php?id=77188&type=5" target="_blank">Ads by Project Wonderful!  Your ad here, right now: $0</a></center></td></tr></table>
+</noscript>
+<!-- End Project Wonderful Ad Box Code -->
 
 </div>
 <div class="col-sm-12 visible-sm visible-xs">
 
 
-<!-- Mobile banner -->
-<ins class="adsbygoogle"
-     style="display:inline-block;width:320px;height:100px"
-     data-ad-client="ca-pub-4947875154879707"
-     data-ad-slot="8923107653"></ins>
-<script>
-(adsbygoogle = window.adsbygoogle || []).push({});
-</script>
+<!-- Project Wonderful Ad Box Code -->
+<div style="text-align:center;"><div style="display:inline-block;" id="pw_adbox_77187_6_0"></div></div>
+<script type="text/javascript"></script>
+<noscript><div style="text-align:center;"><div style="display:inline-block;"><map name="admap77187" id="admap77187"><area href="http://www.projectwonderful.com/out_nojs.php?r=0&c=0&id=77187&type=6" shape="rect" coords="0,0,234,60" title="" alt="" target="_blank" /></map>
+<table cellpadding="0" cellspacing="0" style="width:234px;border-style:none;background-color:#ffffff;"><tr><td><img src="http://www.projectwonderful.com/nojs.php?id=77187&type=6" style="width:234px;height:60px;border-style:none;" usemap="#admap77187" alt="" /></td></tr><tr><td style="background-color:#ffffff;" colspan="1"><center><a style="font-size:10px;color:#0000ff;text-decoration:none;line-height:1.2;font-weight:bold;font-family:Tahoma, verdana,arial,helvetica,sans-serif;text-transform: none;letter-spacing:normal;text-shadow:none;white-space:normal;word-spacing:normal;" href="http://www.projectwonderful.com/advertisehere.php?id=77187&type=6" target="_blank">Ads by Project Wonderful!  Your ad here, right now: $0</a></center></td></tr></table></div></div>
+</noscript>
+<!-- End Project Wonderful Ad Box Code -->
 
 </div>
 </div>
 </center>
+
+
 
 <div class="row">
 <div class="col-xs-12 col-md-6"><div class="row"><div class="col-xs-9">
@@ -569,37 +563,6 @@ keywords: "movies, reddit, unknown, recent, overrated, underrated, rotten tomato
 <h3><a href='http://www.rottentomatoes.com/m/movie_43/'>Movie 43 (2013)</a>&nbsp;<span class="bar">5,1,1,100</span></h3><p><code>IMDB: 4.4, RT Aud: 24&#37;, RT Critics: 3&#37;</code></p><p class="lead">A star-studded turkey, Movie 43 is loaded with gleefully offensive and often scatological gags, but it's largely bereft of laughs.</p></div>
 <div class="col-xs-3"><br><br><img width=100% class="lazy" data-original="http://resizing.flixster.com/6XVqCkiE6JcnHmDemUQnEWm8kSY=/533x755/dkpu1ddg7pbsk.cloudfront.net/movie/11/16/75/11167574_ori.jpg"></div></div></div>
 </div>
-<center>
-<div class="row">
-<div class="col-lg-12 visible-lg visible-md">
-
-
-<!-- Google leaderboard -->
-<ins class="adsbygoogle"
-     style="display:inline-block;width:728px;height:90px"
-     data-ad-client="ca-pub-4947875154879707"
-     data-ad-slot="7446374452"></ins>
-<script>
-(adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
-
-</div>
-<div class="col-sm-12 visible-sm visible-xs">
-
-
-<!-- Mobile banner -->
-<ins class="adsbygoogle"
-     style="display:inline-block;width:320px;height:100px"
-     data-ad-client="ca-pub-4947875154879707"
-     data-ad-slot="8923107653"></ins>
-<script>
-(adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
-</div>
-</div>
-</center>
 
 <div class="row">
 <div class="col-xs-12 col-md-6"><div class="row"><div class="col-xs-9">
@@ -672,37 +635,6 @@ keywords: "movies, reddit, unknown, recent, overrated, underrated, rotten tomato
 <h3><a href='http://www.rottentomatoes.com/m/scary_movie_2/'>Scary Movie 2 (2001)</a>&nbsp;<span class="bar">13,20,7,100</span></h3><p><code>IMDB: 5.2, RT Aud: 53&#37;, RT Critics: 14&#37;</code></p><p class="lead">Instead of being funny, this gross-out sequel plays like a sloppy, rushed-out product.</p></div>
 <div class="col-xs-3"><br><br><img width=100% class="lazy" data-original="http://resizing.flixster.com/u3EQmT4k5i3geRkGdiBQ29vParY=/320x475/dkpu1ddg7pbsk.cloudfront.net/movie/26/77/267706_ori.jpg"></div></div></div>
 </div>
-<center>
-<div class="row">
-<div class="col-lg-12 visible-lg visible-md">
-
-
-<!-- Google leaderboard -->
-<ins class="adsbygoogle"
-     style="display:inline-block;width:728px;height:90px"
-     data-ad-client="ca-pub-4947875154879707"
-     data-ad-slot="7446374452"></ins>
-<script>
-(adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
-
-</div>
-<div class="col-sm-12 visible-sm visible-xs">
-
-
-<!-- Mobile banner -->
-<ins class="adsbygoogle"
-     style="display:inline-block;width:320px;height:100px"
-     data-ad-client="ca-pub-4947875154879707"
-     data-ad-slot="8923107653"></ins>
-<script>
-(adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
-</div>
-</div>
-</center>
 
 <div class="row">
 <div class="col-xs-12 col-md-6"><div class="row"><div class="col-xs-9">
@@ -775,37 +707,6 @@ keywords: "movies, reddit, unknown, recent, overrated, underrated, rotten tomato
 <h3><a href='http://www.rottentomatoes.com/m/the_counselor_2013/'>The Counselor (2013)</a>&nbsp;<span class="bar">17,3,27,100</span></h3><p><code>IMDB: 5.4, RT Aud: 23&#37;, RT Critics: 34&#37;</code></p><p class="lead">The Counselor raises expectations with its talented cast and creative crew -- then subverts them with a wordy and clumsy suspense thriller that's mercilessly short on suspense or thrills.</p></div>
 <div class="col-xs-3"><br><br><img width=100% class="lazy" data-original="http://resizing.flixster.com/u8GdT7ZCPa2WPCLs0zxa5gLV8dk=/800x1200/dkpu1ddg7pbsk.cloudfront.net/movie/11/17/69/11176928_ori.jpg"></div></div></div>
 </div>
-<center>
-<div class="row">
-<div class="col-lg-12 visible-lg visible-md">
-
-
-<!-- Google leaderboard -->
-<ins class="adsbygoogle"
-     style="display:inline-block;width:728px;height:90px"
-     data-ad-client="ca-pub-4947875154879707"
-     data-ad-slot="7446374452"></ins>
-<script>
-(adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
-
-</div>
-<div class="col-sm-12 visible-sm visible-xs">
-
-
-<!-- Mobile banner -->
-<ins class="adsbygoogle"
-     style="display:inline-block;width:320px;height:100px"
-     data-ad-client="ca-pub-4947875154879707"
-     data-ad-slot="8923107653"></ins>
-<script>
-(adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
-</div>
-</div>
-</center>
 
 <div class="row">
 <div class="col-xs-12 col-md-6"><div class="row"><div class="col-xs-9">
@@ -878,37 +779,6 @@ keywords: "movies, reddit, unknown, recent, overrated, underrated, rotten tomato
 <h3><a href='http://www.rottentomatoes.com/m/the_purge/'>The Purge (2013)</a>&nbsp;<span class="bar">21,20,31,100</span></h3><p><code>IMDB: 5.6, RT Aud: 36&#37;, RT Critics: 38&#37;</code></p><p class="lead">Half social allegory, half home-invasion thriller, The Purge attempts to make an intelligent point, but ultimately devolves into numbing violence and tired clich s.</p></div>
 <div class="col-xs-3"><br><br><img width=100% class="lazy" data-original="http://resizing.flixster.com/Ri-qXgEi-QgYCJ3n1JXZOg5pVlA=/800x1200/dkpu1ddg7pbsk.cloudfront.net/movie/11/17/37/11173717_ori.jpg"></div></div></div>
 </div>
-<center>
-<div class="row">
-<div class="col-lg-12 visible-lg visible-md">
-
-
-<!-- Google leaderboard -->
-<ins class="adsbygoogle"
-     style="display:inline-block;width:728px;height:90px"
-     data-ad-client="ca-pub-4947875154879707"
-     data-ad-slot="7446374452"></ins>
-<script>
-(adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
-
-</div>
-<div class="col-sm-12 visible-sm visible-xs">
-
-
-<!-- Mobile banner -->
-<ins class="adsbygoogle"
-     style="display:inline-block;width:320px;height:100px"
-     data-ad-client="ca-pub-4947875154879707"
-     data-ad-slot="8923107653"></ins>
-<script>
-(adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
-</div>
-</div>
-</center>
 
 <div class="row">
 <div class="col-xs-12 col-md-6"><div class="row"><div class="col-xs-9">
@@ -981,38 +851,6 @@ keywords: "movies, reddit, unknown, recent, overrated, underrated, rotten tomato
 <h3><a href='http://www.rottentomatoes.com/m/year_one/'>Year One (2009)</a>&nbsp;<span class="bar">9,4,12,100</span></h3><p><code>IMDB: 4.9, RT Aud: 23&#37;, RT Critics: 15&#37;</code></p><p class="lead">Year One is a poorly executed, slapdash comedy in which the talent both in front of and behind the camera never seem to be on the same page.</p></div>
 <div class="col-xs-3"><br><br><img width=100% class="lazy" data-original="http://resizing.flixster.com/1s90TJueIGhccKALhx8Jlim8dIg=/800x1200/dkpu1ddg7pbsk.cloudfront.net/movie/11/16/96/11169688_ori.jpg"></div></div></div>
 </div>
-<center>
-<div class="row">
-<div class="col-lg-12 visible-lg visible-md">
-
-
-<!-- Google leaderboard -->
-<ins class="adsbygoogle"
-     style="display:inline-block;width:728px;height:90px"
-     data-ad-client="ca-pub-4947875154879707"
-     data-ad-slot="7446374452"></ins>
-<script>
-(adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
-
-</div>
-<div class="col-sm-12 visible-sm visible-xs">
-
-
-<!-- Mobile banner -->
-<ins class="adsbygoogle"
-     style="display:inline-block;width:320px;height:100px"
-     data-ad-client="ca-pub-4947875154879707"
-     data-ad-slot="8923107653"></ins>
-<script>
-(adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
-</div>
-</div>
-</center>
-
 <div class="row">
 <div class="col-xs-12 col-md-6"><div class="row"><div class="col-xs-9">
 <h3><a href='http://www.rottentomatoes.com/m/you_dont_mess_with_the_zohan/'>You Don't Mess With the Zohan (2008)</a>&nbsp;<span class="bar">18,34,23,100</span></h3><p><code>IMDB: 5.5, RT Aud: 45&#37;, RT Critics: 37&#37;</code></p><p class="lead">You Don't Mess With the Zohan features intermittent laughs, and will please Sandler diehards, but after awhile the leaky premise wears thin.</p></div>
