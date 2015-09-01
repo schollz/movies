@@ -115,7 +115,6 @@ keywords: "movies, reddit, unknown, recent, perfect, amazing, extraordinary, rot
 <div class="row">
 <div class="col-lg-12 visible-lg visible-md">
 
-<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
 <!-- Google leaderboard -->
 <ins class="adsbygoogle"
      style="display:inline-block;width:728px;height:90px"
@@ -129,7 +128,7 @@ keywords: "movies, reddit, unknown, recent, perfect, amazing, extraordinary, rot
 </div>
 <div class="col-sm-12 visible-sm visible-xs">
 
-<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+
 <!-- Mobile banner -->
 <ins class="adsbygoogle"
      style="display:inline-block;width:320px;height:100px"
@@ -277,32 +276,30 @@ keywords: "movies, reddit, unknown, recent, perfect, amazing, extraordinary, rot
 <div class="col-lg-12 visible-lg visible-md">
 
 
-<!-- Google leaderboard -->
-<ins class="adsbygoogle"
-     style="display:inline-block;width:728px;height:90px"
-     data-ad-client="ca-pub-4947875154879707"
-     data-ad-slot="7446374452"></ins>
-<script>
-(adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
+<!-- Project Wonderful Ad Box Code -->
+<div id="pw_adbox_77188_5_0"></div>
+<script type="text/javascript"></script>
+<noscript><map name="admap77188" id="admap77188"><area href="http://www.projectwonderful.com/out_nojs.php?r=0&c=0&id=77188&type=5" shape="rect" coords="0,0,728,90" title="" alt="" target="_blank" /></map>
+<table cellpadding="0" cellspacing="0" style="width:728px;border-style:none;background-color:#ffffff;"><tr><td><img src="http://www.projectwonderful.com/nojs.php?id=77188&type=5" style="width:728px;height:90px;border-style:none;" usemap="#admap77188" alt="" /></td></tr><tr><td style="background-color:#ffffff;" colspan="1"><center><a style="font-size:10px;color:#0000ff;text-decoration:none;line-height:1.2;font-weight:bold;font-family:Tahoma, verdana,arial,helvetica,sans-serif;text-transform: none;letter-spacing:normal;text-shadow:none;white-space:normal;word-spacing:normal;" href="http://www.projectwonderful.com/advertisehere.php?id=77188&type=5" target="_blank">Ads by Project Wonderful!  Your ad here, right now: $0</a></center></td></tr></table>
+</noscript>
+<!-- End Project Wonderful Ad Box Code -->
 
 </div>
 <div class="col-sm-12 visible-sm visible-xs">
 
 
-<!-- Mobile banner -->
-<ins class="adsbygoogle"
-     style="display:inline-block;width:320px;height:100px"
-     data-ad-client="ca-pub-4947875154879707"
-     data-ad-slot="8923107653"></ins>
-<script>
-(adsbygoogle = window.adsbygoogle || []).push({});
-</script>
+<!-- Project Wonderful Ad Box Code -->
+<div style="text-align:center;"><div style="display:inline-block;" id="pw_adbox_77187_6_0"></div></div>
+<script type="text/javascript"></script>
+<noscript><div style="text-align:center;"><div style="display:inline-block;"><map name="admap77187" id="admap77187"><area href="http://www.projectwonderful.com/out_nojs.php?r=0&c=0&id=77187&type=6" shape="rect" coords="0,0,234,60" title="" alt="" target="_blank" /></map>
+<table cellpadding="0" cellspacing="0" style="width:234px;border-style:none;background-color:#ffffff;"><tr><td><img src="http://www.projectwonderful.com/nojs.php?id=77187&type=6" style="width:234px;height:60px;border-style:none;" usemap="#admap77187" alt="" /></td></tr><tr><td style="background-color:#ffffff;" colspan="1"><center><a style="font-size:10px;color:#0000ff;text-decoration:none;line-height:1.2;font-weight:bold;font-family:Tahoma, verdana,arial,helvetica,sans-serif;text-transform: none;letter-spacing:normal;text-shadow:none;white-space:normal;word-spacing:normal;" href="http://www.projectwonderful.com/advertisehere.php?id=77187&type=6" target="_blank">Ads by Project Wonderful!  Your ad here, right now: $0</a></center></td></tr></table></div></div>
+</noscript>
+<!-- End Project Wonderful Ad Box Code -->
 
 </div>
 </div>
 </center>
+
 
 
 
@@ -317,34 +314,30 @@ keywords: "movies, reddit, unknown, recent, perfect, amazing, extraordinary, rot
 <div class="col-xs-3"><br><br><img width=100% class="lazy" data-original="http://resizing.flixster.com/8QZwd2Y7ynE5tzq4QuNqw2oLeq8=/450x666/dkpu1ddg7pbsk.cloudfront.net/movie/10/36/49/10364958_ori.jpg"></div></div></div>
 </div>
 
-
 <center>
 <div class="row">
 <div class="col-lg-12 visible-lg visible-md">
 
-<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<!-- Google leaderboard -->
-<ins class="adsbygoogle"
-     style="display:inline-block;width:728px;height:90px"
-     data-ad-client="ca-pub-4947875154879707"
-     data-ad-slot="7446374452"></ins>
-<script>
-(adsbygoogle = window.adsbygoogle || []).push({});
-</script>
 
+<!-- Project Wonderful Ad Box Code -->
+<div id="pw_adbox_77188_5_0"></div>
+<script type="text/javascript"></script>
+<noscript><map name="admap77188" id="admap77188"><area href="http://www.projectwonderful.com/out_nojs.php?r=0&c=0&id=77188&type=5" shape="rect" coords="0,0,728,90" title="" alt="" target="_blank" /></map>
+<table cellpadding="0" cellspacing="0" style="width:728px;border-style:none;background-color:#ffffff;"><tr><td><img src="http://www.projectwonderful.com/nojs.php?id=77188&type=5" style="width:728px;height:90px;border-style:none;" usemap="#admap77188" alt="" /></td></tr><tr><td style="background-color:#ffffff;" colspan="1"><center><a style="font-size:10px;color:#0000ff;text-decoration:none;line-height:1.2;font-weight:bold;font-family:Tahoma, verdana,arial,helvetica,sans-serif;text-transform: none;letter-spacing:normal;text-shadow:none;white-space:normal;word-spacing:normal;" href="http://www.projectwonderful.com/advertisehere.php?id=77188&type=5" target="_blank">Ads by Project Wonderful!  Your ad here, right now: $0</a></center></td></tr></table>
+</noscript>
+<!-- End Project Wonderful Ad Box Code -->
 
 </div>
 <div class="col-sm-12 visible-sm visible-xs">
 
-<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<!-- Mobile banner -->
-<ins class="adsbygoogle"
-     style="display:inline-block;width:320px;height:100px"
-     data-ad-client="ca-pub-4947875154879707"
-     data-ad-slot="8923107653"></ins>
-<script>
-(adsbygoogle = window.adsbygoogle || []).push({});
-</script>
+
+<!-- Project Wonderful Ad Box Code -->
+<div style="text-align:center;"><div style="display:inline-block;" id="pw_adbox_77187_6_0"></div></div>
+<script type="text/javascript"></script>
+<noscript><div style="text-align:center;"><div style="display:inline-block;"><map name="admap77187" id="admap77187"><area href="http://www.projectwonderful.com/out_nojs.php?r=0&c=0&id=77187&type=6" shape="rect" coords="0,0,234,60" title="" alt="" target="_blank" /></map>
+<table cellpadding="0" cellspacing="0" style="width:234px;border-style:none;background-color:#ffffff;"><tr><td><img src="http://www.projectwonderful.com/nojs.php?id=77187&type=6" style="width:234px;height:60px;border-style:none;" usemap="#admap77187" alt="" /></td></tr><tr><td style="background-color:#ffffff;" colspan="1"><center><a style="font-size:10px;color:#0000ff;text-decoration:none;line-height:1.2;font-weight:bold;font-family:Tahoma, verdana,arial,helvetica,sans-serif;text-transform: none;letter-spacing:normal;text-shadow:none;white-space:normal;word-spacing:normal;" href="http://www.projectwonderful.com/advertisehere.php?id=77187&type=6" target="_blank">Ads by Project Wonderful!  Your ad here, right now: $0</a></center></td></tr></table></div></div>
+</noscript>
+<!-- End Project Wonderful Ad Box Code -->
 
 </div>
 </div>
@@ -422,40 +415,34 @@ keywords: "movies, reddit, unknown, recent, perfect, amazing, extraordinary, rot
 
 
 
-
 <center>
 <div class="row">
 <div class="col-lg-12 visible-lg visible-md">
 
 
-<!-- Google leaderboard -->
-<ins class="adsbygoogle"
-     style="display:inline-block;width:728px;height:90px"
-     data-ad-client="ca-pub-4947875154879707"
-     data-ad-slot="7446374452"></ins>
-<script>
-(adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
+<!-- Project Wonderful Ad Box Code -->
+<div id="pw_adbox_77188_5_0"></div>
+<script type="text/javascript"></script>
+<noscript><map name="admap77188" id="admap77188"><area href="http://www.projectwonderful.com/out_nojs.php?r=0&c=0&id=77188&type=5" shape="rect" coords="0,0,728,90" title="" alt="" target="_blank" /></map>
+<table cellpadding="0" cellspacing="0" style="width:728px;border-style:none;background-color:#ffffff;"><tr><td><img src="http://www.projectwonderful.com/nojs.php?id=77188&type=5" style="width:728px;height:90px;border-style:none;" usemap="#admap77188" alt="" /></td></tr><tr><td style="background-color:#ffffff;" colspan="1"><center><a style="font-size:10px;color:#0000ff;text-decoration:none;line-height:1.2;font-weight:bold;font-family:Tahoma, verdana,arial,helvetica,sans-serif;text-transform: none;letter-spacing:normal;text-shadow:none;white-space:normal;word-spacing:normal;" href="http://www.projectwonderful.com/advertisehere.php?id=77188&type=5" target="_blank">Ads by Project Wonderful!  Your ad here, right now: $0</a></center></td></tr></table>
+</noscript>
+<!-- End Project Wonderful Ad Box Code -->
 
 </div>
 <div class="col-sm-12 visible-sm visible-xs">
 
 
-<!-- Mobile banner -->
-<ins class="adsbygoogle"
-     style="display:inline-block;width:320px;height:100px"
-     data-ad-client="ca-pub-4947875154879707"
-     data-ad-slot="8923107653"></ins>
-<script>
-(adsbygoogle = window.adsbygoogle || []).push({});
-</script>
+<!-- Project Wonderful Ad Box Code -->
+<div style="text-align:center;"><div style="display:inline-block;" id="pw_adbox_77187_6_0"></div></div>
+<script type="text/javascript"></script>
+<noscript><div style="text-align:center;"><div style="display:inline-block;"><map name="admap77187" id="admap77187"><area href="http://www.projectwonderful.com/out_nojs.php?r=0&c=0&id=77187&type=6" shape="rect" coords="0,0,234,60" title="" alt="" target="_blank" /></map>
+<table cellpadding="0" cellspacing="0" style="width:234px;border-style:none;background-color:#ffffff;"><tr><td><img src="http://www.projectwonderful.com/nojs.php?id=77187&type=6" style="width:234px;height:60px;border-style:none;" usemap="#admap77187" alt="" /></td></tr><tr><td style="background-color:#ffffff;" colspan="1"><center><a style="font-size:10px;color:#0000ff;text-decoration:none;line-height:1.2;font-weight:bold;font-family:Tahoma, verdana,arial,helvetica,sans-serif;text-transform: none;letter-spacing:normal;text-shadow:none;white-space:normal;word-spacing:normal;" href="http://www.projectwonderful.com/advertisehere.php?id=77187&type=6" target="_blank">Ads by Project Wonderful!  Your ad here, right now: $0</a></center></td></tr></table></div></div>
+</noscript>
+<!-- End Project Wonderful Ad Box Code -->
 
 </div>
 </div>
 </center>
-
-
 
 
 
