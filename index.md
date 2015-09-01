@@ -6,6 +6,26 @@ keywords: "movies, reddit, unknown, recent, overrated, underrated, rotten tomato
 ---
 {% include JB/setup %}
 
+
+<center>
+<div class="row">
+<div class="col-lg-12 visible-lg visible-md">
+
+<!-- Project Wonderful Ad Box Code -->
+<div style="text-align:center;"><div style="display:inline-block;" id="pw_adbox_77189_5_0"></div></div>
+<script type="text/javascript"></script>
+<noscript><div style="text-align:center;"><div style="display:inline-block;"><map name="admap77189" id="admap77189"><area href="http://www.projectwonderful.com/out_nojs.php?r=0&c=0&id=77189&type=5" shape="rect" coords="0,0,728,90" title="" alt="" target="_blank" /></map>
+<table cellpadding="0" cellspacing="0" style="width:728px;border-style:none;background-color:#ffffff;"><tr><td><img src="http://www.projectwonderful.com/nojs.php?id=77189&type=5" style="width:728px;height:90px;border-style:none;" usemap="#admap77189" alt="" /></td></tr><tr><td style="background-color:#ffffff;" colspan="1"><center><a style="font-size:10px;color:#0000ff;text-decoration:none;line-height:1.2;font-weight:bold;font-family:Tahoma, verdana,arial,helvetica,sans-serif;text-transform: none;letter-spacing:normal;text-shadow:none;white-space:normal;word-spacing:normal;" href="http://www.projectwonderful.com/advertisehere.php?id=77189&type=5" target="_blank">Ads by Project Wonderful!  Your ad here, right now: $0</a></center></td></tr></table></div></div>
+</noscript>
+<!-- End Project Wonderful Ad Box Code -->
+
+</div>
+</div>
+</center>
+
+
+
+
 <div class="row">
 <div class="col-md-4 portfolio-item">
 <a href="recent.html">
@@ -35,6 +55,26 @@ keywords: "movies, reddit, unknown, recent, overrated, underrated, rotten tomato
 <p>Critics are often said to prefer the high-brow movies and some of their preferences seem to indicate that they are not quite predispositioned to like what the general lay-person likes.</p>
 </div>
 </div>
+
+
+
+
+<center>
+<div class="row">
+<div class="col-lg-12 visible-lg visible-md">
+
+<!-- Project Wonderful Ad Box Code -->
+<div style="text-align:center;"><div style="display:inline-block;" id="pw_adbox_76874_5_0"></div></div>
+<script type="text/javascript"></script>
+<noscript><div style="text-align:center;"><div style="display:inline-block;"><map name="admap76874" id="admap76874"><area href="http://www.projectwonderful.com/out_nojs.php?r=0&c=0&id=76874&type=5" shape="rect" coords="0,0,728,90" title="" alt="" target="_blank" /></map>
+<table cellpadding="0" cellspacing="0" style="width:728px;border-style:none;background-color:#ffffff;"><tr><td><img src="http://www.projectwonderful.com/nojs.php?id=76874&type=5" style="width:728px;height:90px;border-style:none;" usemap="#admap76874" alt="" /></td></tr><tr><td style="background-color:#ffffff;" colspan="1"><center><a style="font-size:10px;color:#0000ff;text-decoration:none;line-height:1.2;font-weight:bold;font-family:Tahoma, verdana,arial,helvetica,sans-serif;text-transform: none;letter-spacing:normal;text-shadow:none;white-space:normal;word-spacing:normal;" href="http://www.projectwonderful.com/advertisehere.php?id=76874&type=5" target="_blank">Ads by Project Wonderful!  Your ad here, right now: $0</a></center></td></tr></table></div></div>
+</noscript>
+<!-- End Project Wonderful Ad Box Code -->
+
+</div>
+</div>
+</center>
+
 
 
 <!-- Projects Row -->
