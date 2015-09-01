@@ -79,7 +79,45 @@ keywords: "movies, reddit, unknown, rotten tomatoes, imdb, metacritic, best, fil
 <h3><a href='http://www.rottentomatoes.com/m/better_than_chocolate/'>Better than Chocolate (1999)</a>&nbsp;<span class="bar">42,86,47,100</span></h3><p><code>IMDB: 6.3, RT Aud: 78&#37;, RT Critics: 38&#37;</code></p><p class="lead">No consensus yet.</p></div>
 <div class="col-xs-3"><br><br><img width=100% class="lazy" data-original="http://resizing.flixster.com/YUEqnsNc0AqWi9sZ6FOORT4cJfM=/350x500/dkpu1ddg7pbsk.cloudfront.net/movie/10/89/25/10892522_ori.jpg"></div></div></div>
 </div>
-<center><div class="row"><div class="col-lg-12 visible-lg visible-md"><iframe src="http://rcm-na.amazon-adsystem.com/e/cm?t=techblogandli-20&o=1&p=48&l=ur1&category=musicandentertainmentrot&f=ifr&linkID=Q2UKCBH2NQB7PJWJ" width="728" height="90" scrolling="no" border="0" marginwidth="0" style="border:none;" frameborder="0"></iframe></div><div class="col-sm-12 visible-sm visible-xs"><iframe src="http://rcm-na.amazon-adsystem.com/e/cm?t=techblogandli-20&o=1&p=12&l=ur1&category=musicandentertainmentrot&f=ifr&linkID=32GFT4RW5USFC6L4" width="300" height="250" scrolling="no" border="0" marginwidth="0" style="border:none;" frameborder="0"></iframe></div></div></center>
+
+
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+
+
+<center>
+<div class="row">
+<div class="col-lg-12 visible-lg visible-md">
+
+
+<!-- Google leaderboard -->
+<ins class="adsbygoogle"
+     style="display:inline-block;width:728px;height:90px"
+     data-ad-client="ca-pub-4947875154879707"
+     data-ad-slot="7446374452"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
+
+</div>
+<div class="col-sm-12 visible-sm visible-xs">
+
+
+<!-- Mobile banner -->
+<ins class="adsbygoogle"
+     style="display:inline-block;width:320px;height:100px"
+     data-ad-client="ca-pub-4947875154879707"
+     data-ad-slot="8923107653"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
+</div>
+</div>
+</center>
+
+
+
 <div class="row">
 <div class="col-xs-12 col-md-6"><div class="row"><div class="col-xs-9">
 <h3><a href='http://www.rottentomatoes.com/m/big_mommas_like_father_like_son_2011/'>Big Mommas: Like Father, Like Son (2011)</a>&nbsp;<span class="bar">4,65,2,100</span></h3><p><code>IMDB: 4.3, RT Aud: 58&#37;, RT Critics: 5&#37;</code></p><p class="lead">Unnecessary, unfunny, and generally unwelcome, Big Mommas: Like Father, Like Son offers more of the same for fans of Martin Lawrence's perplexingly popular series.</p></div>
@@ -151,7 +189,38 @@ keywords: "movies, reddit, unknown, rotten tomatoes, imdb, metacritic, best, fil
 <h3><a href='http://www.rottentomatoes.com/m/diary_of_a_mad_black_woman/'>Diary of a Mad Black Woman (2005)</a>&nbsp;<span class="bar">21,95,12,100</span></h3><p><code>IMDB: 5.6, RT Aud: 87&#37;, RT Critics: 16&#37;</code></p><p class="lead">Tyler Perry's successful play can't make the move to the screen; this mix of slapstick, melodrama and spirituality lacks a consistent tone.</p></div>
 <div class="col-xs-3"><br><br><img width=100% class="lazy" data-original="http://resizing.flixster.com/CGXTZjiI0_WFhXW2WesbNZa8YXM=/800x1200/dkpu1ddg7pbsk.cloudfront.net/movie/11/17/78/11177803_ori.jpg"></div></div></div>
 </div>
-<center><div class="row"><div class="col-lg-12 visible-lg visible-md"><iframe src="http://rcm-na.amazon-adsystem.com/e/cm?t=techblogandli-20&o=1&p=48&l=ur1&category=musicandentertainmentrot&f=ifr&linkID=Q2UKCBH2NQB7PJWJ" width="728" height="90" scrolling="no" border="0" marginwidth="0" style="border:none;" frameborder="0"></iframe></div><div class="col-sm-12 visible-sm visible-xs"><iframe src="http://rcm-na.amazon-adsystem.com/e/cm?t=techblogandli-20&o=1&p=12&l=ur1&category=musicandentertainmentrot&f=ifr&linkID=32GFT4RW5USFC6L4" width="300" height="250" scrolling="no" border="0" marginwidth="0" style="border:none;" frameborder="0"></iframe></div></div></center>
+<center>
+<div class="row">
+<div class="col-lg-12 visible-lg visible-md">
+
+
+<!-- Google leaderboard -->
+<ins class="adsbygoogle"
+     style="display:inline-block;width:728px;height:90px"
+     data-ad-client="ca-pub-4947875154879707"
+     data-ad-slot="7446374452"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
+
+</div>
+<div class="col-sm-12 visible-sm visible-xs">
+
+
+<!-- Mobile banner -->
+<ins class="adsbygoogle"
+     style="display:inline-block;width:320px;height:100px"
+     data-ad-client="ca-pub-4947875154879707"
+     data-ad-slot="8923107653"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
+</div>
+</div>
+</center>
+
 <div class="row">
 <div class="col-xs-12 col-md-6"><div class="row"><div class="col-xs-9">
 <h3><a href='http://www.rottentomatoes.com/m/dirty_sanchez/'>Dirty Sanchez: The Movie (2007)</a>&nbsp;<span class="bar">38,86,20,100</span></h3><p><code>IMDB: 6.2, RT Aud: 75&#37;, RT Critics: 40&#37;</code></p><p class="lead">No consensus yet.</p></div>
@@ -223,7 +292,38 @@ keywords: "movies, reddit, unknown, rotten tomatoes, imdb, metacritic, best, fil
 <h3><a href='http://www.rottentomatoes.com/m/gods_not_dead/'>God's Not Dead (2014)</a>&nbsp;<span class="bar">10,95,4,100</span></h3><p><code>IMDB: 5.0, RT Aud: 78&#37;, RT Critics: 15&#37;</code></p><p class="lead">No consensus yet.</p></div>
 <div class="col-xs-3"><br><br><img width=100% class="lazy" data-original="http://resizing.flixster.com/-Vt3_iIEWSt1Z0wiA7BtdU1HZ_g=/732x1080/dkpu1ddg7pbsk.cloudfront.net/movie/11/17/59/11175915_ori.png"></div></div></div>
 </div>
-<center><div class="row"><div class="col-lg-12 visible-lg visible-md"><iframe src="http://rcm-na.amazon-adsystem.com/e/cm?t=techblogandli-20&o=1&p=48&l=ur1&category=musicandentertainmentrot&f=ifr&linkID=Q2UKCBH2NQB7PJWJ" width="728" height="90" scrolling="no" border="0" marginwidth="0" style="border:none;" frameborder="0"></iframe></div><div class="col-sm-12 visible-sm visible-xs"><iframe src="http://rcm-na.amazon-adsystem.com/e/cm?t=techblogandli-20&o=1&p=12&l=ur1&category=musicandentertainmentrot&f=ifr&linkID=32GFT4RW5USFC6L4" width="300" height="250" scrolling="no" border="0" marginwidth="0" style="border:none;" frameborder="0"></iframe></div></div></center>
+<center>
+<div class="row">
+<div class="col-lg-12 visible-lg visible-md">
+
+
+<!-- Google leaderboard -->
+<ins class="adsbygoogle"
+     style="display:inline-block;width:728px;height:90px"
+     data-ad-client="ca-pub-4947875154879707"
+     data-ad-slot="7446374452"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
+
+</div>
+<div class="col-sm-12 visible-sm visible-xs">
+
+
+<!-- Mobile banner -->
+<ins class="adsbygoogle"
+     style="display:inline-block;width:320px;height:100px"
+     data-ad-client="ca-pub-4947875154879707"
+     data-ad-slot="8923107653"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
+</div>
+</div>
+</center>
+
 <div class="row">
 <div class="col-xs-12 col-md-6"><div class="row"><div class="col-xs-9">
 <h3><a href='http://www.rottentomatoes.com/m/tyler_perrys_good_deeds/'>Tyler Perry's Good Deeds (2012)</a>&nbsp;<span class="bar">15,95,29,100</span></h3><p><code>IMDB: 5.3, RT Aud: 76&#37;, RT Critics: 31&#37;</code></p><p class="lead">Tyler Perry's craftmanship as a director continues to improve, but his stories are still the same ol' hoary, pretentious melodramas.</p></div>
@@ -295,7 +395,38 @@ keywords: "movies, reddit, unknown, rotten tomatoes, imdb, metacritic, best, fil
 <h3><a href='http://www.rottentomatoes.com/m/joshua_tree_1951_a_portrait_of_james_dean_2012/'>Joshua Tree, 1951: A Portrait of James Dean (2012)</a>&nbsp;<span class="bar">35,86,29,100</span></h3><p><code>IMDB: 6.1, RT Aud: 62&#37;, RT Critics: 60&#37;</code></p><p class="lead">No consensus yet.</p></div>
 <div class="col-xs-3"><br><br><img width=100% class="lazy" data-original="http://resizing.flixster.com/lCf0ZqMDr1j23uANvWv4DzfdrZw=/110x150/dkpu1ddg7pbsk.cloudfront.net/movie/11/17/24/11172450_ori.jpg"></div></div></div>
 </div>
-<center><div class="row"><div class="col-lg-12 visible-lg visible-md"><iframe src="http://rcm-na.amazon-adsystem.com/e/cm?t=techblogandli-20&o=1&p=48&l=ur1&category=musicandentertainmentrot&f=ifr&linkID=Q2UKCBH2NQB7PJWJ" width="728" height="90" scrolling="no" border="0" marginwidth="0" style="border:none;" frameborder="0"></iframe></div><div class="col-sm-12 visible-sm visible-xs"><iframe src="http://rcm-na.amazon-adsystem.com/e/cm?t=techblogandli-20&o=1&p=12&l=ur1&category=musicandentertainmentrot&f=ifr&linkID=32GFT4RW5USFC6L4" width="300" height="250" scrolling="no" border="0" marginwidth="0" style="border:none;" frameborder="0"></iframe></div></div></center>
+<center>
+<div class="row">
+<div class="col-lg-12 visible-lg visible-md">
+
+
+<!-- Google leaderboard -->
+<ins class="adsbygoogle"
+     style="display:inline-block;width:728px;height:90px"
+     data-ad-client="ca-pub-4947875154879707"
+     data-ad-slot="7446374452"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
+
+</div>
+<div class="col-sm-12 visible-sm visible-xs">
+
+
+<!-- Mobile banner -->
+<ins class="adsbygoogle"
+     style="display:inline-block;width:320px;height:100px"
+     data-ad-client="ca-pub-4947875154879707"
+     data-ad-slot="8923107653"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
+</div>
+</div>
+</center>
+
 <div class="row">
 <div class="col-xs-12 col-md-6"><div class="row"><div class="col-xs-9">
 <h3><a href='http://www.rottentomatoes.com/m/joyful_noise_2011/'>Joyful Noise (2012)</a>&nbsp;<span class="bar">21,80,22,100</span></h3><p><code>IMDB: 5.6, RT Aud: 66&#37;, RT Critics: 33&#37;</code></p><p class="lead">Joyful Noise's musical numbers are solidly entertaining, and it benefits from Queen Latifah and Dolly Parton's sizable chemistry; unfortunately, they aren't enough to make up for the rest of the film.</p></div>
@@ -367,7 +498,38 @@ keywords: "movies, reddit, unknown, rotten tomatoes, imdb, metacritic, best, fil
 <h3><a href='http://www.rottentomatoes.com/m/meet-the-browns2008/'>Meet The Browns (2008)</a>&nbsp;<span class="bar">3,65,25,100</span></h3><p><code>IMDB: 3.9, RT Aud: 70&#37;, RT Critics: 31&#37;</code></p><p class="lead">Angela Bassett's considerable charms can't compensate for Meet the Browns' incessant melodrama and scattered narrative threads.</p></div>
 <div class="col-xs-3"><br><br><img width=100% class="lazy" data-original="http://resizing.flixster.com/vO22HgL_G1ehhSWCTdeZOulkmJg=/800x1200/dkpu1ddg7pbsk.cloudfront.net/movie/11/17/77/11177763_ori.jpg"></div></div></div>
 </div>
-<center><div class="row"><div class="col-lg-12 visible-lg visible-md"><iframe src="http://rcm-na.amazon-adsystem.com/e/cm?t=techblogandli-20&o=1&p=48&l=ur1&category=musicandentertainmentrot&f=ifr&linkID=Q2UKCBH2NQB7PJWJ" width="728" height="90" scrolling="no" border="0" marginwidth="0" style="border:none;" frameborder="0"></iframe></div><div class="col-sm-12 visible-sm visible-xs"><iframe src="http://rcm-na.amazon-adsystem.com/e/cm?t=techblogandli-20&o=1&p=12&l=ur1&category=musicandentertainmentrot&f=ifr&linkID=32GFT4RW5USFC6L4" width="300" height="250" scrolling="no" border="0" marginwidth="0" style="border:none;" frameborder="0"></iframe></div></div></center>
+<center>
+<div class="row">
+<div class="col-lg-12 visible-lg visible-md">
+
+
+<!-- Google leaderboard -->
+<ins class="adsbygoogle"
+     style="display:inline-block;width:728px;height:90px"
+     data-ad-client="ca-pub-4947875154879707"
+     data-ad-slot="7446374452"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
+
+</div>
+<div class="col-sm-12 visible-sm visible-xs">
+
+
+<!-- Mobile banner -->
+<ins class="adsbygoogle"
+     style="display:inline-block;width:320px;height:100px"
+     data-ad-client="ca-pub-4947875154879707"
+     data-ad-slot="8923107653"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
+</div>
+</div>
+</center>
+
 <div class="row">
 <div class="col-xs-12 col-md-6"><div class="row"><div class="col-xs-9">
 <h3><a href='http://www.rottentomatoes.com/m/mercy_streets/'>Mercy Streets (2000)</a>&nbsp;<span class="bar">21,73,14,100</span></h3><p><code>IMDB: 5.6, RT Aud: 63&#37;, RT Critics: 12&#37;</code></p><p class="lead">No consensus yet.</p></div>
@@ -439,7 +601,38 @@ keywords: "movies, reddit, unknown, rotten tomatoes, imdb, metacritic, best, fil
 <h3><a href='http://www.rottentomatoes.com/m/santa_buddies/'>Santa Buddies (2009)</a>&nbsp;<span class="bar">8,65,11,100</span></h3><p><code>IMDB: 4.8, RT Aud: 59&#37;, RT Critics: 20&#37;</code></p><p class="lead">No consensus yet.</p></div>
 <div class="col-xs-3"><br><br><img width=100% class="lazy" data-original="http://resizing.flixster.com/C1K9RxkyuPQJq3-TssPgpXWVE2E=/600x839/dkpu1ddg7pbsk.cloudfront.net/movie/11/15/23/11152301_ori.jpg"></div></div></div>
 </div>
-<center><div class="row"><div class="col-lg-12 visible-lg visible-md"><iframe src="http://rcm-na.amazon-adsystem.com/e/cm?t=techblogandli-20&o=1&p=48&l=ur1&category=musicandentertainmentrot&f=ifr&linkID=Q2UKCBH2NQB7PJWJ" width="728" height="90" scrolling="no" border="0" marginwidth="0" style="border:none;" frameborder="0"></iframe></div><div class="col-sm-12 visible-sm visible-xs"><iframe src="http://rcm-na.amazon-adsystem.com/e/cm?t=techblogandli-20&o=1&p=12&l=ur1&category=musicandentertainmentrot&f=ifr&linkID=32GFT4RW5USFC6L4" width="300" height="250" scrolling="no" border="0" marginwidth="0" style="border:none;" frameborder="0"></iframe></div></div></center>
+<center>
+<div class="row">
+<div class="col-lg-12 visible-lg visible-md">
+
+
+<!-- Google leaderboard -->
+<ins class="adsbygoogle"
+     style="display:inline-block;width:728px;height:90px"
+     data-ad-client="ca-pub-4947875154879707"
+     data-ad-slot="7446374452"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
+
+</div>
+<div class="col-sm-12 visible-sm visible-xs">
+
+
+<!-- Mobile banner -->
+<ins class="adsbygoogle"
+     style="display:inline-block;width:320px;height:100px"
+     data-ad-client="ca-pub-4947875154879707"
+     data-ad-slot="8923107653"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
+</div>
+</div>
+</center>
+
 <div class="row">
 <div class="col-xs-12 col-md-6"><div class="row"><div class="col-xs-9">
 <h3><a href='http://www.rottentomatoes.com/m/sarafina/'>Sarafina! (1992)</a>&nbsp;<span class="bar">42,86,33,100</span></h3><p><code>IMDB: 6.3, RT Aud: 88&#37;, RT Critics: 55&#37;</code></p><p class="lead">No consensus yet.</p></div>
@@ -511,7 +704,38 @@ keywords: "movies, reddit, unknown, rotten tomatoes, imdb, metacritic, best, fil
 <h3><a href='http://www.rottentomatoes.com/m/talento_de_barrio/'>Talento de Barrio (2008)</a>&nbsp;<span class="bar">17,95,9,100</span></h3><p><code>IMDB: 5.4, RT Aud: 72&#37;, RT Critics: 0&#37;</code></p><p class="lead">No consensus yet.</p></div>
 <div class="col-xs-3"><br><br><img width=100% class="lazy" data-original="http://resizing.flixster.com/QLQ9_FMj7Ue7A7MoykaJlWIELvY=/96x138/dkpu1ddg7pbsk.cloudfront.net/movie/10/92/43/10924376_ori.jpg"></div></div></div>
 </div>
-<center><div class="row"><div class="col-lg-12 visible-lg visible-md"><iframe src="http://rcm-na.amazon-adsystem.com/e/cm?t=techblogandli-20&o=1&p=48&l=ur1&category=musicandentertainmentrot&f=ifr&linkID=Q2UKCBH2NQB7PJWJ" width="728" height="90" scrolling="no" border="0" marginwidth="0" style="border:none;" frameborder="0"></iframe></div><div class="col-sm-12 visible-sm visible-xs"><iframe src="http://rcm-na.amazon-adsystem.com/e/cm?t=techblogandli-20&o=1&p=12&l=ur1&category=musicandentertainmentrot&f=ifr&linkID=32GFT4RW5USFC6L4" width="300" height="250" scrolling="no" border="0" marginwidth="0" style="border:none;" frameborder="0"></iframe></div></div></center>
+<center>
+<div class="row">
+<div class="col-lg-12 visible-lg visible-md">
+
+
+<!-- Google leaderboard -->
+<ins class="adsbygoogle"
+     style="display:inline-block;width:728px;height:90px"
+     data-ad-client="ca-pub-4947875154879707"
+     data-ad-slot="7446374452"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
+
+</div>
+<div class="col-sm-12 visible-sm visible-xs">
+
+
+<!-- Mobile banner -->
+<ins class="adsbygoogle"
+     style="display:inline-block;width:320px;height:100px"
+     data-ad-client="ca-pub-4947875154879707"
+     data-ad-slot="8923107653"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
+</div>
+</div>
+</center>
+
 <div class="row">
 <div class="col-xs-12 col-md-6"><div class="row"><div class="col-xs-9">
 <h3><a href='http://www.rottentomatoes.com/m/temptation_2013/'>Temptation (2013)</a>&nbsp;<span class="bar">8,80,9,100</span></h3><p><code>IMDB: 4.8, RT Aud: 66&#37;, RT Critics: 14&#37;</code></p><p class="lead">No consensus yet.</p></div>
@@ -583,7 +807,38 @@ keywords: "movies, reddit, unknown, rotten tomatoes, imdb, metacritic, best, fil
 <h3><a href='http://www.rottentomatoes.com/m/lord_of_the_rings/'>The Lord of the Rings (1978)</a>&nbsp;<span class="bar">35,80,44,100</span></h3><p><code>IMDB: 6.1, RT Aud: 64&#37;, RT Critics: 50&#37;</code></p><p class="lead">No consensus yet.</p></div>
 <div class="col-xs-3"><br><br><img width=100% class="lazy" data-original="http://resizing.flixster.com/8o0hChtYj6pKPmVimfeo3hhRoaA=/350x524/dkpu1ddg7pbsk.cloudfront.net/movie/11/15/29/11152973_ori.jpg"></div></div></div>
 </div>
-<center><div class="row"><div class="col-lg-12 visible-lg visible-md"><iframe src="http://rcm-na.amazon-adsystem.com/e/cm?t=techblogandli-20&o=1&p=48&l=ur1&category=musicandentertainmentrot&f=ifr&linkID=Q2UKCBH2NQB7PJWJ" width="728" height="90" scrolling="no" border="0" marginwidth="0" style="border:none;" frameborder="0"></iframe></div><div class="col-sm-12 visible-sm visible-xs"><iframe src="http://rcm-na.amazon-adsystem.com/e/cm?t=techblogandli-20&o=1&p=12&l=ur1&category=musicandentertainmentrot&f=ifr&linkID=32GFT4RW5USFC6L4" width="300" height="250" scrolling="no" border="0" marginwidth="0" style="border:none;" frameborder="0"></iframe></div></div></center>
+<center>
+<div class="row">
+<div class="col-lg-12 visible-lg visible-md">
+
+
+<!-- Google leaderboard -->
+<ins class="adsbygoogle"
+     style="display:inline-block;width:728px;height:90px"
+     data-ad-client="ca-pub-4947875154879707"
+     data-ad-slot="7446374452"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
+
+</div>
+<div class="col-sm-12 visible-sm visible-xs">
+
+
+<!-- Mobile banner -->
+<ins class="adsbygoogle"
+     style="display:inline-block;width:320px;height:100px"
+     data-ad-client="ca-pub-4947875154879707"
+     data-ad-slot="8923107653"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
+</div>
+</div>
+</center>
+
 <div class="row">
 <div class="col-xs-12 col-md-6"><div class="row"><div class="col-xs-9">
 <h3><a href='http://www.rottentomatoes.com/m/the_pill_2011/'>The Pill (2011)</a>&nbsp;<span class="bar">21,80,35,100</span></h3><p><code>IMDB: 5.6, RT Aud: 61&#37;, RT Critics: 70&#37;</code></p><p class="lead">No consensus yet.</p></div>
@@ -655,7 +910,38 @@ keywords: "movies, reddit, unknown, rotten tomatoes, imdb, metacritic, best, fil
 <h3><a href='http://www.rottentomatoes.com/m/time_changer/'>Time Changer (2002)</a>&nbsp;<span class="bar">21,73,12,100</span></h3><p><code>IMDB: 5.6, RT Aud: 74&#37;, RT Critics: 22&#37;</code></p><p class="lead">No consensus yet.</p></div>
 <div class="col-xs-3"><br><br><img width=100% class="lazy" data-original="http://resizing.flixster.com/KPdoIY7j0jkbRO3CG4NB3KaoSss=/325x475/dkpu1ddg7pbsk.cloudfront.net/movie/25/95/259592_ori.jpg"></div></div></div>
 </div>
-<center><div class="row"><div class="col-lg-12 visible-lg visible-md"><iframe src="http://rcm-na.amazon-adsystem.com/e/cm?t=techblogandli-20&o=1&p=48&l=ur1&category=musicandentertainmentrot&f=ifr&linkID=Q2UKCBH2NQB7PJWJ" width="728" height="90" scrolling="no" border="0" marginwidth="0" style="border:none;" frameborder="0"></iframe></div><div class="col-sm-12 visible-sm visible-xs"><iframe src="http://rcm-na.amazon-adsystem.com/e/cm?t=techblogandli-20&o=1&p=12&l=ur1&category=musicandentertainmentrot&f=ifr&linkID=32GFT4RW5USFC6L4" width="300" height="250" scrolling="no" border="0" marginwidth="0" style="border:none;" frameborder="0"></iframe></div></div></center>
+<center>
+<div class="row">
+<div class="col-lg-12 visible-lg visible-md">
+
+
+<!-- Google leaderboard -->
+<ins class="adsbygoogle"
+     style="display:inline-block;width:728px;height:90px"
+     data-ad-client="ca-pub-4947875154879707"
+     data-ad-slot="7446374452"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
+
+</div>
+<div class="col-sm-12 visible-sm visible-xs">
+
+
+<!-- Mobile banner -->
+<ins class="adsbygoogle"
+     style="display:inline-block;width:320px;height:100px"
+     data-ad-client="ca-pub-4947875154879707"
+     data-ad-slot="8923107653"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
+</div>
+</div>
+</center>
+
 <div class="row">
 <div class="col-xs-12 col-md-6"><div class="row"><div class="col-xs-9">
 <h3><a href='http://www.rottentomatoes.com/m/touching_home/'>Touching Home (2010)</a>&nbsp;<span class="bar">26,86,47,100</span></h3><p><code>IMDB: 5.8, RT Aud: 74&#37;, RT Critics: 50&#37;</code></p><p class="lead">No consensus yet.</p></div>
