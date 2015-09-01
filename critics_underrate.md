@@ -24,6 +24,7 @@ keywords: "movies, reddit, unknown, rotten tomatoes, imdb, metacritic, best, fil
 
 
 <center>
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
 <div class="row">
 <div class="col-lg-12 visible-lg visible-md">
 
@@ -218,7 +219,7 @@ keywords: "movies, reddit, unknown, rotten tomatoes, imdb, metacritic, best, fil
 </div>
 <div class="col-sm-12 visible-sm visible-xs">
 
-<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+
 <!-- Mobile banner -->
 <ins class="adsbygoogle"
      style="display:inline-block;width:320px;height:100px"
@@ -327,7 +328,7 @@ keywords: "movies, reddit, unknown, rotten tomatoes, imdb, metacritic, best, fil
 <div class="row">
 <div class="col-lg-12 visible-lg visible-md">
 
-<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+
 <!-- Google leaderboard -->
 <ins class="adsbygoogle"
      style="display:inline-block;width:728px;height:90px"
@@ -341,7 +342,7 @@ keywords: "movies, reddit, unknown, rotten tomatoes, imdb, metacritic, best, fil
 </div>
 <div class="col-sm-12 visible-sm visible-xs">
 
-<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+
 <!-- Mobile banner -->
 <ins class="adsbygoogle"
      style="display:inline-block;width:320px;height:100px"
