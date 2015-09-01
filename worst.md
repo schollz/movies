@@ -22,7 +22,44 @@ keywords: "movies, reddit, unknown, recent, overrated, underrated, rotten tomato
 <div class="col-xs-12 col-md-6"><div class="row"><div class="col-xs-9">
 <h3><a href='http://www.rottentomatoes.com/m/40_days_and_40_nights/'>40 Days and 40 Nights (2002)</a>&nbsp;<span class="bar">21,27,25,100</span></h3><p><code>IMDB: 5.6, RT Aud: 43&#37;, RT Critics: 37&#37;</code></p><p class="lead">As romantic comedies go, 40 Days and 40 Nights is smutty, sexist, and puerile.</p></div>
 <div class="col-xs-3"><br><br><img width=100% class="lazy" data-original="http://d3biamo577v4eu.cloudfront.net/static/images/redesign/poster_default_large.jpg"></div></div></div>
-</div><div class="row">
+</div>
+
+<center>
+<div class="row">
+<div class="col-lg-12 visible-lg visible-md">
+
+
+<!-- Google leaderboard -->
+<ins class="adsbygoogle"
+     style="display:inline-block;width:728px;height:90px"
+     data-ad-client="ca-pub-4947875154879707"
+     data-ad-slot="7446374452"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
+
+</div>
+<div class="col-sm-12 visible-sm visible-xs">
+
+
+<!-- Mobile banner -->
+<ins class="adsbygoogle"
+     style="display:inline-block;width:320px;height:100px"
+     data-ad-client="ca-pub-4947875154879707"
+     data-ad-slot="8923107653"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
+</div>
+</div>
+</center>
+
+
+
+
+<div class="row">
 <div class="col-xs-12 col-md-6"><div class="row"><div class="col-xs-9">
 <h3><a href='http://www.rottentomatoes.com/m/fantastic_four_2_rise_of_the_silver_surfer/'>Fantastic Four: Rise of the Silver Surfer (2007)</a>&nbsp;<span class="bar">21,34,25,100</span></h3><p><code>IMDB: 5.6, RT Aud: 51&#37;, RT Critics: 37&#37;</code></p><p class="lead">While an improvement on its predecessor, Fantastic Four: Rise of the Silver Surfer is nevertheless a juvenile, simplistic picture that has little benefit beyond its special effects.</p></div>
 <div class="col-xs-3"><br><br><img width=100% class="lazy" data-original="http://resizing.flixster.com/WW9w7cJwJxwIrYGH-xP95v8cidw=/605x872/dkpu1ddg7pbsk.cloudfront.net/movie/10/89/16/10891607_ori.jpg"></div></div></div>
@@ -43,7 +80,43 @@ keywords: "movies, reddit, unknown, recent, overrated, underrated, rotten tomato
 <div class="col-xs-12 col-md-6"><div class="row"><div class="col-xs-9">
 <h3><a href='http://www.rottentomatoes.com/m/abduction_2011/'>Abduction (2011)</a>&nbsp;<span class="bar">10,27,6,100</span></h3><p><code>IMDB: 5.0, RT Aud: 43&#37;, RT Critics: 3&#37;</code></p><p class="lead">A soulless and incompetent action/thriller not even a veteran lead actor could save, let alone Taylor Lautner.</p></div>
 <div class="col-xs-3"><br><br><img width=100% class="lazy" data-original="http://resizing.flixster.com/Yy47Lpo2YUR3SbZ8ep9VcXRv6hI=/800x1200/dkpu1ddg7pbsk.cloudfront.net/movie/11/17/30/11173041_ori.jpg"></div></div></div>
-</div><div class="row">
+</div>
+
+<center>
+<div class="row">
+<div class="col-lg-12 visible-lg visible-md">
+
+
+<!-- Google leaderboard -->
+<ins class="adsbygoogle"
+     style="display:inline-block;width:728px;height:90px"
+     data-ad-client="ca-pub-4947875154879707"
+     data-ad-slot="7446374452"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
+
+</div>
+<div class="col-sm-12 visible-sm visible-xs">
+
+
+<!-- Mobile banner -->
+<ins class="adsbygoogle"
+     style="display:inline-block;width:320px;height:100px"
+     data-ad-client="ca-pub-4947875154879707"
+     data-ad-slot="8923107653"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
+</div>
+</div>
+</center>
+
+
+
+<div class="row">
 <div class="col-xs-12 col-md-6"><div class="row"><div class="col-xs-9">
 <h3><a href='http://www.rottentomatoes.com/m/after_earth/'>After Earth (2013)</a>&nbsp;<span class="bar">10,15,11,100</span></h3><p><code>IMDB: 5.0, RT Aud: 37&#37;, RT Critics: 11&#37;</code></p><p class="lead">After Earth is a dull, ploddingly paced exercise in sentimental sci-fi -- and the latest setback for director M. Night Shyamalan's once-promising career.</p></div>
 <div class="col-xs-3"><br><br><img width=100% class="lazy" data-original="http://resizing.flixster.com/nRf5MHCIzHP0IZ8NIUBtx_2sN9o=/800x1200/dkpu1ddg7pbsk.cloudfront.net/movie/11/17/37/11173718_ori.jpg"></div></div></div>
@@ -79,7 +152,43 @@ keywords: "movies, reddit, unknown, recent, overrated, underrated, rotten tomato
 <h3><a href='http://www.rottentomatoes.com/m/1077027-batman_and_robin/'>Batman & Robin (1997)</a>&nbsp;<span class="bar">2,4,10,100</span></h3><p><code>IMDB: 3.6, RT Aud: 16&#37;, RT Critics: 10&#37;</code></p><p class="lead">Joel Schumacher's tongue-in-cheek attitude hits an unbearable limit in Batman & Robin resulting in a frantic and mindless movie that's too jokey to care much for.</p></div>
 <div class="col-xs-3"><br><br><img width=100% class="lazy" data-original="http://resizing.flixster.com/ns_UFw_q0rS2daMxvlPnAK02aY8=/508x755/dkpu1ddg7pbsk.cloudfront.net/movie/50/14/39/5014391_ori.jpg"></div></div></div>
 </div>
-<center><div class="row"><div class="col-lg-12 visible-lg visible-md"><iframe src="http://rcm-na.amazon-adsystem.com/e/cm?t=techblogandli-20&o=1&p=48&l=ur1&category=musicandentertainmentrot&f=ifr&linkID=Q2UKCBH2NQB7PJWJ" width="728" height="90" scrolling="no" border="0" marginwidth="0" style="border:none;" frameborder="0"></iframe></div><div class="col-sm-12 visible-sm visible-xs"><iframe src="http://rcm-na.amazon-adsystem.com/e/cm?t=techblogandli-20&o=1&p=12&l=ur1&category=musicandentertainmentrot&f=ifr&linkID=32GFT4RW5USFC6L4" width="300" height="250" scrolling="no" border="0" marginwidth="0" style="border:none;" frameborder="0"></iframe></div></div></center>
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+
+
+
+
+<center>
+<div class="row">
+<div class="col-lg-12 visible-lg visible-md">
+
+
+<!-- Google leaderboard -->
+<ins class="adsbygoogle"
+     style="display:inline-block;width:728px;height:90px"
+     data-ad-client="ca-pub-4947875154879707"
+     data-ad-slot="7446374452"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
+
+</div>
+<div class="col-sm-12 visible-sm visible-xs">
+
+
+<!-- Mobile banner -->
+<ins class="adsbygoogle"
+     style="display:inline-block;width:320px;height:100px"
+     data-ad-client="ca-pub-4947875154879707"
+     data-ad-slot="8923107653"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
+</div>
+</div>
+</center>
+
 <div class="row">
 <div class="col-xs-12 col-md-6"><div class="row"><div class="col-xs-9">
 <h3><a href='http://www.rottentomatoes.com/m/batman_forever/'>Batman Forever (1995)</a>&nbsp;<span class="bar">17,20,33,100</span></h3><p><code>IMDB: 5.4, RT Aud: 33&#37;, RT Critics: 41&#37;</code></p><p class="lead">Loud, excessively busy, and often boring, Batman Forever nonetheless has the charisma of Jim Carrey and Tommy Lee Jones to offer mild relief.</p></div>
@@ -151,7 +260,38 @@ keywords: "movies, reddit, unknown, recent, overrated, underrated, rotten tomato
 <h3><a href='http://www.rottentomatoes.com/m/daredevil/'>Daredevil (2003)</a>&nbsp;<span class="bar">15,15,33,100</span></h3><p><code>IMDB: 5.3, RT Aud: 35&#37;, RT Critics: 44&#37;</code></p><p class="lead">While Ben Affleck fits the role and the story is sporadically interesting, Daredevil is ultimately a dull, brooding origin story that fails to bring anything new to the genre.</p></div>
 <div class="col-xs-3"><br><br><img width=100% class="lazy" data-original="http://resizing.flixster.com/qh9UFutDu3A10H1a2cmlgBjYIVc=/224x320/dkpu1ddg7pbsk.cloudfront.net/movie/11/16/50/11165002_ori.jpg"></div></div></div>
 </div>
-<center><div class="row"><div class="col-lg-12 visible-lg visible-md"><iframe src="http://rcm-na.amazon-adsystem.com/e/cm?t=techblogandli-20&o=1&p=48&l=ur1&category=musicandentertainmentrot&f=ifr&linkID=Q2UKCBH2NQB7PJWJ" width="728" height="90" scrolling="no" border="0" marginwidth="0" style="border:none;" frameborder="0"></iframe></div><div class="col-sm-12 visible-sm visible-xs"><iframe src="http://rcm-na.amazon-adsystem.com/e/cm?t=techblogandli-20&o=1&p=12&l=ur1&category=musicandentertainmentrot&f=ifr&linkID=32GFT4RW5USFC6L4" width="300" height="250" scrolling="no" border="0" marginwidth="0" style="border:none;" frameborder="0"></iframe></div></div></center>
+<center>
+<div class="row">
+<div class="col-lg-12 visible-lg visible-md">
+
+
+<!-- Google leaderboard -->
+<ins class="adsbygoogle"
+     style="display:inline-block;width:728px;height:90px"
+     data-ad-client="ca-pub-4947875154879707"
+     data-ad-slot="7446374452"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
+
+</div>
+<div class="col-sm-12 visible-sm visible-xs">
+
+
+<!-- Mobile banner -->
+<ins class="adsbygoogle"
+     style="display:inline-block;width:320px;height:100px"
+     data-ad-client="ca-pub-4947875154879707"
+     data-ad-slot="8923107653"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
+</div>
+</div>
+</center>
+
 <div class="row">
 <div class="col-xs-12 col-md-6"><div class="row"><div class="col-xs-9">
 <h3><a href='http://www.rottentomatoes.com/m/days_of_thunder/'>Days of Thunder (1990)</a>&nbsp;<span class="bar">26,27,25,100</span></h3><p><code>IMDB: 5.8, RT Aud: 61&#37;, RT Critics: 37&#37;</code></p><p class="lead">Days of Thunder has Tom Cruise and plenty of flash going for it, but they aren't enough to compensate for the stock plot, two-dimensional characters, and poorly written dialogue.</p></div>
@@ -223,7 +363,38 @@ keywords: "movies, reddit, unknown, recent, overrated, underrated, rotten tomato
 <h3><a href='http://www.rottentomatoes.com/m/fools_gold_2008/'>Fool's Gold (2008)</a>&nbsp;<span class="bar">21,34,9,100</span></h3><p><code>IMDB: 5.6, RT Aud: 48&#37;, RT Critics: 11&#37;</code></p><p class="lead">With little chemistry among the performers, humorless gags, and a predictable storyline, Fool's Gold fails on every level.</p></div>
 <div class="col-xs-3"><br><br><img width=100% class="lazy" data-original="http://resizing.flixster.com/ScAHGQOeaXPlgTLjdOlZZqJ3tXI=/800x1186/dkpu1ddg7pbsk.cloudfront.net/movie/11/16/13/11161301_ori.jpg"></div></div></div>
 </div>
-<center><div class="row"><div class="col-lg-12 visible-lg visible-md"><iframe src="http://rcm-na.amazon-adsystem.com/e/cm?t=techblogandli-20&o=1&p=48&l=ur1&category=musicandentertainmentrot&f=ifr&linkID=Q2UKCBH2NQB7PJWJ" width="728" height="90" scrolling="no" border="0" marginwidth="0" style="border:none;" frameborder="0"></iframe></div><div class="col-sm-12 visible-sm visible-xs"><iframe src="http://rcm-na.amazon-adsystem.com/e/cm?t=techblogandli-20&o=1&p=12&l=ur1&category=musicandentertainmentrot&f=ifr&linkID=32GFT4RW5USFC6L4" width="300" height="250" scrolling="no" border="0" marginwidth="0" style="border:none;" frameborder="0"></iframe></div></div></center>
+<center>
+<div class="row">
+<div class="col-lg-12 visible-lg visible-md">
+
+
+<!-- Google leaderboard -->
+<ins class="adsbygoogle"
+     style="display:inline-block;width:728px;height:90px"
+     data-ad-client="ca-pub-4947875154879707"
+     data-ad-slot="7446374452"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
+
+</div>
+<div class="col-sm-12 visible-sm visible-xs">
+
+
+<!-- Mobile banner -->
+<ins class="adsbygoogle"
+     style="display:inline-block;width:320px;height:100px"
+     data-ad-client="ca-pub-4947875154879707"
+     data-ad-slot="8923107653"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
+</div>
+</div>
+</center>
+
 <div class="row">
 <div class="col-xs-12 col-md-6"><div class="row"><div class="col-xs-9">
 <h3><a href='http://www.rottentomatoes.com/m/freddy_vs_jason/'>Freddy vs. Jason (2003)</a>&nbsp;<span class="bar">26,20,25,100</span></h3><p><code>IMDB: 5.8, RT Aud: 50&#37;, RT Critics: 40&#37;</code></p><p class="lead">Fans of the two horror franchises will enjoy this showdown. But for everyone else, it's the same old slice and dice.</p></div>
@@ -295,7 +466,38 @@ keywords: "movies, reddit, unknown, recent, overrated, underrated, rotten tomato
 <h3><a href='http://www.rottentomatoes.com/m/into_the_blue/'>Into the Blue (2005)</a>&nbsp;<span class="bar">26,34,13,100</span></h3><p><code>IMDB: 5.8, RT Aud: 57&#37;, RT Critics: 20&#37;</code></p><p class="lead">Even the endless shots of bronzed beach babes and buffed dudes can't keep this soggy scuba flick's plot from drowning.</p></div>
 <div class="col-xs-3"><br><br><img width=100% class="lazy" data-original="http://resizing.flixster.com/jaOa1ZJcDobxlQiiO8KWXlQ4Q_0=/269x400/dkpu1ddg7pbsk.cloudfront.net/movie/25/02/250214_ori.jpg"></div></div></div>
 </div>
-<center><div class="row"><div class="col-lg-12 visible-lg visible-md"><iframe src="http://rcm-na.amazon-adsystem.com/e/cm?t=techblogandli-20&o=1&p=48&l=ur1&category=musicandentertainmentrot&f=ifr&linkID=Q2UKCBH2NQB7PJWJ" width="728" height="90" scrolling="no" border="0" marginwidth="0" style="border:none;" frameborder="0"></iframe></div><div class="col-sm-12 visible-sm visible-xs"><iframe src="http://rcm-na.amazon-adsystem.com/e/cm?t=techblogandli-20&o=1&p=12&l=ur1&category=musicandentertainmentrot&f=ifr&linkID=32GFT4RW5USFC6L4" width="300" height="250" scrolling="no" border="0" marginwidth="0" style="border:none;" frameborder="0"></iframe></div></div></center>
+<center>
+<div class="row">
+<div class="col-lg-12 visible-lg visible-md">
+
+
+<!-- Google leaderboard -->
+<ins class="adsbygoogle"
+     style="display:inline-block;width:728px;height:90px"
+     data-ad-client="ca-pub-4947875154879707"
+     data-ad-slot="7446374452"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
+
+</div>
+<div class="col-sm-12 visible-sm visible-xs">
+
+
+<!-- Mobile banner -->
+<ins class="adsbygoogle"
+     style="display:inline-block;width:320px;height:100px"
+     data-ad-client="ca-pub-4947875154879707"
+     data-ad-slot="8923107653"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
+</div>
+</div>
+</center>
+
 <div class="row">
 <div class="col-xs-12 col-md-6"><div class="row"><div class="col-xs-9">
 <h3><a href='http://www.rottentomatoes.com/m/jack_and_jill_2011/'>Jack and Jill (2011)</a>&nbsp;<span class="bar">1,10,2,100</span></h3><p><code>IMDB: 3.4, RT Aud: 37&#37;, RT Critics: 2&#37;</code></p><p class="lead">Although it features an inexplicably committed performance from Al Pacino, Jack and Jill is impossible to recommend on any level whatsoever.</p></div>
@@ -367,7 +569,38 @@ keywords: "movies, reddit, unknown, recent, overrated, underrated, rotten tomato
 <h3><a href='http://www.rottentomatoes.com/m/movie_43/'>Movie 43 (2013)</a>&nbsp;<span class="bar">5,1,1,100</span></h3><p><code>IMDB: 4.4, RT Aud: 24&#37;, RT Critics: 3&#37;</code></p><p class="lead">A star-studded turkey, Movie 43 is loaded with gleefully offensive and often scatological gags, but it's largely bereft of laughs.</p></div>
 <div class="col-xs-3"><br><br><img width=100% class="lazy" data-original="http://resizing.flixster.com/6XVqCkiE6JcnHmDemUQnEWm8kSY=/533x755/dkpu1ddg7pbsk.cloudfront.net/movie/11/16/75/11167574_ori.jpg"></div></div></div>
 </div>
-<center><div class="row"><div class="col-lg-12 visible-lg visible-md"><iframe src="http://rcm-na.amazon-adsystem.com/e/cm?t=techblogandli-20&o=1&p=48&l=ur1&category=musicandentertainmentrot&f=ifr&linkID=Q2UKCBH2NQB7PJWJ" width="728" height="90" scrolling="no" border="0" marginwidth="0" style="border:none;" frameborder="0"></iframe></div><div class="col-sm-12 visible-sm visible-xs"><iframe src="http://rcm-na.amazon-adsystem.com/e/cm?t=techblogandli-20&o=1&p=12&l=ur1&category=musicandentertainmentrot&f=ifr&linkID=32GFT4RW5USFC6L4" width="300" height="250" scrolling="no" border="0" marginwidth="0" style="border:none;" frameborder="0"></iframe></div></div></center>
+<center>
+<div class="row">
+<div class="col-lg-12 visible-lg visible-md">
+
+
+<!-- Google leaderboard -->
+<ins class="adsbygoogle"
+     style="display:inline-block;width:728px;height:90px"
+     data-ad-client="ca-pub-4947875154879707"
+     data-ad-slot="7446374452"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
+
+</div>
+<div class="col-sm-12 visible-sm visible-xs">
+
+
+<!-- Mobile banner -->
+<ins class="adsbygoogle"
+     style="display:inline-block;width:320px;height:100px"
+     data-ad-client="ca-pub-4947875154879707"
+     data-ad-slot="8923107653"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
+</div>
+</div>
+</center>
+
 <div class="row">
 <div class="col-xs-12 col-md-6"><div class="row"><div class="col-xs-9">
 <h3><a href='http://www.rottentomatoes.com/m/my_super_ex_girlfriend/'>My Super Ex-Girlfriend (2006)</a>&nbsp;<span class="bar">11,10,31,100</span></h3><p><code>IMDB: 5.1, RT Aud: 31&#37;, RT Critics: 39&#37;</code></p><p class="lead">My Super Ex=Girlfriend is an only sporadically amusing spoof on the superhero genre that misses the mark with a nerd-turned-superwoman who embodies sexist clich s.</p></div>
@@ -439,7 +672,38 @@ keywords: "movies, reddit, unknown, recent, overrated, underrated, rotten tomato
 <h3><a href='http://www.rottentomatoes.com/m/scary_movie_2/'>Scary Movie 2 (2001)</a>&nbsp;<span class="bar">13,20,7,100</span></h3><p><code>IMDB: 5.2, RT Aud: 53&#37;, RT Critics: 14&#37;</code></p><p class="lead">Instead of being funny, this gross-out sequel plays like a sloppy, rushed-out product.</p></div>
 <div class="col-xs-3"><br><br><img width=100% class="lazy" data-original="http://resizing.flixster.com/u3EQmT4k5i3geRkGdiBQ29vParY=/320x475/dkpu1ddg7pbsk.cloudfront.net/movie/26/77/267706_ori.jpg"></div></div></div>
 </div>
-<center><div class="row"><div class="col-lg-12 visible-lg visible-md"><iframe src="http://rcm-na.amazon-adsystem.com/e/cm?t=techblogandli-20&o=1&p=48&l=ur1&category=musicandentertainmentrot&f=ifr&linkID=Q2UKCBH2NQB7PJWJ" width="728" height="90" scrolling="no" border="0" marginwidth="0" style="border:none;" frameborder="0"></iframe></div><div class="col-sm-12 visible-sm visible-xs"><iframe src="http://rcm-na.amazon-adsystem.com/e/cm?t=techblogandli-20&o=1&p=12&l=ur1&category=musicandentertainmentrot&f=ifr&linkID=32GFT4RW5USFC6L4" width="300" height="250" scrolling="no" border="0" marginwidth="0" style="border:none;" frameborder="0"></iframe></div></div></center>
+<center>
+<div class="row">
+<div class="col-lg-12 visible-lg visible-md">
+
+
+<!-- Google leaderboard -->
+<ins class="adsbygoogle"
+     style="display:inline-block;width:728px;height:90px"
+     data-ad-client="ca-pub-4947875154879707"
+     data-ad-slot="7446374452"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
+
+</div>
+<div class="col-sm-12 visible-sm visible-xs">
+
+
+<!-- Mobile banner -->
+<ins class="adsbygoogle"
+     style="display:inline-block;width:320px;height:100px"
+     data-ad-client="ca-pub-4947875154879707"
+     data-ad-slot="8923107653"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
+</div>
+</div>
+</center>
+
 <div class="row">
 <div class="col-xs-12 col-md-6"><div class="row"><div class="col-xs-9">
 <h3><a href='http://www.rottentomatoes.com/m/scary_movie_4/'>Scary Movie 4 (2006)</a>&nbsp;<span class="bar">11,34,23,100</span></h3><p><code>IMDB: 5.1, RT Aud: 51&#37;, RT Critics: 36&#37;</code></p><p class="lead">Sure to inspire a few chuckles, but not enough to compensate for the recycled material from its predecessors.</p></div>
@@ -511,7 +775,38 @@ keywords: "movies, reddit, unknown, recent, overrated, underrated, rotten tomato
 <h3><a href='http://www.rottentomatoes.com/m/the_counselor_2013/'>The Counselor (2013)</a>&nbsp;<span class="bar">17,3,27,100</span></h3><p><code>IMDB: 5.4, RT Aud: 23&#37;, RT Critics: 34&#37;</code></p><p class="lead">The Counselor raises expectations with its talented cast and creative crew -- then subverts them with a wordy and clumsy suspense thriller that's mercilessly short on suspense or thrills.</p></div>
 <div class="col-xs-3"><br><br><img width=100% class="lazy" data-original="http://resizing.flixster.com/u8GdT7ZCPa2WPCLs0zxa5gLV8dk=/800x1200/dkpu1ddg7pbsk.cloudfront.net/movie/11/17/69/11176928_ori.jpg"></div></div></div>
 </div>
-<center><div class="row"><div class="col-lg-12 visible-lg visible-md"><iframe src="http://rcm-na.amazon-adsystem.com/e/cm?t=techblogandli-20&o=1&p=48&l=ur1&category=musicandentertainmentrot&f=ifr&linkID=Q2UKCBH2NQB7PJWJ" width="728" height="90" scrolling="no" border="0" marginwidth="0" style="border:none;" frameborder="0"></iframe></div><div class="col-sm-12 visible-sm visible-xs"><iframe src="http://rcm-na.amazon-adsystem.com/e/cm?t=techblogandli-20&o=1&p=12&l=ur1&category=musicandentertainmentrot&f=ifr&linkID=32GFT4RW5USFC6L4" width="300" height="250" scrolling="no" border="0" marginwidth="0" style="border:none;" frameborder="0"></iframe></div></div></center>
+<center>
+<div class="row">
+<div class="col-lg-12 visible-lg visible-md">
+
+
+<!-- Google leaderboard -->
+<ins class="adsbygoogle"
+     style="display:inline-block;width:728px;height:90px"
+     data-ad-client="ca-pub-4947875154879707"
+     data-ad-slot="7446374452"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
+
+</div>
+<div class="col-sm-12 visible-sm visible-xs">
+
+
+<!-- Mobile banner -->
+<ins class="adsbygoogle"
+     style="display:inline-block;width:320px;height:100px"
+     data-ad-client="ca-pub-4947875154879707"
+     data-ad-slot="8923107653"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
+</div>
+</div>
+</center>
+
 <div class="row">
 <div class="col-xs-12 col-md-6"><div class="row"><div class="col-xs-9">
 <h3><a href='http://www.rottentomatoes.com/m/day_the_earth_stood_still/'>The Day the Earth Stood Still (2008)</a>&nbsp;<span class="bar">18,15,14,100</span></h3><p><code>IMDB: 5.5, RT Aud: 27&#37;, RT Critics: 20&#37;</code></p><p class="lead">Heavy on special effects, but without a coherent story at its base, The Day the Earth Stood Still is subpar re-imagining of the 1951 science-fiction classic.</p></div>
@@ -583,7 +878,38 @@ keywords: "movies, reddit, unknown, recent, overrated, underrated, rotten tomato
 <h3><a href='http://www.rottentomatoes.com/m/the_purge/'>The Purge (2013)</a>&nbsp;<span class="bar">21,20,31,100</span></h3><p><code>IMDB: 5.6, RT Aud: 36&#37;, RT Critics: 38&#37;</code></p><p class="lead">Half social allegory, half home-invasion thriller, The Purge attempts to make an intelligent point, but ultimately devolves into numbing violence and tired clich s.</p></div>
 <div class="col-xs-3"><br><br><img width=100% class="lazy" data-original="http://resizing.flixster.com/Ri-qXgEi-QgYCJ3n1JXZOg5pVlA=/800x1200/dkpu1ddg7pbsk.cloudfront.net/movie/11/17/37/11173717_ori.jpg"></div></div></div>
 </div>
-<center><div class="row"><div class="col-lg-12 visible-lg visible-md"><iframe src="http://rcm-na.amazon-adsystem.com/e/cm?t=techblogandli-20&o=1&p=48&l=ur1&category=musicandentertainmentrot&f=ifr&linkID=Q2UKCBH2NQB7PJWJ" width="728" height="90" scrolling="no" border="0" marginwidth="0" style="border:none;" frameborder="0"></iframe></div><div class="col-sm-12 visible-sm visible-xs"><iframe src="http://rcm-na.amazon-adsystem.com/e/cm?t=techblogandli-20&o=1&p=12&l=ur1&category=musicandentertainmentrot&f=ifr&linkID=32GFT4RW5USFC6L4" width="300" height="250" scrolling="no" border="0" marginwidth="0" style="border:none;" frameborder="0"></iframe></div></div></center>
+<center>
+<div class="row">
+<div class="col-lg-12 visible-lg visible-md">
+
+
+<!-- Google leaderboard -->
+<ins class="adsbygoogle"
+     style="display:inline-block;width:728px;height:90px"
+     data-ad-client="ca-pub-4947875154879707"
+     data-ad-slot="7446374452"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
+
+</div>
+<div class="col-sm-12 visible-sm visible-xs">
+
+
+<!-- Mobile banner -->
+<ins class="adsbygoogle"
+     style="display:inline-block;width:320px;height:100px"
+     data-ad-client="ca-pub-4947875154879707"
+     data-ad-slot="8923107653"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
+</div>
+</div>
+</center>
+
 <div class="row">
 <div class="col-xs-12 col-md-6"><div class="row"><div class="col-xs-9">
 <h3><a href='http://www.rottentomatoes.com/m/ring_two/'>The Ring Two (2005)</a>&nbsp;<span class="bar">17,15,19,100</span></h3><p><code>IMDB: 5.4, RT Aud: 33&#37;, RT Critics: 19&#37;</code></p><p class="lead">Ring Two serves up horror cliches, and not even Hideo Nakata, the director of the movies from which this one is based, can save the movie from a dull screenplay full of absurdities.</p></div>
@@ -655,7 +981,38 @@ keywords: "movies, reddit, unknown, recent, overrated, underrated, rotten tomato
 <h3><a href='http://www.rottentomatoes.com/m/year_one/'>Year One (2009)</a>&nbsp;<span class="bar">9,4,12,100</span></h3><p><code>IMDB: 4.9, RT Aud: 23&#37;, RT Critics: 15&#37;</code></p><p class="lead">Year One is a poorly executed, slapdash comedy in which the talent both in front of and behind the camera never seem to be on the same page.</p></div>
 <div class="col-xs-3"><br><br><img width=100% class="lazy" data-original="http://resizing.flixster.com/1s90TJueIGhccKALhx8Jlim8dIg=/800x1200/dkpu1ddg7pbsk.cloudfront.net/movie/11/16/96/11169688_ori.jpg"></div></div></div>
 </div>
-<center><div class="row"><div class="col-lg-12 visible-lg visible-md"><iframe src="http://rcm-na.amazon-adsystem.com/e/cm?t=techblogandli-20&o=1&p=48&l=ur1&category=musicandentertainmentrot&f=ifr&linkID=Q2UKCBH2NQB7PJWJ" width="728" height="90" scrolling="no" border="0" marginwidth="0" style="border:none;" frameborder="0"></iframe></div><div class="col-sm-12 visible-sm visible-xs"><iframe src="http://rcm-na.amazon-adsystem.com/e/cm?t=techblogandli-20&o=1&p=12&l=ur1&category=musicandentertainmentrot&f=ifr&linkID=32GFT4RW5USFC6L4" width="300" height="250" scrolling="no" border="0" marginwidth="0" style="border:none;" frameborder="0"></iframe></div></div></center>
+<center>
+<div class="row">
+<div class="col-lg-12 visible-lg visible-md">
+
+
+<!-- Google leaderboard -->
+<ins class="adsbygoogle"
+     style="display:inline-block;width:728px;height:90px"
+     data-ad-client="ca-pub-4947875154879707"
+     data-ad-slot="7446374452"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
+
+</div>
+<div class="col-sm-12 visible-sm visible-xs">
+
+
+<!-- Mobile banner -->
+<ins class="adsbygoogle"
+     style="display:inline-block;width:320px;height:100px"
+     data-ad-client="ca-pub-4947875154879707"
+     data-ad-slot="8923107653"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
+</div>
+</div>
+</center>
+
 <div class="row">
 <div class="col-xs-12 col-md-6"><div class="row"><div class="col-xs-9">
 <h3><a href='http://www.rottentomatoes.com/m/you_dont_mess_with_the_zohan/'>You Don't Mess With the Zohan (2008)</a>&nbsp;<span class="bar">18,34,23,100</span></h3><p><code>IMDB: 5.5, RT Aud: 45&#37;, RT Critics: 37&#37;</code></p><p class="lead">You Don't Mess With the Zohan features intermittent laughs, and will please Sandler diehards, but after awhile the leaky premise wears thin.</p></div>
