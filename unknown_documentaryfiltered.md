@@ -10,7 +10,43 @@ title: Great, but mostly unknown, movies (not documentaries)
 <div class="col-xs-12 col-md-6"><div class="row"><div class="col-xs-9">
 <h3><a href='http://www.rottentomatoes.com/m/1196293-reprise/'>Reprise (2006)</a></h3><p><code>87&#37; of critics love it, but only 4,853 people have rated it.</code></p><p class="lead">With Reprise, first-time director Joachim Trier effectively captures the spirit of young adulthood, and announces his arrival as a filmmaker to be watched.</p></div>
 <div class="col-xs-3"><br><br><img width=100% class="lazy" data-original="http://resizing.flixster.com/ybaAOVctJceuYWbsybLpuokdkO0=/389x550/dkpu1ddg7pbsk.cloudfront.net/movie/92/54/45/9254456_ori.jpg"></div></div></div>
-</div><div class="row">
+</div>
+
+
+<center>
+<div class="row">
+<div class="col-lg-12 visible-lg visible-md">
+
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- Google leaderboard -->
+<ins class="adsbygoogle"
+     style="display:inline-block;width:728px;height:90px"
+     data-ad-client="ca-pub-4947875154879707"
+     data-ad-slot="7446374452"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
+
+</div>
+<div class="col-sm-12 visible-sm visible-xs">
+
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- Mobile banner -->
+<ins class="adsbygoogle"
+     style="display:inline-block;width:320px;height:100px"
+     data-ad-client="ca-pub-4947875154879707"
+     data-ad-slot="8923107653"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
+</div>
+</div>
+</center>
+
+
+<div class="row">
 <div class="col-xs-12 col-md-6"><div class="row"><div class="col-xs-9">
 <h3><a href='http://www.rottentomatoes.com/m/the_duke_of_burgundy/'>The Duke Of Burgundy (2015)</a></h3><p><code>93&#37; of critics love it, but only 2,183 people have rated it.</code></p><p class="lead">Stylish, sensual, and smart, The Duke of Burgundy proves that erotic cinema can have genuine substance.</p></div>
 <div class="col-xs-3"><br><br><img width=100% class="lazy" data-original="http://resizing.flixster.com/wA1fRSnZJwrUOWVycP6zHkVs2Fo=/284x405/dkpu1ddg7pbsk.cloudfront.net/movie/11/18/88/11188898_ori.jpg"></div></div></div>
@@ -24,7 +60,41 @@ title: Great, but mostly unknown, movies (not documentaries)
 <div class="col-xs-12 col-md-6"><div class="row"><div class="col-xs-9">
 <h3><a href='http://www.rottentomatoes.com/m/kis_uykusu/'>Winter Sleep (2014)</a></h3><p><code>88&#37; of critics love it, but only 4,584 people have rated it.</code></p><p class="lead">Epic in length, thrilling to behold, and utterly absorbing, Winter Sleep demands -- and rewards -- viewers' patient attention.</p></div>
 <div class="col-xs-3"><br><br><img width=100% class="lazy" data-original="http://resizing.flixster.com/Vehp9dSZc1bTcnDgy8qX3RSrdNk=/800x1092/dkpu1ddg7pbsk.cloudfront.net/movie/11/18/11/11181171_ori.jpg"></div></div></div>
-</div><div class="row">
+</div>
+
+
+<center>
+<div class="row">
+<div class="col-lg-12 visible-lg visible-md">
+
+<!-- Google leaderboard -->
+<ins class="adsbygoogle"
+     style="display:inline-block;width:728px;height:90px"
+     data-ad-client="ca-pub-4947875154879707"
+     data-ad-slot="7446374452"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
+
+</div>
+<div class="col-sm-12 visible-sm visible-xs">
+
+
+<!-- Mobile banner -->
+<ins class="adsbygoogle"
+     style="display:inline-block;width:320px;height:100px"
+     data-ad-client="ca-pub-4947875154879707"
+     data-ad-slot="8923107653"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
+</div>
+</div>
+</center>
+
+<div class="row">
 <div class="col-xs-12 col-md-6"><div class="row"><div class="col-xs-9">
 <h3><a href='http://www.rottentomatoes.com/m/1215792-amreeka/'>Amreeka (2009)</a></h3><p><code>87&#37; of critics love it, but only 3,134 people have rated it.</code></p><p class="lead">A dramedy that's got a taste for the tragic as well as the poignantly comic, Amreeka adds a new sweetness to the hope and distress of the immigrant experience.</p></div>
 <div class="col-xs-3"><br><br><img width=100% class="lazy" data-original="http://resizing.flixster.com/fsKdVUsaYHONUjwHB4ObsZx5ZKQ=/407x604/dkpu1ddg7pbsk.cloudfront.net/movie/10/88/63/10886308_ori.jpg"></div></div></div>
@@ -38,7 +108,42 @@ title: Great, but mostly unknown, movies (not documentaries)
 <div class="col-xs-12 col-md-6"><div class="row"><div class="col-xs-9">
 <h3><a href='http://www.rottentomatoes.com/m/hannah_arendt/'>Hannah Arendt (2013)</a></h3><p><code>87&#37; of critics love it, but only 3,394 people have rated it.</code></p><p class="lead">Led by a powerful performance from Barbara Sukowa, Hannah Arendt does a commendable job of dramatizing the life of a complex public figure.</p></div>
 <div class="col-xs-3"><br><br><img width=100% class="lazy" data-original="http://resizing.flixster.com/k2cjlU2DKqn8f2YCfuoRDASFQ-E=/675x1000/dkpu1ddg7pbsk.cloudfront.net/movie/11/17/14/11171404_ori.jpg"></div></div></div>
-</div><div class="row">
+</div>
+
+
+<center>
+<div class="row">
+<div class="col-lg-12 visible-lg visible-md">
+
+
+<!-- Google leaderboard -->
+<ins class="adsbygoogle"
+     style="display:inline-block;width:728px;height:90px"
+     data-ad-client="ca-pub-4947875154879707"
+     data-ad-slot="7446374452"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
+
+</div>
+<div class="col-sm-12 visible-sm visible-xs">
+
+
+<!-- Mobile banner -->
+<ins class="adsbygoogle"
+     style="display:inline-block;width:320px;height:100px"
+     data-ad-client="ca-pub-4947875154879707"
+     data-ad-slot="8923107653"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
+</div>
+</div>
+</center>
+
+<div class="row">
 <div class="col-xs-12 col-md-6"><div class="row"><div class="col-xs-9">
 <h3><a href='http://www.rottentomatoes.com/m/museum_hours/'>Museum Hours (2013)</a></h3><p><code>93&#37; of critics love it, but only 2,137 people have rated it.</code></p><p class="lead">Its languid pace may frustrate some viewers, but for patient filmgoers, Museum Hours offers a carefully observed portrait of the human condition.</p></div>
 <div class="col-xs-3"><br><br><img width=100% class="lazy" data-original="http://resizing.flixster.com/wkagdgX0hiWBUAGIJUuuMa_tP74=/800x1186/dkpu1ddg7pbsk.cloudfront.net/movie/11/17/20/11172002_ori.jpg"></div></div></div>
@@ -59,7 +164,39 @@ title: Great, but mostly unknown, movies (not documentaries)
 <div class="col-xs-12 col-md-6"><div class="row"><div class="col-xs-9">
 <h3><a href='http://www.rottentomatoes.com/m/la_chambre_bleue/'>The Blue Room (2014)</a></h3><p><code>86&#37; of critics love it, but only 1,052 people have rated it.</code></p><p class="lead">The Blue Room proves a sobering study of the dark side of human nature, as well as a coolly assured directorial effort from star and co-writer Mathieu Amalric.</p></div>
 <div class="col-xs-3"><br><br><img width=100% class="lazy" data-original="http://resizing.flixster.com/dncn7STfItDaDUT9zB3u7SHmj7U=/284x405/dkpu1ddg7pbsk.cloudfront.net/movie/11/18/05/11180593_ori.jpg"></div></div></div>
-</div><div class="row">
+</div>
+
+<center>
+<div class="row">
+<div class="col-lg-12 visible-lg visible-md">
+
+
+<!-- Project Wonderful Ad Box Code -->
+<div id="pw_adbox_77188_5_0"></div>
+<script type="text/javascript"></script>
+<noscript><map name="admap77188" id="admap77188"><area href="http://www.projectwonderful.com/out_nojs.php?r=0&c=0&id=77188&type=5" shape="rect" coords="0,0,728,90" title="" alt="" target="_blank" /></map>
+<table cellpadding="0" cellspacing="0" style="width:728px;border-style:none;background-color:#ffffff;"><tr><td><img src="http://www.projectwonderful.com/nojs.php?id=77188&type=5" style="width:728px;height:90px;border-style:none;" usemap="#admap77188" alt="" /></td></tr><tr><td style="background-color:#ffffff;" colspan="1"><center><a style="font-size:10px;color:#0000ff;text-decoration:none;line-height:1.2;font-weight:bold;font-family:Tahoma, verdana,arial,helvetica,sans-serif;text-transform: none;letter-spacing:normal;text-shadow:none;white-space:normal;word-spacing:normal;" href="http://www.projectwonderful.com/advertisehere.php?id=77188&type=5" target="_blank">Ads by Project Wonderful!  Your ad here, right now: $0</a></center></td></tr></table>
+</noscript>
+<!-- End Project Wonderful Ad Box Code -->
+
+</div>
+<div class="col-sm-12 visible-sm visible-xs">
+
+
+<!-- Project Wonderful Ad Box Code -->
+<div style="text-align:center;"><div style="display:inline-block;" id="pw_adbox_77187_6_0"></div></div>
+<script type="text/javascript"></script>
+<noscript><div style="text-align:center;"><div style="display:inline-block;"><map name="admap77187" id="admap77187"><area href="http://www.projectwonderful.com/out_nojs.php?r=0&c=0&id=77187&type=6" shape="rect" coords="0,0,234,60" title="" alt="" target="_blank" /></map>
+<table cellpadding="0" cellspacing="0" style="width:234px;border-style:none;background-color:#ffffff;"><tr><td><img src="http://www.projectwonderful.com/nojs.php?id=77187&type=6" style="width:234px;height:60px;border-style:none;" usemap="#admap77187" alt="" /></td></tr><tr><td style="background-color:#ffffff;" colspan="1"><center><a style="font-size:10px;color:#0000ff;text-decoration:none;line-height:1.2;font-weight:bold;font-family:Tahoma, verdana,arial,helvetica,sans-serif;text-transform: none;letter-spacing:normal;text-shadow:none;white-space:normal;word-spacing:normal;" href="http://www.projectwonderful.com/advertisehere.php?id=77187&type=6" target="_blank">Ads by Project Wonderful!  Your ad here, right now: $0</a></center></td></tr></table></div></div>
+</noscript>
+<!-- End Project Wonderful Ad Box Code -->
+
+</div>
+</div>
+</center>
+
+
+<div class="row">
 <div class="col-xs-12 col-md-6"><div class="row"><div class="col-xs-9">
 <h3><a href='http://www.rottentomatoes.com/m/my-dog-tulip/'>My Dog Tulip (2010)</a></h3><p><code>91&#37; of critics love it, but only 2,436 people have rated it.</code></p><p class="lead">No consensus yet.</p></div>
 <div class="col-xs-3"><br><br><img width=100% class="lazy" data-original="http://resizing.flixster.com/pbwpyKbhWpU2Dzn58vgAZKOUiWM=/134x193/dkpu1ddg7pbsk.cloudfront.net/movie/11/15/19/11151992_ori.jpg"></div></div></div>
@@ -74,7 +211,36 @@ title: Great, but mostly unknown, movies (not documentaries)
 <h3><a href='http://www.rottentomatoes.com/m/when_marnie_was_there/'>When Marnie Was There (2015)</a></h3><p><code>89&#37; of critics love it, but only 3,235 people have rated it.</code></p><p class="lead">When Marnie Was There is still blessed with enough visual and narrative beauty to recommend, even if it isn't quite as magical as Studio Ghibli's greatest works.</p></div>
 <div class="col-xs-3"><br><br><img width=100% class="lazy" data-original="http://resizing.flixster.com/BMsZUCBCiRXkkCinFt8kaaL-wPk=/284x405/dkpu1ddg7pbsk.cloudfront.net/movie/11/19/12/11191213_ori.jpg"></div></div></div>
 </div>
-<center><div class="row"><div class="col-lg-12 visible-lg visible-md"><iframe src="http://rcm-na.amazon-adsystem.com/e/cm?t=techblogandli-20&o=1&p=48&l=ur1&category=musicandentertainmentrot&f=ifr&linkID=Q2UKCBH2NQB7PJWJ" width="728" height="90" scrolling="no" border="0" marginwidth="0" style="border:none;" frameborder="0"></iframe></div><div class="col-sm-12 visible-sm visible-xs"><iframe src="http://rcm-na.amazon-adsystem.com/e/cm?t=techblogandli-20&o=1&p=12&l=ur1&category=musicandentertainmentrot&f=ifr&linkID=32GFT4RW5USFC6L4" width="300" height="250" scrolling="no" border="0" marginwidth="0" style="border:none;" frameborder="0"></iframe></div></div></center>
+
+
+<center>
+<div class="row">
+<div class="col-lg-12 visible-lg visible-md">
+
+<!-- Project Wonderful Ad Box Code -->
+<div style="text-align:center;"><div style="display:inline-block;" id="pw_adbox_77189_5_0"></div></div>
+<script type="text/javascript"></script>
+<noscript><div style="text-align:center;"><div style="display:inline-block;"><map name="admap77189" id="admap77189"><area href="http://www.projectwonderful.com/out_nojs.php?r=0&c=0&id=77189&type=5" shape="rect" coords="0,0,728,90" title="" alt="" target="_blank" /></map>
+<table cellpadding="0" cellspacing="0" style="width:728px;border-style:none;background-color:#ffffff;"><tr><td><img src="http://www.projectwonderful.com/nojs.php?id=77189&type=5" style="width:728px;height:90px;border-style:none;" usemap="#admap77189" alt="" /></td></tr><tr><td style="background-color:#ffffff;" colspan="1"><center><a style="font-size:10px;color:#0000ff;text-decoration:none;line-height:1.2;font-weight:bold;font-family:Tahoma, verdana,arial,helvetica,sans-serif;text-transform: none;letter-spacing:normal;text-shadow:none;white-space:normal;word-spacing:normal;" href="http://www.projectwonderful.com/advertisehere.php?id=77189&type=5" target="_blank">Ads by Project Wonderful!  Your ad here, right now: $0</a></center></td></tr></table></div></div>
+</noscript>
+<!-- End Project Wonderful Ad Box Code -->
+
+</div>
+
+
+<div class="col-sm-12 visible-sm visible-xs">
+
+
+<!-- Project Wonderful Ad Box Code -->
+<div style="text-align:center;"><div style="display:inline-block;" id="pw_adbox_76846_6_0"></div></div>
+<script type="text/javascript"></script>
+<noscript><div style="text-align:center;"><div style="display:inline-block;"><map name="admap76846" id="admap76846"><area href="http://www.projectwonderful.com/out_nojs.php?r=0&c=0&id=76846&type=6" shape="rect" coords="0,0,234,60" title="" alt="" target="_blank" /></map>
+<table cellpadding="0" cellspacing="0" style="width:234px;border-style:none;background-color:#ffffff;"><tr><td><img src="http://www.projectwonderful.com/nojs.php?id=76846&type=6" style="width:234px;height:60px;border-style:none;" usemap="#admap76846" alt="" /></td></tr><tr><td style="background-color:#ffffff;" colspan="1"><center><a style="font-size:10px;color:#0000ff;text-decoration:none;line-height:1.2;font-weight:bold;font-family:Tahoma, verdana,arial,helvetica,sans-serif;text-transform: none;letter-spacing:normal;text-shadow:none;white-space:normal;word-spacing:normal;" href="http://www.projectwonderful.com/advertisehere.php?id=76846&type=6" target="_blank">Ads by Project Wonderful!  Your ad here, right now: $0</a></center></td></tr></table></div></div>
+</noscript>
+<!-- End Project Wonderful Ad Box Code -->
+</div>
+</div>
+</center>
 <div class="row">
 <div class="col-xs-12 col-md-6"><div class="row"><div class="col-xs-9">
 <h3><a href='http://www.rottentomatoes.com/m/tabu_2012/'>Tabu (2012)</a></h3><p><code>86&#37; of critics love it, but only 1,609 people have rated it.</code></p><p class="lead">No consensus yet.</p></div>
@@ -89,7 +255,27 @@ title: Great, but mostly unknown, movies (not documentaries)
 <div class="col-xs-12 col-md-6"><div class="row"><div class="col-xs-9">
 <h3><a href='http://www.rottentomatoes.com/m/lawless_heart/'>Lawless Heart (2002)</a></h3><p><code>86&#37; of critics love it, but only 557 people have rated it.</code></p><p class="lead">Unconventional and refreshing, this strikingly un-Hollywood film takes a quiet and heartbreaking look at the warmth and inspiration of friendships lost.</p></div>
 <div class="col-xs-3"><br><br><img width=100% class="lazy" data-original="http://resizing.flixster.com/xb1VUiUzsO5Fr0hQ1g0rsWCHIOg=/100x142/dkpu1ddg7pbsk.cloudfront.net/movie/92/24/05/9224056_ori.jpg"></div></div></div>
-</div><div class="row">
+</div>
+
+
+<center>
+<div class="row">
+<div class="col-lg-12 visible-lg visible-md">
+
+<!-- Project Wonderful Ad Box Code -->
+<div style="text-align:center;"><div style="display:inline-block;" id="pw_adbox_76874_5_0"></div></div>
+<script type="text/javascript"></script>
+<noscript><div style="text-align:center;"><div style="display:inline-block;"><map name="admap76874" id="admap76874"><area href="http://www.projectwonderful.com/out_nojs.php?r=0&c=0&id=76874&type=5" shape="rect" coords="0,0,728,90" title="" alt="" target="_blank" /></map>
+<table cellpadding="0" cellspacing="0" style="width:728px;border-style:none;background-color:#ffffff;"><tr><td><img src="http://www.projectwonderful.com/nojs.php?id=76874&type=5" style="width:728px;height:90px;border-style:none;" usemap="#admap76874" alt="" /></td></tr><tr><td style="background-color:#ffffff;" colspan="1"><center><a style="font-size:10px;color:#0000ff;text-decoration:none;line-height:1.2;font-weight:bold;font-family:Tahoma, verdana,arial,helvetica,sans-serif;text-transform: none;letter-spacing:normal;text-shadow:none;white-space:normal;word-spacing:normal;" href="http://www.projectwonderful.com/advertisehere.php?id=76874&type=5" target="_blank">Ads by Project Wonderful!  Your ad here, right now: $0</a></center></td></tr></table></div></div>
+</noscript>
+<!-- End Project Wonderful Ad Box Code -->
+
+</div>
+</div>
+</center>
+
+
+<div class="row">
 <div class="col-xs-12 col-md-6"><div class="row"><div class="col-xs-9">
 <h3><a href='http://www.rottentomatoes.com/m/1216067-fifty_dead_men_walking/'>Fifty Dead Men Walking (2008)</a></h3><p><code>86&#37; of critics love it, but only 4,488 people have rated it.</code></p><p class="lead">Though somewhat uneven in places, Fifty Dead Men Walking is a gripping portrayal of Ireland's violent history, carried by the strong performances of its lead actors.</p></div>
 <div class="col-xs-3"><br><br><img width=100% class="lazy" data-original="http://resizing.flixster.com/jgELc7kLeTmkbt5jfcwzIaveKbA=/307x445/dkpu1ddg7pbsk.cloudfront.net/movie/11/15/45/11154579_ori.jpg"></div></div></div>
@@ -146,7 +332,7 @@ title: Great, but mostly unknown, movies (not documentaries)
 <h3><a href='http://www.rottentomatoes.com/m/belle_de_jour/'>Belle de Jour (1968)</a></h3><p><code>95&#37; of critics love it, but only 3,776 people have rated it.</code></p><p class="lead">No consensus yet.</p></div>
 <div class="col-xs-3"><br><br><img width=100% class="lazy" data-original="http://resizing.flixster.com/KeYS6OB-EW6b96W4lTyaiOhF8bw=/110x150/dkpu1ddg7pbsk.cloudfront.net/movie/10/86/32/10863255_ori.jpg"></div></div></div>
 </div>
-<center><div class="row"><div class="col-lg-12 visible-lg visible-md"><iframe src="http://rcm-na.amazon-adsystem.com/e/cm?t=techblogandli-20&o=1&p=48&l=ur1&category=musicandentertainmentrot&f=ifr&linkID=Q2UKCBH2NQB7PJWJ" width="728" height="90" scrolling="no" border="0" marginwidth="0" style="border:none;" frameborder="0"></iframe></div><div class="col-sm-12 visible-sm visible-xs"><iframe src="http://rcm-na.amazon-adsystem.com/e/cm?t=techblogandli-20&o=1&p=12&l=ur1&category=musicandentertainmentrot&f=ifr&linkID=32GFT4RW5USFC6L4" width="300" height="250" scrolling="no" border="0" marginwidth="0" style="border:none;" frameborder="0"></iframe></div></div></center>
+
 <div class="row">
 <div class="col-xs-12 col-md-6"><div class="row"><div class="col-xs-9">
 <h3><a href='http://www.rottentomatoes.com/m/felicias_journey/'>Felicia's Journey (1999)</a></h3><p><code>87&#37; of critics love it, but only 3,407 people have rated it.</code></p><p class="lead">No consensus yet.</p></div>
@@ -218,7 +404,7 @@ title: Great, but mostly unknown, movies (not documentaries)
 <h3><a href='http://www.rottentomatoes.com/m/the_inevitable_defeat_of_mister_and_pete/'>The Inevitable Defeat of Mister & Pete (2013)</a></h3><p><code>90&#37; of critics love it, but only 4,567 people have rated it.</code></p><p class="lead">No consensus yet.</p></div>
 <div class="col-xs-3"><br><br><img width=100% class="lazy" data-original="http://resizing.flixster.com/WKIesCkhAkqAtJukrDXFbou74LM=/800x1200/dkpu1ddg7pbsk.cloudfront.net/movie/11/17/60/11176063_ori.jpg"></div></div></div>
 </div>
-<center><div class="row"><div class="col-lg-12 visible-lg visible-md"><iframe src="http://rcm-na.amazon-adsystem.com/e/cm?t=techblogandli-20&o=1&p=48&l=ur1&category=musicandentertainmentrot&f=ifr&linkID=Q2UKCBH2NQB7PJWJ" width="728" height="90" scrolling="no" border="0" marginwidth="0" style="border:none;" frameborder="0"></iframe></div><div class="col-sm-12 visible-sm visible-xs"><iframe src="http://rcm-na.amazon-adsystem.com/e/cm?t=techblogandli-20&o=1&p=12&l=ur1&category=musicandentertainmentrot&f=ifr&linkID=32GFT4RW5USFC6L4" width="300" height="250" scrolling="no" border="0" marginwidth="0" style="border:none;" frameborder="0"></iframe></div></div></center>
+
 <div class="row">
 <div class="col-xs-12 col-md-6"><div class="row"><div class="col-xs-9">
 <h3><a href='http://www.rottentomatoes.com/m/easier_with_practice/'>Easier with Practice (2009)</a></h3><p><code>90&#37; of critics love it, but only 795 people have rated it.</code></p><p class="lead">This promising debut from writer-director Kyle Patrick Alvarez is anchored by a startlingly honest and tender performance from Brian Geraghty that helps make Easier with Practice more than just another road trip drama.</p></div>
@@ -290,7 +476,7 @@ title: Great, but mostly unknown, movies (not documentaries)
 <h3><a href='http://www.rottentomatoes.com/m/white_reindeer_2013/'>White Reindeer (2013)</a></h3><p><code>89&#37; of critics love it, but only 368 people have rated it.</code></p><p class="lead">No consensus yet.</p></div>
 <div class="col-xs-3"><br><br><img width=100% class="lazy" data-original="http://resizing.flixster.com/DXnwLbZFw40qFv8jjB93TuwdMTU=/284x405/dkpu1ddg7pbsk.cloudfront.net/movie/11/17/38/11173840_ori.jpg"></div></div></div>
 </div>
-<center><div class="row"><div class="col-lg-12 visible-lg visible-md"><iframe src="http://rcm-na.amazon-adsystem.com/e/cm?t=techblogandli-20&o=1&p=48&l=ur1&category=musicandentertainmentrot&f=ifr&linkID=Q2UKCBH2NQB7PJWJ" width="728" height="90" scrolling="no" border="0" marginwidth="0" style="border:none;" frameborder="0"></iframe></div><div class="col-sm-12 visible-sm visible-xs"><iframe src="http://rcm-na.amazon-adsystem.com/e/cm?t=techblogandli-20&o=1&p=12&l=ur1&category=musicandentertainmentrot&f=ifr&linkID=32GFT4RW5USFC6L4" width="300" height="250" scrolling="no" border="0" marginwidth="0" style="border:none;" frameborder="0"></iframe></div></div></center>
+
 <div class="row">
 <div class="col-xs-12 col-md-6"><div class="row"><div class="col-xs-9">
 <h3><a href='http://www.rottentomatoes.com/m/1015383-odd_man_out/'>Odd Man Out (1947)</a></h3><p><code>100&#37; of critics love it, but only 1,831 people have rated it.</code></p><p class="lead">No consensus yet.</p></div>
