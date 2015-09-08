@@ -7,7 +7,8 @@ keywords: "movies, reddit, unknown, rotten tomatoes, imdb, metacritic, best, fil
 <p class="lead">These are movies that are rated very highly by RT audiences but not loved by IMDB audiences or critics.</p>
 
 [Text version](http://rpiai.com/movies/text/imdb_hates_rt_loves.txt)
-
+<meta http-equiv="refresh" content="0; url=http://goodmovies.ninja/imdb_hates_rt_loves.html">
+<link rel="canonical" href="http://goodmovies.ninja/imdb_hates_rt_loves.html" />
 <div class="row">
 <div class="col-xs-12 col-md-6"><div class="row"><div class="col-xs-9">
 <h3><a href='http://www.rottentomatoes.com/m/2016_obamas_america/'>2016: Obama's America (2012)</a>&nbsp;<span class="bar">11,86,14,100</span></h3><p><code>IMDB: 5.1, RT Aud: 73&#37;, RT Critics: 25&#37;</code></p><p class="lead">No consensus yet.</p></div>
