@@ -8,6 +8,9 @@ keywords: "movies, reddit, overrated, rotten tomatoes, imdb, metacritic, best, f
 
 [Text version](http://rpiai.com/movies/text/critics_overrate.txt)
 
+
+<meta http-equiv="refresh" content="0; url=http://goodmovies.ninja/critics_overrate.html">
+<link rel="canonical" href="http://goodmovies.ninja/critics_overrate.html" />
 <div class="row">
 <div class="col-xs-12 col-md-6"><div class="row"><div class="col-xs-9">
 <h3><a href='http://www.rottentomatoes.com/m/room_237_2012/'>Room 237 (2013)</a>&nbsp;<span class="bar">42,49,88,100</span></h3><p><code>IMDB: 6.3, RT Aud: 55&#37;, RT Critics: 93&#37;</code></p><p class="lead">Mysterious and provocative, Room 237 is a fascinating journey into the world of obsessive cinephilles.</p></div>
