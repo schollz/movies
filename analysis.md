@@ -5,7 +5,8 @@ title: Analysis
 {% include JB/setup %}
 
 
-
+<meta http-equiv="refresh" content="0; url=http://goodmovies.ninja/analysis.html">
+<link rel="canonical" href="http://goodmovies.ninja/analysis.html" />
 <div class="row">
 <div class="col-md-4">
 <h4>More and more movies are released each decade.</h4>
