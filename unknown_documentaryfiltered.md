@@ -13,6 +13,8 @@ title: Great, but mostly unknown, movies (not documentaries)
 </div>
 
 
+<meta http-equiv="refresh" content="0; url=http://goodmovies.ninja/unknown_documentaryfiltered.html">
+<link rel="canonical" href="http://goodmovies.ninja/unknown_documentaryfiltered.html" />
 <center>
 <div class="row">
 <div class="col-lg-12 visible-lg visible-md">
