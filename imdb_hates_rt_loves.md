@@ -7,6 +7,7 @@ keywords: "movies, reddit, unknown, rotten tomatoes, imdb, metacritic, best, fil
 <p class="lead">These are movies that are rated very highly by RT audiences but not loved by IMDB audiences or critics.</p>
 
 [Text version](http://rpiai.com/movies/text/imdb_hates_rt_loves.txt)
+
 <meta http-equiv="refresh" content="0; url=http://goodmovies.ninja/imdb_hates_rt_loves.html">
 <link rel="canonical" href="http://goodmovies.ninja/imdb_hates_rt_loves.html" />
 <div class="row">
