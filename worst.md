@@ -8,6 +8,8 @@ keywords: "movies, reddit, unknown, recent, overrated, underrated, rotten tomato
 
 [Text version](http://rpiai.com/movies/text/worst.txt)
 
+<meta http-equiv="refresh" content="0; url=http://goodmovies.ninja/worst.html">
+<link rel="canonical" href="http://goodmovies.ninja/worst.html" />
 <div class="row">
 <div class="col-xs-12 col-md-6"><div class="row"><div class="col-xs-9">
 <h3><a href='http://www.rottentomatoes.com/m/10000_bc/'>10,000 B.C. (2008)</a>&nbsp;<span class="bar">10,20,5,100</span></h3><p><code>IMDB: 5.0, RT Aud: 37&#37;, RT Critics: 8&#37;</code></p><p class="lead">With attention strictly paid to style instead of substance, or historical accuracy, 10,000 B.C. is a visually impressive but narratively flimsy epic.</p></div>
