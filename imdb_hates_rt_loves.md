@@ -8,6 +8,7 @@ keywords: "movies, reddit, unknown, rotten tomatoes, imdb, metacritic, best, fil
 
 [Text version](http://rpiai.com/movies/text/imdb_hates_rt_loves.txt)
 
+
 <meta http-equiv="refresh" content="0; url=http://goodmovies.ninja/imdb_hates_rt_loves.html">
 <link rel="canonical" href="http://goodmovies.ninja/imdb_hates_rt_loves.html" />
 <div class="row">
