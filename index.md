@@ -6,7 +6,8 @@ keywords: "movies, reddit, unknown, recent, overrated, underrated, rotten tomato
 ---
 {% include JB/setup %}
 
-
+<meta http-equiv="refresh" content="0; url=http://goodmovies.ninja/">
+<link rel="canonical" href="http://goodmovies.ninja/" />
 <center>
 <div class="row">
 <div class="col-lg-12 visible-lg visible-md">
