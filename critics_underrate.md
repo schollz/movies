@@ -8,6 +8,8 @@ keywords: "movies, reddit, unknown, rotten tomatoes, imdb, metacritic, best, fil
 
 [Text version](http://rpiai.com/movies/text/critics_underrate.txt)
 
+<meta http-equiv="refresh" content="0; url=http://goodmovies.ninja/critics_underrate.html">
+<link rel="canonical" href="http://goodmovies.ninja/critics_underrate.html" />
 <div class="row">
 <div class="col-xs-12 col-md-6"><div class="row"><div class="col-xs-9">
 <h3><a href='http://www.rottentomatoes.com/m/house_of_d/'>House of D (2004)</a>&nbsp;<span class="bar">69,73,11,100</span></h3><p><code>IMDB: 7.0, RT Aud: 73&#37;, RT Critics: 9&#37;</code></p><p class="lead">A sincere but inept coming of age story.</p></div>
