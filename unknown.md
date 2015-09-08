@@ -8,6 +8,8 @@ keywords: "movies, reddit, unknown, recent, perfect, amazing, extraordinary, rot
 
 [Text version](http://rpiai.com/movies/text/unknown.txt)
 
+<meta http-equiv="refresh" content="0; url=http://goodmovies.ninja/unknown.html">
+<link rel="canonical" href="http://goodmovies.ninja/unknown.html" />
 <h3>As you'll notice a lot of the following recommendations are documentaries and art house films. If you'd like to read a list that excludes these genres, check out the <a href="unknown_documentaryfiltered.html">filtered great unknown list.</a></h3>
 <div class="row">
 <div class="col-xs-12 col-md-6"><div class="row"><div class="col-xs-9">
